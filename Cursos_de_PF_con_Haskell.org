@@ -74,79 +74,33 @@ ordenada por países y universidades.
 
 *** Univ. de la República, Montevideo
 
-+ [Programación funcional avanzada
-  ](https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma).
-  ~
-  [Marcos Viera](https://www.fing.edu.uy/~mviera/wiki/field.php?n=Main.Home) y
-  [Alberto Pardo](https://www.fing.edu.uy/~pardo/). 
++ [[https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma][Programación funcional avanzada]]. ~ [[https://www.fing.edu.uy/~mviera/wiki/field.php?n=Main.Home][M. Viera]] y [[https://www.fing.edu.uy/~pardo/][A. Pardo]]. 
 
-# Cursos que se están elaborando
+* Vídeos de Haskell
 
-+ Jacob Schrum (Krallm)
-  [Functional Programming 2014F](http://bit.ly/1zDKWaa)
-      + Contiene ejercicios en Haskell literario.
+*** Vídeo tutoriales de Haskell
++ [[http://bit.ly/1l7jLO9][Adventures in Haskell]]. ~ D. Silverstone
++ [[http://bit.ly/22ytFAK][Beginner Haskell exercises]]. ~ Mitchell Rosen
++ [[http://bit.ly/22yrNYC][Functional Programming Fundamentals]]. ~ E. Meijer
++ [[http://bit.ly/22ytOUM][Functional programming]]. ~ P. Wadler 
++ [[http://bit.ly/22ys91x][Haskell amuse-bouche]]. ~ M. Lentczner
++ [[http://bit.ly/1mQacrD][Haskell course]]. ~ P. Wadler
++ [[http://bit.ly/1l7jfjd][Haskell from scratch]].
++ [[http://bit.ly/22yrInC][Haskell programming tutorial]]. ~ superlinux
++ [[http://bit.ly/22yrzR8][Haskell tutorial: Learn you a Haskell]]. ~ R. Krishna
++ [[http://bit.ly/1JRl0OO][Por qué deberías aprender programación funcional ya mismo]]. ~ A. Marzal.
++ [[http://bit.ly/22ytqW6][Programming in Haskell]]. ~ R. Abdullah
 
-+ Erik Meijer
-  [Introduction to Functional Programming](http://bit.ly/1xUiLER)
-      + [Notas del curso en GitHub](http://bit.ly/1pfgEpV).
-      + Ejercicios en GitHub:
-        [AkronCodeClub](http://bit.ly/1qGcN5E),
-        [cmeury](http://bit.ly/1xUimCj),
-        [ebratt](https://github.com/ebratt/fp101),
-        [jmacias](http://bit.ly/1qGdknS),
-        [jugoncalves](https://github.com/jugoncalves/fp101.hs),
-        [lpil](http://bit.ly/1qGdETU),
-        [m90](https://github.com/m90/fp101),
-        [mzeijen](http://bit.ly/11zZspI),
-        [urmastalimaa](http://bit.ly/1qGd1K0),
-        [wmaurer](http://bit.ly/11zZbTC),
+*** Lista de vídeos de Haskell
++ [[http://bit.ly/22yt8yJ][Haskell graphics]]. ~ ungazik
++ [[http://bit.ly/1nNNm47][Lista de videos de Haskell en youtube]].
++ [[https://www.youtube.com/channel/UCHOBzbQLslZ_DLnNqgOD1CQ/playlists][Listas de Haskell Madrid]].
++ [[http://bit.ly/1mQaXkr][Popular Haskell videos]].
 
-# Vídeos de Haskell
+* Otros materiales
 
-+ Erik Meijer
-  [Functional programming fundamentals](http://bit.ly/1l7iWVA)
++ [[http://bit.ly/1qGjwMN][Haskell online study materials]].
 
-+ Philip Wadler
-  [Haskell course](http://bit.ly/1mQacrD).
 
-+ Daniel Silverstone
-  [Adventures in Haskell](http://bit.ly/1l7jLO9).
 
-+ [Haskell from scratch](http://bit.ly/1l7jfjd).
-
-+ [Popular Haskell videos](http://bit.ly/1mQaXkr).
-
-+ [Lista de videos de Haskell en youtube](http://bit.ly/1nNNm47).
-
-# Otros materiales
-
-+ [Haskell online study materials](http://bit.ly/1qGjwMN).
-
-* Vídeo tutoriales de Haskell
-
-+ [C9 Lectures: Functional Programming Fundamentals](http://bit.ly/22yrNYC)
-  ~ Erik Meijer
-
-+ [Haskell Amuse-Bouche](http://bit.ly/22ys91x)
-  ~ Mark Lentczner
-
-+ [Haskell Tutorial: Learn you a Haskell](http://bit.ly/22yrzR8)
-  ~ Ram Krishna
-
-+ [Haskell Programming Tutorial](http://bit.ly/22yrInC)
-  ~ superlinux
-
-+ [Programming in Haskell || Tutorials](http://bit.ly/22ytqW6)
-  ~ Rehan Abdullah
-
-+ [Functional Programming](http://bit.ly/22ytOUM)
-  ~ Wadler 
-
-+ [Beginner Haskell Exercises](http://bit.ly/22ytFAK)
-  ~ Mitchell Rosen
-
-* Lista de reproducción
-
-+ [Haskell graphics](http://bit.ly/22yt8yJ).
-  ~ ungazik
 

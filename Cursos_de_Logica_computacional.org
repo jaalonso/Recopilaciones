@@ -1,4 +1,4 @@
-#+TITLE:  Recopilación de cursos de Lógica computacional
+#+TITLE:  Cursos de Lógica computacional
 #+AUTHOR: José A. Alonso
 
 En esta página se recopilan cursos de lógica computacional. Está ordenada por

@@ -1,0 +1,98 @@
+#+TITLE:  Cursos de razonamiento automático y demostración asistida por ordenador
+#+AUTHOR: José A. Alonso
+#+DATE:   26 de mayo de 2016
+
+En esta página se recopilan cursos de razonamiento automático y demostración
+asistida por ordenador. Está ordenada por países y universidades.
+
+* Alemania
+
+*** Universidad de Friburgo
++ [[http://www.informatik.uni-freiburg.de/~ki/teaching/ws0910/csmr/lecture.html][Computer-supported modeling and reasoning]]. ~ Jan-Georg Smaus.
+
+*** Universidad técnica de Kaiserslautern
++ [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd Poetzsch-Heffter.
+
+*** Universidad técnica de Munich (TUM)
++ [[http://www4.in.tum.de/~ballarin/belgrade08-tut][Introduction to the Isabelle proof assistant]]. ~ C. Ballarin. 
++ [[http://isabelle.in.tum.de/coursematerial/IJCAR04][Introduction to the Isabelle proof assistant]]. ~ C. Ballarin y G. Klein.
++ [[http://www4.informatik.tu-muenchen.de/~nipkow/semantics][Semantics of programming languages]]. ~ Tobias Nipkow.
++ [[http://isabelle.in.tum.de/coursematerial/PSV2009-1][Theorem proving with Isabelle/HOL: An intensive course]]. ~ Tobias Nipkow.
+
+* Australia
+
+*** NICTA
++ [[http://www.cse.unsw.edu.au/~cs4161/index.html][Advanced topics in software verification]]. ~ Gerwin Klein.
++ [[http://www.cse.unsw.edu.au/~kleing/teaching/thprv-04][Theorem proving: Principles, techniques, applications]]. ~ Gerwin Klein.
+
+* Austria
+
+*** Universidad de Innsbruck
++ [[http://cl-informatik.uibk.ac.at/teaching/ws06/atp/introduction.php][Automated theorem proving in Isabelle/HOL]]. ~ C. Ballarin y T. Weber.
++ [[http://cl-informatik.uibk.ac.at/teaching/ss08/atp/introduction.php][Automatic deduction]]. ~ C. Ballarin.
++ [[http://cl-informatik.uibk.ac.at/teaching/ss11/eve/content.php][Experiments in verification: Introduction to Isabelle/HOL]]. ~ Christian Sternagel
+
+* Brasil
+
+*** Universidad Federal de Rio Grande del Norte
++ [[http://www.dimap.ufrn.br/~jmarcos/courses/LC/Ementa.htm][Lógica computacional: Demonstração assistida e semi-automática de
+  teoremas]]. ~ Joao Marcos. 
+
+* Escocia
+
+*** Universidad de Edimburgo
++ [[http://www.inf.ed.ac.uk/teaching/courses/ar/slides][Automated reasoning]]. ~ J. Fleuriot y P. Jackson.
+
+* Estados Unidos
+
+*** Carnegie Mellon
++ [[http://www.phil.cmu.edu/~avigad/formal][Logic and formal verification]]. ~ J. Avigad.
+
+*** MIT
++ [[http://stellar.mit.edu/S/course/6/fa11/6.892/][Interactive computer theorem proving]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
++ [[https://frap.csail.mit.edu/main][Formal reasoning about programs]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
+
+*** Univ. de Colorado
++ [[http://www.cs.colorado.edu/~siek/7000/spring07/][Practical theorem proving with Isabelle/Isar]]. ~ Jeremy G. Siek.
++ [[http://ecee.colorado.edu/~siek/ecen5013/spring11][Theorem proving in Isabelle]]. ~ Jeremy G. Siek.
+
+*** Univ. de Northeastern
++ [[http://www.ccs.neu.edu/home/riccardo/courses/csu290-sp09/index.html][Logic and computation]]. ~ [[http://www.ccs.neu.edu/home/riccardo/index.html][R. Pucella]].
+
+*** Univ. de Pensilvania
++ [[http://www.cis.upenn.edu/~bcpierce/sf/current/index.html][Software foundations]]. ~ [[http://www.cis.upenn.edu/~bcpierce/][B.C. Pierce]] et als.
+
+*** Universidad de Tejas en Austin
++ [[http://www.cs.utexas.edu/~isil/cs395t][Automated logical reasoning]]. ~ [[http://www.cs.utexas.edu/~isil][I. Dillig]]. 
++ [[http://www.cs.utexas.edu/~hunt/class/2015-fall/cs395t/index.html][SAT solving and theorem proving]]. ~ [[http://www.cs.utexas.edu/~hunt][W.A. Hunt, Jr.]]
+
+
+* Finlandia
+
+*** Universidad Åbo Akademi
++ [[http://users.abo.fi/vpreotea/isabelle-2012][Introduction to mechanized reasoning with Isabelle/HOL]]. ~ Viorel Preoteasa,
+  Ralph-Johan Back y Charmi Panchal. 
+
+* Francia
+
+*** Universidad de Rennes 1
++ [[http://www.irisa.fr/celtique/genet/ACF/][Analyse et conception formelles]]. ~ [[http://www.irisa.fr/celtique/genet][T. Genet]].
++ [[http://www.irisa.fr/celtique/genet/ACF][Software formal analysis and design]]. ~ T. Genet.
+
+* Reino Unido
+
+*** Universidad de Cambridge
++ [[http://www.cl.cam.ac.uk/teaching/0910/L21][Interactive formal verification]]. ~ Larry Paulson.
++ [[http://www.cl.cam.ac.uk/teaching/1011/L21][Interactive formal verification]]. ~ Tjark Weber.
+
+* Suecia
+
+*** Real Instituto de Tecnología (KTH)
++ [[http://www.csc.kth.se/utbildning/kth/kurser/DD2453/aform07][Advanced formal methods]]. ~ M. Dam.
+
+* Suiza
+
+*** ETH de Zúrich
++ [[http://archiv.infsec.ethz.ch/education/permanent/csmr.html][Computer-supported modeling and reasoning]]. ~ A.D. Brucker, D. Basin,
+  J.G. Smaus y B. Wolff.
+

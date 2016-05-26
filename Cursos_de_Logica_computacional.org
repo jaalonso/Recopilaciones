@@ -14,7 +14,6 @@ países y universidades.
 * Brasil
 
 *** Universidad Federal de Rio Grande del Norte
-
 + [[https://sites.google.com/site/sequiturquodlibet/courses/laac][Lógica aplicada à computação]]. ~ [[https://sites.google.com/site/sequiturquodlibet/][J. Marcos]].
 
 * Canadá

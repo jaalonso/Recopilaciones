@@ -8,9 +8,6 @@ Matemáticas]] de la Universidad de Sevilla.
 
 Está ordenada por países y universidades.
 
-En esta página se recopilan cursos de programación funcional con Haskell. Está
-ordenada por países y universidades.
-
 * Alemania
 
 *** Universidad de Darmouth

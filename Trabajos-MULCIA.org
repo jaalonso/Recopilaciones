@@ -7,7 +7,6 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
-** 2016 
 
 *** Mayo de 2016
 
@@ -117,7 +116,7 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 06-Mar-16: PhD studentship on "Declarative Programming for Data Science"
   http://bit.ly/1U3rbX1 #PhD #CompSci #DP #DataScience
 
-** Febrero de 2016
+*** Febrero de 2016
 
 + 26-Feb-16: Two postdoc positions in reasoning about concurrent and distributed
   systems. Imperial College London. http://bit.ly/1QlEDAN

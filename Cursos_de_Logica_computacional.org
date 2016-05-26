@@ -1,5 +1,6 @@
 #+TITLE:  Cursos de Lógica computacional
 #+AUTHOR: José A. Alonso
+#+DATE:   26 de mayo de 2016
 
 En esta página se recopilan cursos de lógica computacional. Está ordenada por
 países y universidades.

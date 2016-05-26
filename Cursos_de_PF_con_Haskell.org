@@ -7,18 +7,18 @@ ordenada por países y universidades.
 
 * Alemania
 
-** Univ. de Darmouth
+*** Univ. de Darmouth
 + [[http://www.cs.dartmouth.edu/~cs8/F2011][Problem solving with computer science]]. ~ S. Drysdale
 
 * Argentina
 
-** Universidad de Buenos Aires
+*** Universidad de Buenos Aires
 
 + [[http://www.dc.uba.ar/materias/plp/2014/cuat1/descargas/apuntes/index.html][Paradigmas de lenguajes de programación]]. ~ [[https://sites.google.com/site/eabonelli][E. Bonelli]] y [[http://www.dc.uba.ar/rrhh/profesores/rios][A. Ríos]].
 
 * Australia
 
-** NICTA
+*** NICTA
 
 + [[https://github.com/NICTA/course][Functional programming course]]. ~ T. Morris y M. Hibberd.
   
@@ -28,51 +28,51 @@ ordenada por países y universidades.
 
 * Estados Unidos
 
-** Universidad de Pensilvania
+*** Universidad de Pensilvania
 
 + [[http://www.seas.upenn.edu/~cis552/13fa/][Advanced programming]]. ~ [[http://www.seas.upenn.edu/~sweirich][S. Weirich]].
 + [[http://www.cis.upenn.edu/~cis194][Introduction to Haskell]]. ~ B. Yorgey.
 
-** Universidad de Princeton
+*** Universidad de Princeton
 + [[https://www.cs.princeton.edu/~dpw/cos441-11/index.html][Programming languages]]. ~ [[http://www.cs.princeton.edu/~dpw/][D. Walker]].
 
-** Universidad de Stanford
+*** Universidad de Stanford
 + [[http://www.scs.stanford.edu/14sp-cs240h][Functional systems in Haskell]]. D. Mazières y B. O'Sullivan.
 
 * Finlandia
 
-** Universidad de Jyväskylä
+*** Universidad de Jyväskylä
 + [[http://functional-programming.it.jyu.fi/pages/Course.md][Introduction to functional programming]]. ~ [[http://users.jyu.fi/~sapekiis/index/index.html][S. Kiiskinen]].
 + [[http://functional-programming.it.jyu.fi/pages/Tasks2.md][Functional programming 2]]. ~ [[http://users.jyu.fi/~sapekiis/index/index.html][S. Kiiskinen]]
 
 * Francia
 
-** Universidad de Aix-Marsella
+*** Universidad de Aix-Marsella
 + [[http://pageperso.lif.univ-mrs.fr/~luigi.santocanale//teaching/1314teaching/PF][Programmation fonctionnelle]]. ~ L. Santocanale
   
 * Países Bajos
 
-** Universidad de Utrecht
+*** Universidad de Utrecht
 + [[http://foswiki.cs.uu.nl/foswiki/Afp/EducationPage][Advanced functional programming]]. ~ [[http://foswiki.cs.uu.nl/foswiki/Atze/WebHome][A. Dijkstra]] y [[http://www.staff.science.uu.nl/~swier004/][W. Swierstra]].
 + [[http://foswiki.cs.uu.nl/foswiki/Afp0405][Advanced functional programming]] (2005-06). ~ [[http://www.open.ou.nl/bhr/][B. Heeren]] y [[http://foswiki.cs.uu.nl/foswiki/Swierstra/WebHome][D. Swierstra]].
  
 * Suecia
 
-** Univ. de Chalmers
+*** Univ. de Chalmers
 + [[http://www.cse.chalmers.se/edu/year/2011/course/TDA555/schedule.html][Introduction to functional programming]]. (2011-12). ~ K.L. Claessen
   + Las soluciones de ejercicios están [[https://github.com/sjaxel/TDA555-Lab][aquí]].
 
 + [[http://www.cse.chalmers.se/edu/course/afp][Advanced functional programming]] (2015-16). ~ [[http://www.cse.chalmers.se/~patrikj][P. Jansson]].
   + El material del curso también está en [[https://github.com/patrikja/AFPcourse][GitHub]].
 
-** Univ. de Mälardalen
+*** Univ. de Mälardalen
 
 + [Functional Programming, 2007 
   ](http://www.idt.mdh.se/kurser/cd5100) ~ [Björn Lisper](http://www.idt.mdh.se/~blr)
 
 * Uruguay
 
-** Univ. de la República, Montevideo
+*** Univ. de la República, Montevideo
 
 + [Programación funcional avanzada
   ](https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma).

@@ -1,0 +1,18 @@
+#+TITLE: Ofertas de trabajo de interés para el MULCIA 
+
+En esta página se recopilan las ofertas de trabajo de interés para los
+estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia
+Artificial]] de la [[http://www.us.es][de la Universidad de Sevilla]].
+
+Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
+el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
+
++ 26-May-16: PhD position at INRIA Grenoble: "Formal proofs for the analysis of
+  real-time systems in Coq" http://bit.ly/1qL7uYF #PhD #CompSci #Coq
+
++ 26-May-16: PhD position at INRIA Grenoble: "Analysis and types for safe
+  dynamic software configurations". http://bit.ly/1TLjUvp #PhD #CompSci
+
++ 26-May-16: PhD position at INRIA Grenoble: "Programming IoT and software
+  defined radio with dynamic data-flow models of computation"
+  http://bit.ly/1TLkCZF #PhD #CompSci

@@ -1,0 +1,41 @@
+#+TITLE:  Recopilación de cursos de Lógica computacional
+#+AUTHOR: José A. Alonso
+
+En esta página se recopilan cursos de lógica computacional. Está ordenada por
+países y universidades.
+
+* Alemania
+
+** Universidad Técnica de Munich
++ [[http://www21.in.tum.de/teaching/logik/SS16][Logic]]. ~ [[http://www21.in.tum.de/~lammich/][P. Lammich]], [[http://www21.in.tum.de/~nipkow/][T. Nipkow]] y [[http://home.in.tum.de/~wimmers/][S. Wimmer]].
++ [[http://www4.in.tum.de/lehre/vorlesungen/Logic/WS1213/index.shtml][Applied logic in engineering]]. ~ [[http://www.spichkova.com][M. Spichkova]] y [[https://www4.in.tum.de/~broy/][Manfred Broy]]
+
+* Brasil
+
+** Universidad Federal de Rio Grande del Norte
+
++ [[https://sites.google.com/site/sequiturquodlibet/courses/laac][Lógica aplicada à computação]]. ~ [[https://sites.google.com/site/sequiturquodlibet/][J. Marcos]].
+
+* Canadá
+
+** Universidad de Waterloo
+
++ [[https://ece.uwaterloo.ca/~vganesh/TEACHING/F2013/SATSMT/index.html][Computer-aided reasoning for software engineering]]. ~ [[https://ece.uwaterloo.ca/~vganesh][V. Ganesh]].
+
+* Francia
+
+** Universidad de París Diderot París 7
+
++ [[http://www.pps.univ-paris-diderot.fr/~kesner/enseignement/licence/logique/index.html][Logique]] ~ [[http://www.pps.univ-paris-diderot.fr/~kesner][D. Kesner]].
++ [[http://www.pps.univ-paris-diderot.fr/~kesner/enseignement/ol3/index.html][Outils logiques]] ~ [[http://www.pps.univ-paris-diderot.fr/~buccia][A. Bucciarelli]], [[http://www.pps.univ-paris-diderot.fr/~kesner][D. Kesner]] y [[http://www.pps.univ-paris-diderot.fr/~treinen][R. Treinen]].
+
+** Universidad de París-Saclay
+
++ [[http://www.enseignement.polytechnique.fr/informatique/INF551][Computational logic: Artificial intelligence in mathematical reasoning]]. ~
+  [[http://www.lix.polytechnique.fr/~lengrand/][S. Graham-Lengrand]] y [[http://www.logic.at/staff/shaolin/][T. Libal]].
+
+* Suecia
+
+** Universidad de Chalmers
+
++ [[http://www.cse.chalmers.se/edu/course/DAT060][Logic in computer science]]. ~ [[http://www.cse.chalmers.se/~smith/][J. Smith]] y [[http://www.cse.chalmers.se/~coquand/][T. Coquand]]. 

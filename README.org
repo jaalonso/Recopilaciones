@@ -1,5 +1,6 @@
 El contenido de este directorio el siguiente:
 
++ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_Logica_computacional.org][Cursos de lógica computacional]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Trabajos-MULCIA.org][Trabajos-MULCIA]]: Ofertas de trabajo de interés para los estudiantes del
   Máster Universitario en Lógica, Computación e Inteligencia Artificial de la
   Universidad de Sevilla.

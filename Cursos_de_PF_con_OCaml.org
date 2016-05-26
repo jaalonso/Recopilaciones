@@ -8,7 +8,6 @@ ordenada por países y universidades.
 * Austria
 
 *** University of Innsbruck
-
 + [[http://cl-informatik.uibk.ac.at/teaching/ws14/fp/content.php][Functional programming]]. ~ [[http://cl-informatik.uibk.ac.at/~cek/][Cezary Kaliszyk]].
 
 * Francia

@@ -3,7 +3,10 @@
 #+DATE:   26 de mayo de 2016
 
 En esta página se recopilan cursos de razonamiento automático y demostración
-asistida por ordenador. Está ordenada por países y universidades.
+asistida por ordenador que sirven de referencia al curso [[http://www.cs.us.es/~jalonso/cursos/m-ra/][Razonamiento
+automático]] de la Universidad de Sevilla.
+
+Está ordenada por países y universidades.
 
 * Alemania
 
@@ -65,7 +68,6 @@ asistida por ordenador. Está ordenada por países y universidades.
 *** Universidad de Tejas en Austin
 + [[http://www.cs.utexas.edu/~isil/cs395t][Automated logical reasoning]]. ~ [[http://www.cs.utexas.edu/~isil][I. Dillig]]. 
 + [[http://www.cs.utexas.edu/~hunt/class/2015-fall/cs395t/index.html][SAT solving and theorem proving]]. ~ [[http://www.cs.utexas.edu/~hunt][W.A. Hunt, Jr.]]
-
 
 * Finlandia
 

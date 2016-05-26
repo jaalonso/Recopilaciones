@@ -7,6 +7,10 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+* 2016 
+
+*** Mayo de 2016
+
 + 26-May-16: PhD position at INRIA Grenoble: "Formal proofs for the analysis of
   real-time systems in Coq" http://bit.ly/1qL7uYF #PhD #CompSci #Coq
 
@@ -16,3 +20,147 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 26-May-16: PhD position at INRIA Grenoble: "Programming IoT and software
   defined radio with dynamic data-flow models of computation"
   http://bit.ly/1TLkCZF #PhD #CompSci
+
++ 21-May-16: Funded PhD (3 years) in program analysis at IRIF (Paris,
+  France). http://bit.ly/1sIYEg0 #PhD #CompSci
+
++ 21-May-16: Funded Post-doc positions in program analysis and verification at IRIF
+  (Paris, France). http://bit.ly/1sIYzZY #PostDoc #CompSci
+
++ 21-May-16: Postdoctoral position in stochastic games, Bordeaux
+  (France). http://bit.ly/1VemACJ #PostDoc #CompSci
+
++ 12-May-16: #PhD (#PostDoc) position in software verification and synthesis at the Max
+  Planck Institute for Software Systems http://bit.ly/1WsRBVb #CompSci
+
++ 12-May-16: Postdoctoral position in logic, Amsterdam (The Netherlands). 
+  http://bit.ly/1QZCauY #PostDoc #Logic #CompSci
+
++ 12-May-16: PhD student position in Algorithms, Bergen (Norway). http://bit.ly/1QZCbz8 
+  #PhD #CompSci
+
++ 10-May-16: PostDocs and PhD positions on the project "Skye: A programming
+  language bridging theory and practice for scientific data
+  curation". http://bit.ly/27a1c6y
+
++ 06-May-16: Several postdoctoral and Ph.D. positions at ENS Lyon, France, in the area of
+  verification and certification. http://bit.ly/1ZmUUKQ #PhD #PostDoc #CompSci
+
++ 06-May-16: Two #PhD studentships in the area of correct and efficient programming for
+  concurrent and parallel systems. IC, London. http://bit.ly/1ZmQ2FJ #CompSci
+
++ 06-May-16: Postdoctoral position in Algorithms, TU Munich (Germany). 
+  http://bit.ly/1ZmRV5c #PostDoc #CompSci
+
++ 02-May-16: Verification of randomized algorithms: open PhD/post doc
+  position. TUM, Munich http://bit.ly/1VGEYVS #PhD #CompSci #IsabelleHOL
+
+*** Abril de 2016
+
++ 30-Abr-16: PhD position in formal modelling and verification for high
+  assurance at KTH Royal Institute of Technology. http://bit.ly/1SE6FsD 
+  #PhD #CompSci
+
++ 29-Abr-16: Postdoctoral position in mathematical logic, Salerno
+  (Italy). http://bit.ly/248n96Y #PostDoc #Logic
+
++ 29-Abr-16: Postdoctoral or PhD student position in computation with bounded resources,
+  Innsbruck (Austria). http://bit.ly/248njv1 #PhD #PostDoc #CompSci
+
++ 28-Abr-16: Postdoc position in domain-specific languages. Tufts
+  University. http://bit.ly/1N2h1p5 #PostDoc #CompSci
+
++ 26-Abr-16: PhD student position in formal modeling and analysis of security,
+  Rennes (France). http://bit.ly/1pArNaF #PhD #CompSci
+
++ 26-Abr-16: PhD student position in theoretical computer science, Karlsruhe
+  (Germany). http://bit.ly/1pArVHo #PhD #CompSci
+
++ 23-Abr-16: Ph.D. position in security modeling at IRISA in Rennes, France. 
+  http://bit.ly/1VJohtd #PhD #CompSci
+
++ 18-Abr-16: Contract postdoctoral position in biological programming languages at
+  Microsoft Research Cambridge. http://bit.ly/1VdQfg4 #PostDoc #CompSci
+
++ 18-Abr-16: Verification of randomized algorithms in the theorem prover Isabelle: open
+  PhD/post doc position at TUM. http://bit.ly/1VdRgVl #PhD #CompSci 
+
++ 18-Abr-16: Postdoc position in semantics and effects. University of
+  Birmingham. http://bit.ly/1VdSgcc #PostDoc #CompSci
+
++ 14-Abr-16: PostDoc in algorithms and complexity at University of Oxford. 
+  http://bit.ly/1ShlDJZ #PostDoc #CompSci
+
++ 12-Abr-16: Funded PhD on concurrency modelling using ideas from formal
+  verification at Univ. of York, UK. http://bit.ly/25Wi1RU #PhD #CompSci
+
++ 10-Abr-16: PhD student position in on-line privacy using multi-agent systems,
+  London (England). http://bit.ly/1S3ulbu #PhD #CompSci
+
++ 01-Abr-16: Postdoc ad: quantum-computing programming
+  languages. http://bit.ly/1SFCzqi #PostDoc #CompSci 
+
+*** Marzo de 2016
+
++ 31-Mar-16: PhD position in guarded homotopy type theory. 
+  http://bit.ly/1TlfvPZ #PhD #CompSci
+
++ 27-Mar-16: PhD position at LaBRI Bordeaux France. Subject: higher-order
+  verification. http://bit.ly/1VOCvaA #PhD #CompSci
+
++ 20-Mar-16: PhD and Post-Doc positions in formal methods at Chalmers. 
+  http://bit.ly/1SaKJ9S #PhD #PosDoc #CompSci 
+
++ 17-Mar-16: 2 Ph.D positions on Formal Methods for Rule-based agent safety and
+  concurrent system analysis (U. of Oslo). http://bit.ly/1LtAnTj #PhD #CompSci
+
++ 06-Mar-16: PhD studentship on "Declarative Programming for Data Science"
+  http://bit.ly/1U3rbX1 #PhD #CompSci #DP #DataScience
+
+** Febrero de 2016
+
++ 26-Feb-16: Two postdoc positions in reasoning about concurrent and distributed
+  systems. Imperial College London. http://bit.ly/1QlEDAN
+
++ 23-Feb-16: 4-year PhD studentship on "Declarative Programming for Data
+  Science", University of Edinburgh. http://bit.ly/1OrL7Mh #CompSci #PhD
+
++ 23-Feb-16: PhD and Post-Doc positions in formal methods and security,
+  Chalmers University of Technology. http://bit.ly/1RkdZL0 #PhD #CompSci
+
++ 18-Feb-16: Postdoctoral Research Fellow in Artificial Intelligence. Western
+  Sydney University. http://bit.ly/1U9VjAh #PostDoc #CompSci
+
++ 15-Feb-16: Postdoc position at Tulane on the "Semantics, formal reasoning,
+  and tool support for quantum programming" project. http://bit.ly/1KQyEXF #CompSci
+
++ 11-Feb-16: Phd/PostDoc positions in formal methods for distributed systems at
+  University Paris Diderot, France. http://bit.ly/1WglkfP #PostDoc #CompSci
+
++ 03-Feb-16: Postdoctoral position in functional, constraint and/or logic programming at
+  KU Leuven. http://bit.ly/1PSet7A #PostDoc #CompSci
+
+*** Enero de 2016
+
++ 20-Ene-16: Postdoc position on hardware verification at NTU
+  Singapore. http://bit.ly/1ltVFDH #PostDoc #CompSci 
+
++ 20-Ene-16: Postdoc position on security protocol verification at NTU
+  Singapore. http://bit.ly/1ltVUP1 #PostDoc #CompSci 
+
++ 15-Ene-16: Postdoctoral and PhD positions in LFCS on graph databases,
+  provenance, and programming languages. http://bit.ly/1Zztq9z #PostDoc #CompSci
+
++ 12-Ene-16: Postdoc position at Penn on the DeepSpec
+  project. http://bit.ly/1ZhC4Ux #PostDoc #CompSci
+
++ 09-Ene-16: ERC project "RustBelt" on foundations for Rust -- Postdoc and PhD
+  positions available! http://bit.ly/1Pk6osr #PostDoc #PhD #CompSci
+
++ 07-Ene-16: Postdocs at Tulane on semantics of quantum programming
+  languages. http://bit.ly/1SCm8fI #PostDoc #CompSci 
+
+ 
+
+
+

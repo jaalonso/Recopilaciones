@@ -2,7 +2,7 @@
 
 En esta página se recopilan las ofertas de trabajo de interés para los
 estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia
-Artificial]] de la [[http://www.us.es][de la Universidad de Sevilla]].
+Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].

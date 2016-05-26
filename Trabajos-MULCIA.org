@@ -7,7 +7,6 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
-
 *** Mayo de 2016
 
 + 26-May-16: PhD position at INRIA Grenoble: "Formal proofs for the analysis of

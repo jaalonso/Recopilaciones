@@ -1,5 +1,5 @@
-El contenido de este directorio el sigiente:
+El contenido de este directorio el siguiente:
 
-+ Ofertas de trabajo de interés para los estudiantes del 
-  [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gica,_Computaci%C3%B3n_e_Inteligencia_Artificial][Máster Universitario en Lógica, Computación e Inteligencia Artificial]] 
-  de la [[http://www.us.es][de la Universidad de Sevilla]].
++ [[https://github.com/jaalonso/Recopilaciones/blob/master/Trabajos-MULCIA.org][Trabajos-MULCIA]]: Ofertas de trabajo de interés para los estudiantes del
+  Máster Universitario en Lógica, Computación e Inteligencia Artificial de la
+  Universidad de Sevilla.

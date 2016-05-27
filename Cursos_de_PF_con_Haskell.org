@@ -10,17 +10,17 @@ Matemáticas]] de la Universidad de Sevilla.
 
 Está ordenada por países y universidades.
 
-* Table of Contents                                                     :TOC:
+                                                                       
 
-* Alemania
+* Alemania :TOC:
 
 ** Universidad de Darmouth
 + [[http://www.cs.dartmouth.edu/~cs8/F2011][Problem solving with computer science]]. ~ S. Drysdale
 
 ** Universidad técnica de Munich (TUM)
 + [[http://wwwnipkow.in.tum.de/teaching/info2/WS1213/slides.pdf][Informatik 2: Functional programming]]. ~ T. Nipkow.
-
-* Argentina
+ 
+* Argentina :TOC:
 
 ** Universidad de Buenos Aires
 

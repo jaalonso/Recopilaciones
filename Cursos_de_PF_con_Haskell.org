@@ -2,9 +2,6 @@
 #+AUTHOR:  José A. Alonso
 #+DATE:    26 de mayo de 2016
 #+OPTIONS: H:2 num:t 
-#+OPTIONS: toc:2
-
-:TOC_2_gh: 
 
 En esta página se recopilan cursos de programación funcional con Haskell que
 sirven de referencia al curso de [[http://www.cs.us.es/~jalonso/cursos/i1m][Informática de primero del Grado en

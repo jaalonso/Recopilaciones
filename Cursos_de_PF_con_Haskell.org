@@ -10,8 +10,6 @@ Matemáticas]] de la Universidad de Sevilla.
 
 Está ordenada por países y universidades.
 
-[TABLE-OF-CONTENTS]
-
 * Alemania
 
 ** Universidad de Darmouth

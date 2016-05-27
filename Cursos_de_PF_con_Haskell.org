@@ -1,7 +1,7 @@
 #+TITLE:   Cursos de programación funcional con Haskell
 #+AUTHOR:  José A. Alonso
 #+DATE:    26 de mayo de 2016
-#+OPTIONS: H:2 num:t
+#+OPTIONS: H:2 num:t 
 #+OPTIONS: toc:2
 
 En esta página se recopilan cursos de programación funcional con Haskell que

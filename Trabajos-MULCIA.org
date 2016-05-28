@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2016
 
++ 28-May-16: PhD student position in knowledge-based systems, Lisbon
+  (Portugal). http://bit.ly/1Wsn8WW #PhD #CompSci 
+
 + 26-May-16: PhD position at INRIA Grenoble: "Formal proofs for the analysis of
   real-time systems in Coq" http://bit.ly/1qL7uYF #PhD #CompSci #Coq
 

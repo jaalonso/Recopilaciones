@@ -9,6 +9,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2016
 
++ 30-May-16: Two-year postdoctoral positions at the Institute UC3M-BS of
+  Financial Big Data, Univ. Carlos III de Madrid, Spain. http://bit.ly/27YHdrP
+  #PostDoc
+
 + 30-May-16: Semantic systems application architect (KTP associate). Univ. of
   Manchester. http://bit.ly/1U6ZaKD #Job #CompSci
 

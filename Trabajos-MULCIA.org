@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2016
 
++ 30-May-16: Semantic systems application architect (KTP associate). Univ. of
+  Manchester. http://bit.ly/1U6ZaKD #Job #CompSci
+
 + 28-May-16: PhD student position in knowledge-based systems, Lisbon
   (Portugal). http://bit.ly/1Wsn8WW #PhD #CompSci 
 

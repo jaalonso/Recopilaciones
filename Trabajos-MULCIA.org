@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo de 2016
 
++ 31-May-16: PhD student or postdoctoral position on oligomorphic clones,
+  Vienna (Austria). http://bit.ly/22w5VvN #PhD #PostDoc #Logic
+
 + 30-May-16: Two-year postdoctoral positions at the Institute UC3M-BS of
   Financial Big Data, Univ. Carlos III de Madrid, Spain. http://bit.ly/27YHdrP
   #PostDoc
@@ -37,6 +40,16 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 + 21-May-16: Postdoctoral position in stochastic games, Bordeaux
   (France). http://bit.ly/1VemACJ #PostDoc #CompSci
+
++ 19-May-16: Hiring Haskell engineers at LeapYear, a data security
+  company. http://bit.ly/22w6ohy #Job #Haskell 
+
++ 18-May-16: Target Haskell data scientist job in Sunnyvale, California, United
+  States. http://bit.ly/1WEjh98 #Job #Haskell #DataScience
+
++ 15-May-16: Research associate positions in refactoring functional programs
+  and formal verification (for CakeML). Univ. of Kent http://bit.ly/1spwTci
+  #Job #CompSci
 
 + 12-May-16: #PhD (#PostDoc) position in software verification and synthesis at the Max
   Planck Institute for Software Systems http://bit.ly/1WsRBVb #CompSci

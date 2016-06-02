@@ -7,6 +7,23 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Junio de 2016
+
++ 01-Jun-16: PhD student position in Logic for Multiscale Network Modelling,
+  Leeds (England). http://bit.ly/1WZZhOm #PhD #CompSci
+
++ 01-Jun-16: Associate senior lectureship (4y) in computational linguistics,
+  Gothenburg (Sweden). http://bit.ly/1WZZtNq #Job #CompSci
+
++ 01-Jun-16: Postdoctoral fellowship in security of cyber-physical
+  systems. http://bit.ly/1WZZqRZ #PostDoc #CompSci
+
++ 01-Jun-16: Functional Jobs: Software Engineer (Haskell/Clojure) at Capital
+  Match(Full-time) http://bit.ly/1Pm3b1C #Job #Haskell
+
++ 01-Jun-16: Functional Jobs: CTO (Haskell/Clojure) at Capital Match
+  (Full-time) http://bit.ly/1Pm2qWr #Job #Haskell
+
 *** Mayo de 2016
 
 + 31-May-16: PhD student or postdoctoral position on oligomorphic clones,

@@ -9,6 +9,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 05-Jun-16: PhD Position in Machine Learning. AIT Austrian Institute of
+  Technology, Department of Technology http://bit.ly/1Uq1T1K #PhD #CompSci
+
++ 05-Jun-16: PhD Student in Computer Science. University of Innsbruck,
+  Department of Computer Science. http://bit.ly/1Uq1FYs #PhD #CompSci
+
++ 04-Jun-16: Lispjobs: Secure Outcomes, contract Common Lisp programmer
+  http://bit.ly/1XqNycC #Job #Common_Lisp 
+
 + 01-Jun-16: PhD student position in Logic for Multiscale Network Modelling,
   Leeds (England). http://bit.ly/1WZZhOm #PhD #CompSci
 

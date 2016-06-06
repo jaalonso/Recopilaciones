@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 06-Jun-16: Senior Clojure position where you can build a new approach to personal
+  finance. http://hubs.ly/H03cmF70 #Clojure
+
 + 05-Jun-16: Postdoctoral position in machine learning at the University of
   Pennsylvania. http://bit.ly/28czZQZ #PostDoc #CompSci 
 

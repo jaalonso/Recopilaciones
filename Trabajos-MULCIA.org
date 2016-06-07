@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 07-Jun-16: Postdoc position in type systems at the New Jersey Institute of
+  Technology (NYC area) http://bit.ly/1teDmY4 #PostDoc #CompSci
+
 + 06-Jun-16: Senior Clojure position where you can build a new approach to personal
   finance. http://hubs.ly/H03cmF70 #Clojure
 

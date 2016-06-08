@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 08-Jun-16: PhD student position on formal methods for testing of networks of
+  controllers, Grenoble (France) http://bit.ly/1X9JHjd #PhD #CompSci
+
++ 08-Jun-16: Postdoc in formal methods for system-level security at Univ. Lille
+  & CNRS, France. http://bit.ly/1X9JCfj #PostDoc #CompSci
+
 + 07-Jun-16: Jobs in verified refactoring for OCaml and CakeML at the
   University of Kent. http://bit.ly/1RWhtAv #PostDoc #CompSci
 

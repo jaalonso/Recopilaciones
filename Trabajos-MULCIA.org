@@ -9,6 +9,24 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 09-Jun-16: One #PhD or #PostDoc position to develop further the theoretical
+  foundations of monitorability. Reykjavik Univ. http://bit.ly/1YfCptS #CompSci
+
++ 09-Jun-16: #Job: Senior Big Data Developer. London, United
+  Kingdom. http://bit.ly/1RXPaBU #Scala #BigData
+
++ 09-Jun-16: Fancy working on big data challenges with #Scala & #Spark to bring
+  green energy to more people? - http://hubs.ly/H03c-p00
+
++ 09-Jun-16: Work with Scala in Dublin to help build a distributed HR
+  management platform - http://hubs.ly/H03c-p20 #Job #Scala
+
++ 09-Jun-16: CircleCI is seeking a Product Engineer for a full-time position
+  located in San Francisco or Toronto. http://bit.ly/1YfAzt3 #Job #Clojure
+
++ 09-Jun-16: Professor Software technology at Utrecht University
+  http://bit.ly/1RXNckV #Job #CompSci
+
 + 08-Jun-16: PhD student position on formal methods for testing of networks of
   controllers, Grenoble (France) http://bit.ly/1X9JHjd #PhD #CompSci
 

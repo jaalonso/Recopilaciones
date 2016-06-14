@@ -9,6 +9,20 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 14-Jun-16: Two Lectureships (Assistant Professorships) at St Andrews
+  http://bit.ly/1YoP9yk #Job #Functional_programming #CompSci 
+
++ 14-Jun-16: On-site GHC-related Haskell/C opportunity at Positive Technologies
+  (Moscow) http://bit.ly/1YoPDV8 #Job #Haskell
+
++ 13-Jun-16: Postdoctoral positions at Stanford University on the development
+  and application of automated reasoning techniques. http://bit.ly/28xLYc3
+  #PostDoc #CompSci
+
++ 13-Jun-16: 2 postdoc positions: Researcher in algorithmics and semantics of
+  higher-order computation. Univ. of Oxford http://bit.ly/1tmGwID #PostDoc
+  #CompSci
+
 + 13-Jun-16: Job offer: close-to-industry research position.
   http://bit.ly/1rl9lDO #PostDoc #Type_theory #Formal_methods #Verification
 

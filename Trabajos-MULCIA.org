@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 17-Jun-16: Post doc at IT University of Copenhagen on a project on guarded
+  recursion. http://bit.ly/24VfmVc #PostDoc #CompSci
+
 + 16-Jun-16: PhD position at INRIA Grenoble on formal methods for
   testing. http://bit.ly/1txvAZl #PhD #CompSci
 

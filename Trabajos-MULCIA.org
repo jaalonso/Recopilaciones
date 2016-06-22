@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 22-Jun-16: Wrinkl, Inc. is seeking a Haskell Software Engineer for a
+  full-time position located in NYC. http://bit.ly/28UTzth #Job #Haskell
+
 + 21-Jun-16: Jobs at Monash: Lecturer or Senior Lecturer (Data Science). Monash
   University. http://bit.ly/28RxTOJ #Job #DataScience
 

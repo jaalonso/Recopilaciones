@@ -9,6 +9,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 25-Jun-16: PhD position at VERIMAG, Grenoble, on combinations of Boolean
+  reasoning and parametric linear programming. http://bit.ly/28S2rPF #PhD
+  #CompSci
+
++ 25-Jun-16: #Job #Haskell developer @PicusSecurity in Ankara,
+  Turkey. http://bit.ly/28RUI3X http://www.picussecurity.com
+
 + 24-Jun-16: #Job: Haskell Engineer - Machine Learning: Pioneering a new
   approach to the data security problem. Berkeley, California
   http://bit.ly/28UPQNn #Haskell

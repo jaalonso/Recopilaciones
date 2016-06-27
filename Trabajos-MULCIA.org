@@ -9,6 +9,11 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 27-Jun-16: Postdoc position on formal verification on security. Nanyang
+  Technological University http://bit.ly/28VqDPf #PostDoc #CompSci
+
++ 27-Jun-16: Becas Iberoamérica, Santander Investigación. http://bit.ly/28VqpYp
+
 + 25-Jun-16: Haskell developer position at Scrive. Stockholm,
   Sweden. http://bit.ly/28SwS8h #Job #Haskell
 

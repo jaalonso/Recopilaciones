@@ -9,6 +9,16 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio de 2016
 
++ 30-Jun-16: Lectureships in Knowledge Representation and Reasoning (and other
+  areas of computer science), Cardiff (Wales). http://bit.ly/29bm2h5 #Job
+  #CompSci
+
++ 30-Jun-16: Several Funded PhD Studentships in Computer Science at IMT
+  Lucca. http://bit.ly/29blNT9 #PhD #CompSci
+
++ 30-Jun-16: Lecturer (Teaching & Research) in Computer Science &
+  Informatics. Cardiff University. http://bit.ly/296cX6z #Job #CompSci
+
 + 28-Jun-16: Postdoctoral associate position in London, working with
   Isabelle. http://bit.ly/293qfT6 #PostDoc #IsabelleHOL
 

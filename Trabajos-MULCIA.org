@@ -7,7 +7,16 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Julio de 2016
+
++ 02-Jul-16: Postdoc/PhD position at Innopolis University in area of program
+  verification. http://bit.ly/29bZoTK #PhD #PostDoc #CompSci
+
+
 *** Junio de 2016
+
++ 31-Jun-16: Postdoc position in verification at IMDEA, Madrid
+  http://bit.ly/29bxLwm #PostDoc #CompSci
 
 + 30-Jun-16: Lectureships in Knowledge Representation and Reasoning (and other
   areas of computer science), Cardiff (Wales). http://bit.ly/29bm2h5 #Job

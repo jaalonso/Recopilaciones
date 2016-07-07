@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 07-Jul-16: PhD scholarship: Fully automated controller synthesis for UAV
+  missions (Munich, Germany) http://bit.ly/29mIXSs #PhD #CompSci 
+
++ 07-Jul-16: PhD studentship in semantics and verification of heterogeneous
+  programs at Queen Mary. http://bit.ly/29qgb75 #PhD #CompSci
+
 + 02-Jul-16: Full-time developer position opening at Université de Bordeaux for
   Fall 2016 or Fall 2017. http://bit.ly/29ANuS3 #Job #CompSci #Math
 

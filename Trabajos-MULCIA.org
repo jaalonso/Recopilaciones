@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 13-Jul-16: Assistant or Associate Professorship in Theoretical Computer
+  Science (tenure-track), Amsterdam. http://bit.ly/29MBMpO #Job #CompSci
+
++ 09-Jul-16: PhD or postdoc in semantics engineering in Language Designer's
+  Workbench project at TU Delft. http://bit.ly/29nN6cL #PhD #PostDoc #CompSci
+
 + 07-Jul-16: PhD scholarship: Fully automated controller synthesis for UAV
   missions (Munich, Germany) http://bit.ly/29mIXSs #PhD #CompSci 
 

@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 15-Jul-16: Lecturer in mathematics (info security) at School of Science, RMIT
+  University, Melbourne, Australia http://bit.ly/29APbOR #Job #CompSci  
+
 + 13-Jul-16: Assistant or Associate Professorship in Theoretical Computer
   Science (tenure-track), Amsterdam. http://bit.ly/29MBMpO #Job #CompSci
 

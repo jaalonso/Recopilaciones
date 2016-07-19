@@ -9,6 +9,8 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 19-Jul-16: PhD position in computational statistics for medical imaging. http://bit.ly/2a5bJt6
+
 + 15-Jul-16: Lecturer in mathematics (info security) at School of Science, RMIT
   University, Melbourne, Australia http://bit.ly/29APbOR #Job #CompSci  
 

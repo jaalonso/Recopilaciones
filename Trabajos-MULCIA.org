@@ -9,6 +9,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 27-Jul-16: Haskell developer job in India. http://bit.ly/2aJu5id #Job
+  #Haskell 
+
++ 27-Jul-16: A Haskell developer for a full-time position at a Bay Area
+  startup. http://bit.ly/2aJrLYs #Job #Haskell
+
++ 20-Jul-16: Two positions in computational linguistics (Postdoc or PhD
+  student). Saarland Univ., Saarbruecken, Germany http://bit.ly/2awI8b0
+
 + 19-Ju-16: Faculty Position in Computer Sciences. Universidad Adolfo Ibanez,
   Faculty of Engineering and Sciences. #Job #CompSci 
 

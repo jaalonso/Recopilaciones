@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2016
 
++ 28-Jul-16: #PostDoc at Ulm University. Topic is complexity theory, with a
+  focus on Polynomial Identity Testing. http://bit.ly/2azXOLk #CompSci 
+
 + 27-Jul-16: Haskell developer job in India. http://bit.ly/2aJu5id #Job
   #Haskell 
 

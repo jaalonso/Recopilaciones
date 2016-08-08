@@ -9,6 +9,30 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 08-Ago-16: PostDoc position at Wesleyan University on the topic of homotopy
+  type theory. http://bit.ly/2aFCljU #PostDoc #CompSci 
+
++ 08-Ago-16: Four roles in Strats at Standard Chartered (London and
+  Singapore). http://bit.ly/2aFpTjR #Job #Haskell 
+
++ 08-Ago-16: [#Job Ad] Haskell developer @ Atidot (Ramat-Gan,
+  Israel). http://bit.ly/2b6r8wk  #Haskell via @RedditHaskell 
+
++ 05-Ago-16: Postdoctoral position, concurrency reasoning, Imperial College
+  London. http://bit.ly/2aTqvoc #PostDoc #CompSci
+
++ 05-Ago-16: #Job: Assistant Professor – Critical computation and new
+  media. Univ. of Toronto Mississauga http://bit.ly/2aTpm0b #CompSci
+
++ 05-Ago-16: PhD Studentship available in argument mining. 
+  http://bit.ly/2aTpMn0 #PhD #CompSci
+
++ 05-Ago-16: PhD student position in knowledge representation and reasoning,
+  Luxembourg. http://bit.ly/2aFPtEh #PhD #CompSci
+
++ 05-Ago-16: Ph.D. student position on "learning language through dialogue",
+  Tilburg (The Netherlands). http://bit.ly/2aFP9pj #PhD #CompSci
+
 + 02-Ago-16: PhD studentship: Formal specification and verification of smart
   contracts. University College London. http://bit.ly/2aLtr7L #PhD #CompSci 
 

@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 09-Ago-16: 14 positions in Geo Data Science. http://bit.ly/2b2EA2Z #PhD
+  #PostDoc #DataScience 
+
 + 08-Ago-16: PostDoc position at Wesleyan University on the topic of homotopy
   type theory. http://bit.ly/2aFCljU #PostDoc #CompSci 
 

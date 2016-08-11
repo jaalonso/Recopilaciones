@@ -58,7 +58,14 @@ Está ordenada por países y universidades.
 
 ** Universidad de Aix-Marsella
 + [[http://pageperso.lif.univ-mrs.fr/~luigi.santocanale//teaching/1314teaching/PF][Programmation fonctionnelle]]. ~ L. Santocanale
-  
+
+* Noruega  
+
+** Universidad Noruega de Ciencia y Tecnología (NTNU)
++ [[http://www.hg.schaathun.net/FPIA/][Functional programming and intelligent algorithms]]. ~ [[http://www.hg.schaathun.net/][Hans Georg Schaathun]]
+
+
+
 * Países Bajos
 
 ** Universidad de Utrecht

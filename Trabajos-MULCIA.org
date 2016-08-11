@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 11-Ago-16: PhD position in computational music structure analysis using
+  functional programming http://bit.ly/2b7QicA #PhD #CompSci 
+
++ 10-Ago-16: Functional Jobs: Head of data science at Capital Match (Full-time)
+  http://bit.ly/2b5pF7U #Job #Haskell #DataScience
+
 + 09-Ago-16: 14 positions in Geo Data Science. http://bit.ly/2b2EA2Z #PhD
   #PostDoc #DataScience 
 

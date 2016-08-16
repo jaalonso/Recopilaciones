@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 16-Ago-15: Postdoc position in static and dynamic analysis of Android OS @
+  CMU SV Campus. http://bit.ly/2balUx0 #PostDoc #CompSci #SeaHorn #JayHorn 
+
++ 16-Ago-16: Postdoc position in verification of Flight-Critical Software @ CMU
+  SV Campus. http://bit.ly/2balUx0 #PostDoc #CompSci #SeaHorn #JayHorn  
+
 + 11-Ago-16: PhD position in computational music structure analysis using
   functional programming http://bit.ly/2b7QicA #PhD #CompSci 
 

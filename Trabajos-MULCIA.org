@@ -9,6 +9,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 24-Ago-16: Formal verification position at Intel. http://bit.ly/2buV4At #Job
+  #CompSci 
+
++ 16-Ago-16: PhD student position in supervision of autonomous software
+  systems, Utrecht (The Netherlands) http://bit.ly/2buX246 #PhD #CompSci 
+
++ 16-Ago-16: PhD student position in argument mining, Dundee
+  (Scotland). http://bit.ly/2buXqzi #PhD #CompSci 
+
 + 16-Ago-15: Postdoc position in static and dynamic analysis of Android OS @
   CMU SV Campus. http://bit.ly/2balUx0 #PostDoc #CompSci #SeaHorn #JayHorn 
 

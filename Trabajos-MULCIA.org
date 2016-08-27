@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 27-Ago-16: Functional Jobs: Full-Stack Developer (Haskell/PureScript) at
+  CollegeVine (Full-time) http://bit.ly/2bFqkgi #Job #Haskell
+
++ 27-Ago-16: Turn data into continuous insights with #Scala and #Haskell. Join
+  their team in Seattle - http://hubs.ly/H0467_j0  
+
 + 25-Ago-16: Haskell positions at Facebook. http://bit.ly/2bkImAM #Job #Haskell
 
 + 24-Ago-16: Formal verification position at Intel. http://bit.ly/2buV4At #Job

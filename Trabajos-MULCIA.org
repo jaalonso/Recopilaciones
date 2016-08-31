@@ -9,6 +9,18 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2016
 
++ 31-Ago-16: Postdoctoral position in security of cyber-physical
+  systems. University of Verona. http://bit.ly/2bA0ltd #PostDoc #CompSci 
+
++ 31-Ago-16: Research Assistant / Officer in Theoretical Computer Science
+  (Theory of Security). Swansea Univ., UK http://bit.ly/2bA1kcI #Job #CompSci 
+
++ 31-Ago-16: Research fellow positions at Birmingham and QMU London. 
+  http://bit.ly/2bUFVrH #Job #CompSci
+
++ 31-Ago-16: Open PhD position in programming languages and statistical machine
+  learning at KTH, Sweden http://bit.ly/2bzZbO7 #PhD #CompSci 
+
 + 27-Ago-16: Functional Jobs: Full-Stack Developer (Haskell/PureScript) at
   CollegeVine (Full-time) http://bit.ly/2bFqkgi #Job #Haskell
 

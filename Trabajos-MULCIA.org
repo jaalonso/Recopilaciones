@@ -7,6 +7,29 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Septiembre de 2016
+
++ 09-Sep-16: #PostDoc position at TU Berlin in complexity theory, applied
+  algebraic geometry, complexity and accuracy of numerical
+  algorithms. http://bit.ly/2bWS0d7 
+
++ 09-Sep-16: Excelsior’s client is seeking a player/coach leader for their
+  cryptocurrency development team. http://bit.ly/2bWQpnu #Job #Haskell 
+
++ 08-Sep-16: 2 PhD positions in formal methods at the Sirius Center in
+  Oslo. http://bit.ly/2cEP2yM #PhD #CompSci 
+
++ 08-Sep-16: Lecturer position in Algorithms and Complexity, Leeds
+  (England). http://bit.ly/2cr4zQA #Job #CompSci 
+
++ 08-Sep-16: PhD student position in information assurance,
+  Luxembourg. http://bit.ly/2cEMIYu #PhD #CompSci 
+
++ 01-Sep-16: Associate Professor / Assistant Professor in Department of
+  Computing. The Hong Kong Polytechnic University. http://bit.ly/2bZyrDT #Job
+  #CompSci 
+
+
 *** Agosto de 2016
 
 + 31-Ago-16: Postdoctoral position in security of cyber-physical

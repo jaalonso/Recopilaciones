@@ -9,6 +9,26 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2016
 
++ 14-Sep-16: Postdoctoral position in univalent foundations and type theory at
+  the IAS. http://bit.ly/2cNy2Dl #PostDoc #CompSci
+
++ 14-Sep-16: #PhD and #PostDoc positions at IMDEA (Madrid) funded by an ERC
+  grant "A Rigorous Approach to Consistency in Cloud
+  Databases". http://bit.ly/2cNy6Tw #CompSci
+
++ 14-Sep-16: Simons-Berkeley Research Fellowships at the Simons Institute for
+  the Theory of Computing, Berkeley CA (U.S.A.). http://bit.ly/2cNAfP5 #Job
+  #CompSci 
+
++ 14-Sep-16: Postdoctoral position in proof theory, Vienna (Austria),
+  http://bit.ly/2cNAgm9 #PostDoc #CompSci 
+
++ 14-Sep-16: Postdoctoral position (3 months) in proof complexity, Leeds
+  (England). http://bit.ly/2cNByxq #PosDoc #CompSci 
+
++ 14-Sep-16: PhD student positions in mathematics (including logic), Helsinki
+  (Finland). http://bit.ly/2cNBJc5 #PhD #Math #Logic
+
 + 09-Sep-16: #PostDoc position at TU Berlin in complexity theory, applied
   algebraic geometry, complexity and accuracy of numerical
   algorithms. http://bit.ly/2bWS0d7 

@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2016
 
++ 16-Sep-16: Doctoral/Postdoctoral position in programming language theory &
+  implementation. Univ. of Leuven http://bit.ly/2d1InQz #PhD #PostDoc #CompSci
+
++ 14-Sep-16: Functional Jobs: Software Engineer/Researcher at Galois Inc
+  (Full-time) http://bit.ly/2cNCli0 #Job #CompSci #FP  
+
 + 14-Sep-16: Postdoctoral position in univalent foundations and type theory at
   the IAS. http://bit.ly/2cNy2Dl #PostDoc #CompSci
 

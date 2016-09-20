@@ -9,6 +9,19 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2016
 
++ 20-Sep-16: Open positions on secure compilation at Inria Paris funded by ERC
+  grant. http://bit.ly/2cVsbPk #PhD #PostDoc #CompSci
+
++ 19-Sep-16: Postdoc Position at Virginia Tech on Isabelle/HOL, Blacksburg,
+  Virginia, USA. http://bit.ly/2cjjyOS #PostDoc #CompSci #IsabelleHOL
+
++ 19-Sep-16: Postdoc position to work with us on the next generation of
+  automated reasoning procedures. MPI, Saarbrücken, Germany
+  http://bit.ly/2cjjRJL #PostDoc #CompSci
+
+
+The Automation of Logic group, led by Dr Christoph Weidenbach, is searching for a researcher 
+
 + 16-Sep-16: Doctoral/Postdoctoral position in programming language theory &
   implementation. Univ. of Leuven http://bit.ly/2d1InQz #PhD #PostDoc #CompSci
 

@@ -9,6 +9,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2016
 
++ 27-Sep-16: Open Ph.D. position in formal methods for information security at
+  ETH Zurich. http://bit.ly/2d5PV2I #PhD #CompSci  
+
 + 27-Sep-16: Postdoctoral position in information assurance,
   Luxembourg. http://bit.ly/2d5gkOm #PostDoc #CompSci 
 

@@ -40,7 +40,9 @@ Está ordenada por países y universidades.
 
 ** Universidad de Pensilvania
 + [[http://www.seas.upenn.edu/~cis552/13fa/][Advanced programming]]. ~ [[http://www.seas.upenn.edu/~sweirich][S. Weirich]].
-+ [[http://www.cis.upenn.edu/~cis194][Introduction to Haskell]]. ~ B. Yorgey.
++ [[http://cis.upenn.edu/~cis194/fall14/spring13/][Introduction to Haskell (Spring 2013)]]. ~ B. Yorgey.
++ [[http://www.cis.upenn.edu/~cis194/fall14/][Introduction to Haskell (Fall 2014)]]. ~ [[http://www.cis.upenn.edu/~eir/][R. Eisenberg]].
++ [[http://www.cis.upenn.edu/~cis194/fall16/][Introduction to Haskell (Fall 2016)]]. ~ [[http://www.cis.upenn.edu/~joachim/][J. Breitner]].
 
 ** Universidad de Princeton
 + [[https://www.cs.princeton.edu/~dpw/cos441-11/index.html][Programming languages]]. ~ [[http://www.cs.princeton.edu/~dpw/][D. Walker]].

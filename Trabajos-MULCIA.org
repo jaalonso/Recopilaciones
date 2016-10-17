@@ -7,6 +7,29 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Octubre de 2016
+
++ 12-Oct-16 2 Post-Docs on power of algorithms in discrete optimisation at
+  University of Oxford http://bit.ly/2dWD83D #Job #CompSci 
+
++ 12-Oct-16: Galois has positions open for Software Engineers/Researchers
+  http://bit.ly/2dWjFjy #Job #CompSci 
+
++ 12-Oct-16: Galois has positions open for a Machine Learning Software
+  Engineer. http://bit.ly/2dWlXPx #Job #CompSci
+
++ 12-Oct-16: Galois has positions open for a Researcher/Principal Investigator
+  in Portland, OR and Arlington, VA. http://bit.ly/2dWiZe0 #Job #CompSci 
+
++ 10-Oct-16: 2 #PostDocs positions: Practical just-right consistency and
+  planet-scale storage. http://bit.ly/2dRESea #CompSci
+
++ 10-Oct-16: Postdoc/Research fellow position in Formal Methods and System
+  Security, ShanghaiTech University, China http://bit.ly/2dq5teX #PostDoc #CompSci
+
++ 01-Oct-16: Full-time Haskell jobs in London, at Barclays. http://bit.ly/2d32o4f
+  #Job #Haskell
+
 *** Septiembre de 2016
 
 + 27-Sep-16: Open Ph.D. position in formal methods for information security at
@@ -73,7 +96,6 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 01-Sep-16: Associate Professor / Assistant Professor in Department of
   Computing. The Hong Kong Polytechnic University. http://bit.ly/2bZyrDT #Job
   #CompSci 
-
 
 *** Agosto de 2016
 

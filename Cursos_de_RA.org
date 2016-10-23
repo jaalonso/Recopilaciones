@@ -44,7 +44,8 @@ Está ordenada por países y universidades.
 * Escocia
 
 *** Universidad de Edimburgo
-+ [[http://www.inf.ed.ac.uk/teaching/courses/ar/slides][Automated reasoning]]. ~ J. Fleuriot y P. Jackson.
++ [[http://www.inf.ed.ac.uk/teaching/courses/ar/slides][Automated reasoning (2013-14)]]. ~ J. Fleuriot y P. Jackson.
++ [[http://www.inf.ed.ac.uk/teaching/courses/ar][Automated reasoning (2016-16)]]. ~ J. Fleuriot y P. Jackson.
 
 * Estados Unidos
 

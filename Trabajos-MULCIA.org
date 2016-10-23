@@ -9,6 +9,18 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2016
 
++ 22-Oct-16: PhD positions available at Stanford
+  University. http://bit.ly/2dX4fIt #PhD #CompSci #Automated_reasoning
+
++ 17-Oct-16 Positions at Iowa State University: faculty and PhD
+  students. http://bit.ly/2dKLEzm #PhD #CompSci 
+
++ 17-Oct-16 PhD student position in language-based security using functional
+  languages at Chalmers http://bit.ly/2dKJBLu #PhD #CompSci  
+
++ 17-Oct-16 Postdoctoral position in verification of linear dynamical systems,
+  Oxford (England) http://bit.ly/2dKMH1W #PostDoc #CompSci
+
 + 12-Oct-16 2 Post-Docs on power of algorithms in discrete optimisation at
   University of Oxford http://bit.ly/2dWD83D #Job #CompSci 
 

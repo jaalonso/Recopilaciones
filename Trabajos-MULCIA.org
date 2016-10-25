@@ -9,7 +9,7 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2016
 
-+ 22-Oct-16: PhD positions available at Stanford
++ 23-Oct-16: PhD positions available at Stanford
   University. http://bit.ly/2dX4fIt #PhD #CompSci #Automated_reasoning
 
 + 17-Oct-16 Positions at Iowa State University: faculty and PhD

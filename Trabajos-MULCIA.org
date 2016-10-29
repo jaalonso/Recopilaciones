@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Octubre de 2016
 
++ 29-Oct-16: PhD studentship in mathematical models of access control policies,
+  London (England). http://bit.ly/2eTczg4 #PhD #CompSci 
+
++ 29-Oct-16: Temporary Assistant Professorship (4y) in formal modelling of
+  language and cognition, Amsterdam. http://bit.ly/2ePqmBu #Job #CompSci  
+
 + 23-Oct-16: PhD positions available at Stanford
   University. http://bit.ly/2dX4fIt #PhD #CompSci #Automated_reasoning
 

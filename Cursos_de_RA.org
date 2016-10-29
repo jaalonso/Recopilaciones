@@ -78,6 +78,9 @@ Está ordenada por países y universidades.
 
 * Francia
 
+*** Universidad de Nica
++ [[https://team.inria.fr/marelle/en/coq-winter-school-2017/][Coq Winter School 2017]].
+
 *** Universidad de Rennes 1
 + [[http://www.irisa.fr/celtique/genet/ACF/][Analyse et conception formelles]]. ~ [[http://www.irisa.fr/celtique/genet][T. Genet]].
 + [[http://www.irisa.fr/celtique/genet/ACF][Software formal analysis and design]]. ~ T. Genet.

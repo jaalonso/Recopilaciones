@@ -13,6 +13,10 @@ Está ordenada por países y universidades.
 *** Universidad de Friburgo
 + [[http://www.informatik.uni-freiburg.de/~ki/teaching/ws0910/csmr/lecture.html][Computer-supported modeling and reasoning]]. ~ Jan-Georg Smaus.
 
+*** Universidad del Sarre
++ [[http://people.mpi-inf.mpg.de/~jblanche/cswi/ss2015/][Concrete Semantics with Isabelle/HOL]] (Summer semester 2015) ~ [[http://people.mpi-inf.mpg.de/~jblanche/][Jasmin
+  Blanchette]], [[http://perso.eleves.ens-rennes.fr/~mfleur01/][Mathias Fleury]] y [[http://people.mpi-inf.mpg.de/~dwand/][Daniel Wand]].
+
 *** Universidad técnica de Kaiserslautern
 + [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd Poetzsch-Heffter.
 

@@ -7,7 +7,39 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Noviembre de 2016
+
++ 11-Nov-16: Assistant / Associate Professorship in Algorithmics, Delft (The
+  Netherlands). http://bit.ly/2fi3opj #Job #CompSci 
+
++ 10-Nov-16: Postdoc at Simons Algorithms and Geometry Collaboration
+  http://bit.ly/2fEwJsy #PostDoc #CompSci 
+
++ 08-Nov-16: PhD Student positions in Cyber-physical Systems/Artificial
+  Intelligence/Systems Biology at ANU http://bit.ly/2fdxs5c #PhD #CompSci 
+
++ 05-Nov-16: Faculty positions at the University of Cambridge, in Programming
+  Languages, Systems, and Cyber-Physical Systems. http://bit.ly/2f3MpqJ
+
++ 05-Nov-16: Postdoc position in verification of infinite-state
+  systems. University of Iowa. http://bit.ly/2f3EB8o #PostDoc #CompSci
+
++ 05-Nov-16: Postdoctoral Researcher Formal Verification of Safety Critical
+  Software. Radboud University http://bit.ly/2f3InyE #PostDoc #CompSci 
+
 *** Octubre de 2016
+
++ 30-Oct-16: Research data manager position. The Heart Healthy Hoods
+  project. Madrid http://bit.ly/2f3Op0u #Job #DataScience 
+
++ 29-Oct-16: Functional Jobs: Software Engineer (Haskell/Clojure) at Capital
+  Match (Full-time) http://bit.ly/2fjhU1E #Job #Haskell
+
++ 29-Oct-16: Competitively paid postdoc position in
+  Denmark. http://bit.ly/2eTdvks #PostDocs #CompSci 
+
++ 29-Oct-16: Faculty Position in Intelligent Systems & Autonomy. Iowa State
+  University http://bit.ly/2eTcHwc #Jobs #CompSci 
 
 + 29-Oct-16: PhD studentship in mathematical models of access control policies,
   London (England). http://bit.ly/2eTczg4 #PhD #CompSci 

@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2016
 
++ 22-Nov-16: PhD studentships in programming languages at LFCS, University of
+  Edinburgh. http://bit.ly/2fMO7wL #PhD #CompSci 
+
++ 18-Nov-16: Postdoc position in distributed systems/verification/Coq at
+  University College London (UCL). http://bit.ly/2g44fJ5 #PosDoc #CompSci 
+
 + 11-Nov-16: Assistant / Associate Professorship in Algorithmics, Delft (The
   Netherlands). http://bit.ly/2fi3opj #Job #CompSci 
 

@@ -9,6 +9,26 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2016
 
++ 25-Nov-16: Postdoctoral Associate in the area of theoretical machine
+  learning. Rutgers University http://bit.ly/2fMY3n8 #PostDoc #CompSci 
+
++ 25-Nov-16: DIMACS Postdoc Positions http://bit.ly/2fMYJsO #PostDocs #CompSci
+
++ 25-Nov-16: PostDocs, internships in Cryptography. Tel Aviv University
+  http://bit.ly/2fN1pqg #PosDoc #CompSci
+
++ 25-Nov-16: PhD opportunities at the Univ. of Minnesota http://bit.ly/2g03xy5
+  #PhD #CompSci 
+
++ 25-Nov-16: PhD positions in Computer Science, Liverpool
+  (England). http://bit.ly/2g04q9F #PhD #CompSci
+
++ 25-Nov-16: PhD student position in specification and verification of
+  data-aware systems, Evry (France). http://bit.ly/2fZVcKF #PhD #CompSci
+
++ 25-Nov-16: Postdoctoral position in logic, Barcelona (Spain). 
+  http://bit.ly/2fMNsJ9 #PostDoc #Logic
+
 + 22-Nov-16: PhD studentships in programming languages at LFCS, University of
   Edinburgh. http://bit.ly/2fMO7wL #PhD #CompSci 
 

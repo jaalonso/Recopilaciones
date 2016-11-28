@@ -9,6 +9,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2016
 
++ 28-Nov-16: #PhD opportunities in programming languages, testing and
+  verification for heterogeneous many-core systems. http://bit.ly/2ga05AK
+  #CompSci  
+
 + 25-Nov-16: Postdoctoral Associate in the area of theoretical machine
   learning. Rutgers University http://bit.ly/2fMY3n8 #PostDoc #CompSci 
 

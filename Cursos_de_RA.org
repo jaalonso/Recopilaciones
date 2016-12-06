@@ -45,6 +45,11 @@ Está ordenada por países y universidades.
 + [[http://www.dimap.ufrn.br/~jmarcos/courses/LC/Ementa.htm][Lógica computacional: Demonstração assistida e semi-automática de
   teoremas]]. ~ Joao Marcos. 
 
+* Canadá
+
+*** Universidad de Waterloo
++ [[https://cs.uwaterloo.ca/~plragde/245/summs/index.html][Logic and computation]]. ~ [[https://cs.uwaterloo.ca/~plragde][Prabhakar Ragde]].
+
 * Escocia
 
 *** Universidad de Edimburgo

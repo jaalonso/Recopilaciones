@@ -39,6 +39,7 @@ Está ordenada por países y universidades.
 
 *** Universidad de Waterloo
 + [[https://ece.uwaterloo.ca/~vganesh/TEACHING/F2013/SATSMT/index.html][Computer-aided reasoning for software engineering]]. ~ [[https://ece.uwaterloo.ca/~vganesh][V. Ganesh]].
++ [[https://cs.uwaterloo.ca/~plragde/245/summs/index.html][Logic and computation]]. ~ [[https://cs.uwaterloo.ca/~plragde][Prabhakar Ragde]].
 
 * Dinamarca
 

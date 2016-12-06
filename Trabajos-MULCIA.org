@@ -7,6 +7,11 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+*** Diciembre de 2016
+
++ 04-Dic-16: Open Postdoc Position on Higher-Order Model Checking. University
+  of Tokyo, Japan. http://bit.ly/2gponEe #PostDoc #CompSci
+
 *** Noviembre de 2016
 
 + 28-Nov-16: #PhD opportunities in programming languages, testing and

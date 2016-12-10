@@ -9,6 +9,34 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2016
 
++ 10-Dic-16: Three open faculty positions at the Max Planck Institute for
+  Software Systems. http://bit.ly/2gvDGOl #Job #CompSci 
+
++ 10-Dic-16: Associate/Assistant Professor in Programming Languages at the
+  Technical University of Denmark. http://bit.ly/2heGH3G #Job #CompSci 
+
++ 10-Dic-16: Postdoc positions - Center for Advanced Software Analysis, Aarhus
+  University http://bit.ly/2heEIfS #PostDoc #CompSci
+
++ 10-Dic-16: Postdoc position in the area of formal verification at Middlesex
+  University London, UK. http://bit.ly/2gvB570 #PostDoc #CompSci
+
++ 10-Dic-16: PhD Candidate ‘Parameterized complexity of approximate Bayesian
+  inferences’ Nijmegen (The Netherlands) http://bit.ly/2heMk1R #PhD #CompSci
+  #Logic
+
++ 10-Dic-16: The Chair of Programming Methodology at ETH Zurich is looking for
+  excellent candidates for newly-opened PhD positions. http://bit.ly/2heHAJE
+  #PhD #CompSci 
+
++ 10-Dic-16: Lecturer/Senior Lecturer openings in Artificial Intelligence and
+  Machine Learning at Imperial College London. http://bit.ly/2gvAPoC #Job
+  #CompSci 
+
++ 10-Dic-16: The Northwestern Theory group seeks applications for 1-2
+  postdoctoral positions starting in September 2017. http://bit.ly/2gvRpol
+  #PostDoc #CompSci 
+
 + 04-Dic-16: Open Postdoc Position on Higher-Order Model Checking. University
   of Tokyo, Japan. http://bit.ly/2gponEe #PostDoc #CompSci
 

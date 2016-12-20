@@ -9,6 +9,44 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2016
 
++ 21-Dic-16: Faculty positions in programming languages, and formal
+  verification at Stevens (NYC area) http://bit.ly/2i3Wx4P #Job #CompSci
+
++ 21-Dic-16: Assistant and associate professor openings at Aarhus University,
+  Denmark. http://bit.ly/2gWiDkR #Job #CompSci 
+
++ 17-Dic-16: Postdoc position in applied semantics for production
+  architectures. Univ. of Cambridge http://bit.ly/2hWiOle #PosDoc #CompSci
+
++ 17-Dic-16: Two postdoc positions in quantum programming languages, at
+  Dalhousie University. http://bit.ly/2gPgSGl #PosDoc #CompSci
+
++ 17-Dic-16: Post-doc positions at ENS Lyon, in Computer Science and
+  Mathematics. http://bit.ly/2gPgFCU #PostDoc #CompSci
+
++ 17-Dic-16: Postdoc in computer science focused on SAT solving, KTH Royal
+  Institute of Technology, Stockholm, Sweden. http://bit.ly/2gPnrZ6 #PostDoc
+  #CompSci 
+
++ 17-Dic-16: PhD student position in logic and verification for AI, Utrecht
+  (The Netherlands). http://bit.ly/2gPo0Cj #PdD #CompSci 
+
++ 17-Dic-16: #PostDoc positions in theoretical computer science, KTH Royal
+  Institute of Technology, Stockholm, Sweden. http://bit.ly/2gPlWu2 #CompSci 
+
++ 17-Dic-16: #PhD positions in theoretical computer science, KTH Royal
+  Institute of Technology, Stockholm, Sweden. http://bit.ly/2gPpyMw #CompSci
+
++ 17-Dic-16: PhD student position in dependence logic, Auckland (New
+  Zealand). http://bit.ly/2hWoefT #PhD #CompSci #Logic
+
++ 17-Dic-16: #PhD and #PostDoc vacancy on normative and value-based reasoning
+  for socially adaptive software, Delft (The Netherlands) http://bit.ly/2gPlCeW
+  #CompSci
+
++ 11-Dic-16: PhD positions on the AI4REASON project in
+  Prague. http://bit.ly/2hja7ho #PhD #CompSci 
+
 + 10-Dic-16: Three open faculty positions at the Max Planck Institute for
   Software Systems. http://bit.ly/2gvDGOl #Job #CompSci 
 

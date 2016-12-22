@@ -9,10 +9,26 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2016
 
-+ 21-Dic-16: Faculty positions in programming languages, and formal
++ 22-Dic-16: Software Engineering/Research Intern - Galois,
+  Inc. http://bit.ly/2idFVYq #Job #CompSci #Haskell  
+
++ 21-Dic-16: PhD study on formal verification for wireless sensor
+  networks. University of Liverpool. http://bit.ly/2ibX7Oc #PhD #CompSci 
+
++ 20-Dic-16: Full Stack Clojure Engineer at Wade & Wendy (Full-time)
+  http://bit.ly/2gYqBKv #Job #Clojure 
+
++ 20-Dic-16: Postdoc position in provably secure systems, KTH Royal Institute
+  of Technology, Stockholm, Sweden. http://bit.ly/2gYiA88 #PostDoc #CompSci 
+
++ 20-Dic-16: Se busca un investigador para el proyecto "Unidad mixta de
+  investigación Repsol-ITMATI". http://bit.ly/2gYBOKN #Trabajo #Matemáticas
+  #Computación 
+
++ 20-Dic-16: Faculty positions in programming languages, and formal
   verification at Stevens (NYC area) http://bit.ly/2i3Wx4P #Job #CompSci
 
-+ 21-Dic-16: Assistant and associate professor openings at Aarhus University,
++ 20-Dic-16: Assistant and associate professor openings at Aarhus University,
   Denmark. http://bit.ly/2gWiDkR #Job #CompSci 
 
 + 17-Dic-16: Postdoc position in applied semantics for production

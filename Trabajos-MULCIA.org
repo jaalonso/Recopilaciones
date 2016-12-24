@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2016
 
++ 24-Dic-16: 2 PhD positions @University of Twente: Fewer train delays via big
+  data, fault trees, model checking. http://bit.ly/2inzKkC #PhD #CompSci
+
++ 24-Dic-16: W3 Professorship in Machine Learning, Konstanz
+  (Germany). http://bit.ly/2inxsCb #Job #CompSci 
+
 + 22-Dic-16: Software Engineering/Research Intern - Galois,
   Inc. http://bit.ly/2idFVYq #Job #CompSci #Haskell  
 

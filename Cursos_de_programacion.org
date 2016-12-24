@@ -7,6 +7,12 @@ Haskell, OCaml y Prolog que tienen sus páginas específicas.
 
 Está ordenada por lenguajes, países y universidades.
 
+* Python
+** EE.UU.
+
+*** MIT
++ [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm][Introduction to computer science and programming]]. ~ [[https://people.csail.mit.edu/guttag/][John Guttag]].
+
 * Scheme
 
 ** Dinamarca

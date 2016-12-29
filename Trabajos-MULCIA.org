@@ -9,6 +9,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2016
 
++ 29-Dic-16: Funded PhD Positions in Runtime Verification and Model Checking at
+  Iowa State University. http://bit.ly/2hrmmqS #PhD #CompSci 
+
++ 24-Dic-16: 10+ Open Positions in Tokyo: Formal Methods and Cyber-Physical
+  Systems. http://bit.ly/2hbFNUn #PhD #PostDoc #CompSci 
+
 + 24-Dic-16: 2 PhD positions @University of Twente: Fewer train delays via big
   data, fault trees, model checking. http://bit.ly/2inzKkC #PhD #CompSci
 

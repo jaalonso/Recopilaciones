@@ -7,6 +7,13 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+** 2017
+
+*** Enero de 2017
+
++ 03-Ene-17: PhD student position in logic, Amsterdam (The
+  Netherlands). http://bit.ly/2hK4aJb #PhD #Logic #CompSci
+
 *** Diciembre de 2016
 
 + 29-Dic-16: Funded PhD Positions in Runtime Verification and Model Checking at

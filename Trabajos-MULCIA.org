@@ -11,8 +11,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 04-Ene-17: Postdoc in theoretical computer science at Duke
+  University. http://bit.ly/2iyBEhW #PostDoc #CompSci 
+
 + 03-Ene-17: PhD student position in logic, Amsterdam (The
   Netherlands). http://bit.ly/2hK4aJb #PhD #Logic #CompSci
+
+** 2016 
 
 *** Diciembre de 2016
 

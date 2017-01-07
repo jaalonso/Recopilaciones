@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 07-Ene-17: Postdoctoral position in artificial intelligence, Cardiff
+  (Wales). http://bit.ly/2iMjr0s #PostDoc #CompSci 
+
 + 04-Ene-17: Postdoc in theoretical computer science at Duke
   University. http://bit.ly/2iyBEhW #PostDoc #CompSci 
 

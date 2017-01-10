@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 09-Ene-17: Postdoc in algorithms at The Open University of
+  Israel. http://bit.ly/2iWiL8C #PostDoc #CompSci 
+
 + 07-Ene-17: Postdoctoral position in artificial intelligence, Cardiff
   (Wales). http://bit.ly/2iMjr0s #PostDoc #CompSci 
 

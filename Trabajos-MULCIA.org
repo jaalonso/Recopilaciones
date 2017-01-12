@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 11-Ene-17: PhD position at Durham University for work on Cadabra and related
+  topics in symbolic computer algebra. http://bit.ly/2jjHphj #PhD #CompSci  
+
 + 09-Ene-17: Postdoc in algorithms at The Open University of
   Israel. http://bit.ly/2iWiL8C #PostDoc #CompSci 
 

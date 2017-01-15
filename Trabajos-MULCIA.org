@@ -11,6 +11,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 14-Ene-17: 5 year postdoc position in computational logic. University of
+  Innsbruck. http://bit.ly/2jiJn3K #PostDoc #CompSci 
+
++ 14-Ene-17: Postdoc in SDN verification and security at
+  Edinburgh. http://bit.ly/2jiC8Jc #PostDoc #CompSci 
+
++ 14-Ene-17: Postdoc position in applied semantics for production
+  architectures. http://bit.ly/2jiOyka #PostDoc #CompSci 
+
 + 11-Ene-17: PhD position at Durham University for work on Cadabra and related
   topics in symbolic computer algebra. http://bit.ly/2jjHphj #PhD #CompSci  
 

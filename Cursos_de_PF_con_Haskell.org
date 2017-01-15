@@ -43,6 +43,7 @@ Está ordenada por países y universidades.
 + [[http://cis.upenn.edu/~cis194/fall14/spring13/][Introduction to Haskell (Spring 2013)]]. ~ B. Yorgey.
 + [[http://www.cis.upenn.edu/~cis194/fall14/][Introduction to Haskell (Fall 2014)]]. ~ [[http://www.cis.upenn.edu/~eir/][R. Eisenberg]].
 + [[http://www.cis.upenn.edu/~cis194/fall16/][Introduction to Haskell (Fall 2016)]]. ~ [[http://www.cis.upenn.edu/~joachim/][J. Breitner]].
++ [[http://ozark.hendrix.edu/~yorgey/360/f16/][Programming languages (Fall 2016)]]. ~ B. Yorgey
 
 ** Universidad de Princeton
 + [[https://www.cs.princeton.edu/~dpw/cos441-11/index.html][Programming languages]]. ~ [[http://www.cs.princeton.edu/~dpw/][D. Walker]].

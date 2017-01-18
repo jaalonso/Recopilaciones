@@ -11,6 +11,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 18-Ene-17: #Job: Associate Professor/Professor of Automated Verification,
+  with Tutorial Fellowship at St. John's College, Univ. of
+  Oxford. http://bit.ly/2iBSsWm #CompSci 
+
 + 14-Ene-17: 5 year postdoc position in computational logic. University of
   Innsbruck. http://bit.ly/2jiJn3K #PostDoc #CompSci 
 

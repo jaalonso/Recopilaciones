@@ -8,6 +8,8 @@ de la Universidad de Sevilla.
 
 Está ordenada por países y universidades.
 
+http:////www.cs.cornell.edu/courses/CS4860/2016fa
+
 * Alemania
   
 *** Universidad técnica de Dresden
@@ -15,6 +17,7 @@ Está ordenada por países y universidades.
 + [[http://www.computational-logic.org/~sh/publikationen/o01.ps][Computational logic]] (apuntes). ~ Steffen Hölldobler.
 
 *** Universidad Técnica de Munich
++ [[https://www4.in.tum.de/lehre/vorlesungen/logik/WS0809/][Logic (2008/09)]]. ~  [[http://www21.in.tum.de/~nipkow/][T. Nipkow]]
 + [[http://www21.in.tum.de/teaching/logik/SS16][Logic]]. ~ [[http://www21.in.tum.de/~lammich/][P. Lammich]], [[http://www21.in.tum.de/~nipkow/][T. Nipkow]] y [[http://home.in.tum.de/~wimmers/][S. Wimmer]].
 + [[http://www4.in.tum.de/lehre/vorlesungen/Logic/WS1213/index.shtml][Applied logic in engineering]]. ~ [[http://www.spichkova.com][M. Spichkova]] y [[https://www4.in.tum.de/~broy/][Manfred Broy]]
 
@@ -64,11 +67,19 @@ Está ordenada por países y universidades.
 
 * Estados Unidos
 
+*** Universidad de Nueva York
++ [[https://cs.nyu.edu/courses/spring04/G22.3033-003][Logic and verification (2004)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]
++ [[http://www.cs.nyu.edu/courses/spring07/G22.3033-009/index.html][Topics in automated deduction (2007)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]
++ [[http://www.cs.nyu.edu/courses/spring09/G22.3033-010/index.html][Topics in automated deduction (2009)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]
+
 *** Universidad de Rice
 + [[http://www.cs.rice.edu/~vardi/comp409/index.html][Logic in computer science]]. ~ Moshe Y. Vardi.
 
 *** Universidad de Stanford
 + [[http://logic.stanford.edu/classes/cs157/2011/cs157.html][Computational logic]]. ~ Michael Genesereth.
+
+*** Universidad de Texas
++ [[http://www.cs.utexas.edu/~isil/cs643/][Automated logical reasoning]]. ~ [[http://www.cs.wm.edu/~idillig][Işıl Dillig]]
 
 * Francia
 

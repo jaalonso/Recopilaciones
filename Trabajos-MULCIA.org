@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 25-Ene-17: PhD position in Systematic testing of concurrent programs at
+  Uppsala University, Sweden. http://bit.ly/2ktUc0p #PhD #CompSci
+
 + 20-Ene-17: Postdoc opening on weak memory concurrency at the Max Planck
   Institute for Software Systems (MPI-SWS). http://bit.ly/2iIpFzH #PostDoc
   #CompSci 

@@ -38,6 +38,9 @@ Está ordenada por países y universidades.
 
 * Estados Unidos
 
+** Universidad de Chicago
++ [[http://cmsc-16100.cs.uchicago.edu/2016/][Honors introduction to programming, I]]. ~ [[http://people.cs.uchicago.edu/~rchugh/][R. Chugh]] y  [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]
++ [[http://cmsc-22311.cs.uchicago.edu/2015/][Functional systems in Haskell]]. ~ [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]
 ** Universidad de Pensilvania
 + [[http://www.seas.upenn.edu/~cis552/13fa/][Advanced programming]]. ~ [[http://www.seas.upenn.edu/~sweirich][S. Weirich]].
 + [[http://cis.upenn.edu/~cis194/fall14/spring13/][Introduction to Haskell (Spring 2013)]]. ~ B. Yorgey.

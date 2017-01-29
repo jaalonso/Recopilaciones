@@ -11,6 +11,19 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2017
 
++ 29-Ene-17: PhD position: Formal methods in control (Munich,
+  Germany). http://bit.ly/2kfn9jK #PhD #CompSci 
+
++ 29-Ene-17: A Postdoc position in Imperial College London. 
+  http://bit.ly/2kAuTdS #PostDoc #CompSci
+
++ 29-Ene-17: Multiple research positions, "Type and proof structures for
+  concurrent software verification" project, Madrid, Spain
+  http://bit.ly/2kAnxqN #PhD #PostDoc #CompSci 
+
++ 27-Ene-17: Postdoc positions available for ERC "RustBelt" project on
+  foundations of Rust. http://bit.ly/2k9NnVk #PostDoc #CompSci 
+
 + 25-Ene-17: PhD position in Systematic testing of concurrent programs at
   Uppsala University, Sweden. http://bit.ly/2ktUc0p #PhD #CompSci
 

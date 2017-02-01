@@ -9,6 +9,17 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+
+*** Febrero de 2017
+
++ 01-Feb-17: #PostDoc opening on communication contracts for distributed
+  systems development. University of Lisbon. http://bit.ly/2jtU4ls #CompSci 
+
++ 01-Feb-17: Postdoctoral position on statistical program analysis and
+  synthesis at Rice University http://bit.ly/2kPJ2nQ #PostDoc #CompSci  
+
++ 01-Feb-17: Research positions at Galois. http://bit.ly/2kPHKcl #Jobs #CompSci
+
 *** Enero de 2017
 
 + 29-Ene-17: PhD position: Formal methods in control (Munich,

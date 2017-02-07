@@ -12,6 +12,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero de 2017
 
++ 07-Feb-17: #PhD student position in logic & security, London (England)
+  http://bit.ly/2lgj0NF #CompSci  
+
++ 07-Feb-17: Postdoc in sublinear/randomized algorithms at University of
+  Warwick. http://bit.ly/2lm6eKv #PostDoc #CompSci 
+
 + 04-Feb-17: #PostDoc position at the University of Kent: "Verifying concurrent
   algorithms on weak memory models" project. http://bit.ly/2l7kpTo #CompSci 
 

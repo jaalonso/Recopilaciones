@@ -9,6 +9,28 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+*** Marzo de 2017
+
++ 02-Mar-17: Fully-funded PhD in Formal Verification at
+  Oxford. http://bit.ly/2lWwWfc #PhD #CompSci 
+
++ 01-Mar-17: Convocatoria de becas Andalucia Open Future para alumnos de
+  estudios de posgrado de la Universidad de Sevilla. http://bit.ly/2mf5LwR  
+
++ 01-Mar-17: Santander Universidades convoca 31 Becas Iberoamérica para
+  estudiantes de la US. http://bit.ly/2mf3dPw  
+
++ O1-Mar-17: Postdoc at Inria/Irisa on translation validation from Liquid
+  Haskell http://bit.ly/2meLsjb #PosDoc #CompSci #Haskell 
+
++ 01-Mar-17: Postdoc position in Computer Science focused on SAT Solving at KTH
+  Royal Institute of Technology. http://bit.ly/2meUJI9 #PostDoc #CompSci
+
++ 01-Mar-17: PhD positions computational complexity at KTH Royal Institute of
+  Technology. http://bit.ly/2meDHcY #PhD #CompSci
+
++ 01-Mar-17: Ten PhD positions in "Computer Science" at the Gran Sasso Science
+  Institute http://bit.ly/2meMuvA #PhD #CompSci
 
 *** Febrero de 2017
 

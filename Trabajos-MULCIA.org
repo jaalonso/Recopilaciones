@@ -11,6 +11,24 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2017
 
++ 05-Mar-17: PhD student position in logic for decision making in security,
+  Bath (England). http://bit.ly/2mpFxaO #PhD #CompSci 
+
++ 04-Mar-17: PhD student positions in artificial intelligence, Manchester
+  (England). http://bit.ly/2m6BmzS #PhD #CompSci #AI 
+
++ 04-Mar-17: PhD student position in homotopy type theory, Amsterdam (The
+  Netherlands). http://bit.ly/2m6JkJp #PhD #Logic #CompSci 
+
++ 04-Mar-17: PhD student position in "Les Corses avaient-ils raison?", Paris
+  (France). http://bit.ly/2m71TNJ #PhD #CompSci 
+
++ 04.Mar-17: Postdoctoral researcher in Mathematical Logic and AI, Amsterdam
+  (The Netherlands). http://bit.ly/2m6tK0C #PosDoc #CompSci 
+
++ 04-Mar-17: Assistant/Associate Professorship (tenure track) in computational
+  linguistics, Trento (Italy). http://bit.ly/2mXwYky #Job #CompSci 
+
 + 02-Mar-17: Fully-funded PhD in Formal Verification at
   Oxford. http://bit.ly/2lWwWfc #PhD #CompSci 
 

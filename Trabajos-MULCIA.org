@@ -11,6 +11,31 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2017
 
++ 23-Mar-17: Postdoctoral research fellowship on category theory, North Ride
+  NSW (Australia). http://bit.ly/2o9pj2W #PostDoc #Logic #CompSci 
+
++ 23-Mar-17: PhD student or postdoc position in description logic, Bremen
+  (Germany). http://bit.ly/2o98mpl #PhD #PostDoc #CompSci 
+
++ 23-Mar-17: PhD student position in quantitative logics and automata, Dresden
+  (Germany). http://bit.ly/2o91kB1 #PhD #CompSci 
+
++ 23-Mar-17: PhD student position in SAT solving, Stockholm
+  (Sweden). http://bit.ly/2o955ql #PhD #Logic #CompSci 
+
++ 23-Mar-17: Postdoc position in proof theory in Paris. http://bit.ly/2o96VaC
+  #PostDoc #Logic 
+
++ 23-Mar-17: Postdoc in semantics and tools for functional quantum programming
+  languages. http://bit.ly/2o932CF #PostDoc #CompSci 
+
++ 23-Mar-17: Funded PhD studentship on formal verification for wireless sensor
+  networks. University of Liverpool, UK http://bit.ly/2o92cWm #PhD #CompSci 
+
++ 23-Mar-17: #PostDoc on automated verification of properties of concurrent,
+  distributed and parallel specifications. Copenhagen http://bit.ly/2nrQ5GZ
+  #CompSci
+
 + 05-Mar-17: PhD student position in logic for decision making in security,
   Bath (England). http://bit.ly/2mpFxaO #PhD #CompSci 
 

@@ -11,6 +11,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo de 2017
 
++ 27-Mar-17: Two PhD positions on CakeML and HOL at Chalmers,
+  Sweden. http://bit.ly/2n8PyGb #PhD #CompSci 
+
++ 24-Mar-17: Positions in Swansea with opportunities in types, semantics,
+  programming languages, verification, logic. http://bit.ly/2oedIjj #Job
+  #CompSci 
+
 + 23-Mar-17: Postdoctoral research fellowship on category theory, North Ride
   NSW (Australia). http://bit.ly/2o9pj2W #PostDoc #Logic #CompSci 
 

@@ -9,6 +9,17 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+*** Abril de 2017
+
++ 02-Abr-17: Associate Professorship in Logic (potentially tenure-track),
+  Hangzhou (China). http://bit.ly/2mXS6vD #Job #Logic 
+
++ 02-Abr-17: Postdoctoral position (3y+3y) in mathematics (algebra or analysis
+  or logic), Gent (Belgium). http://bit.ly/2mXUUss #PostDoc #Logic 
+
++ 02-Abr-17: PhD student positions in multi-agent systems, London
+  (England). http://bit.ly/2mY087I #PhD #CompSci 
+
 *** Marzo de 2017
 
 + 27-Mar-17: Two PhD positions on CakeML and HOL at Chalmers,

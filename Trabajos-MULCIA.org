@@ -11,6 +11,27 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2017
 
++ 10-Abr-16: #PostDoc position: source-code level program
+  verification. Singapore Univ. of Technology and Design http://bit.ly/2oXrSGC
+  #CompSci  
+
++ 10-Abr-17: 2 #PhD positions and 1 #PostDoc position in Twente (Netherlands):
+  Maximal Reliability of Concurrent and Distributed
+  Software. http://bit.ly/2oXyQLU #CompSci 
+
++ 10-Abr-17: #PhD positions at the University of Leicester: Type Theory, Logic
+  in Computer Science, Verification, and Category Theory. http://bit.ly/2oXH078
+  #CompSci  
+
++ 10-Abr-17: Associate Professor (TF) of Theoretical Computer Science in
+  Oxford. http://bit.ly/2oXsRa1 #Job #CompSci 
+
++ 10-Abr-17: #PostDoc position in machine learning for formal methods at Rice
+  University. http://bit.ly/2oXwT29 #CompSci 
+
++ 10-Abr-17: #PostDoc research fellowship in algorithmic game theory, Warwick
+  (England). http://bit.ly/2oXN4fD #CompSci 
+
 + 02-Abr-17: Associate Professorship in Logic (potentially tenure-track),
   Hangzhou (China). http://bit.ly/2mXS6vD #Job #Logic 
 

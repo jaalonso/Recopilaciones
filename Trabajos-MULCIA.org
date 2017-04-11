@@ -11,7 +11,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2017
 
-+ 10-Abr-16: #PostDoc position: source-code level program
++ 11-Abr-17: #PostDoc position at Queen Mary with a strong background in
+  programming languages and verification. http://bit.ly/2omFi0w #CompSci 
+
++ 10-Abr-17: #PostDoc position: source-code level program
   verification. Singapore Univ. of Technology and Design http://bit.ly/2oXrSGC
   #CompSci  
 

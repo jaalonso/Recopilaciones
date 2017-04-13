@@ -38,6 +38,8 @@ Está ordenada por países y universidades.
 
 * Estados Unidos
 
+** Bryn Mawr College
++ [[http://cs.brynmawr.edu/~rae/courses/17spring380/index.html][Modern functional programming]]. ~ [[http://cs.brynmawr.edu/~rae/][R.A. Eisenberg]]
 ** Universidad de Chicago
 + [[http://cmsc-16100.cs.uchicago.edu/2016/][Honors introduction to programming, I]]. ~ [[http://people.cs.uchicago.edu/~rchugh/][R. Chugh]] y  [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]
 + [[http://cmsc-22311.cs.uchicago.edu/2015/][Functional systems in Haskell]]. ~ [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]

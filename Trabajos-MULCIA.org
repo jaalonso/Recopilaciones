@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2017
 
++ 15-Abr-17: PhD position in Eindhoven on formal verification and GPU computing
+  http://bit.ly/2phVXE2 #PhD #CompSci 
+
 + 12-Abr-17: #PostDoc position at Wesleyan University on the topic of certified
   cost analysis of functional programs. http://bit.ly/2o4LhDU #CompSci 
 

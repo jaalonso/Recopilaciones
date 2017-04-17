@@ -95,6 +95,12 @@ Está ordenada por países y universidades.
 + [[http://www.irisa.fr/celtique/genet/ACF/][Analyse et conception formelles]]. ~ [[http://www.irisa.fr/celtique/genet][T. Genet]].
 + [[http://www.irisa.fr/celtique/genet/ACF][Software formal analysis and design]]. ~ T. Genet.
 
+
+* Japón
+
+*** Universidad de Tsukuba 
++ [[ghourabi.net/TP16.html][Exercises in Information Sciences II (Theorem Proving)]]. ~ [[https://www.researchgate.net/profile/Fadoua_Ghourabi][F. Ghourabi]]
+
 * Reino Unido
 
 *** Universidad de Cambridge

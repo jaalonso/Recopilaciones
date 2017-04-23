@@ -11,6 +11,22 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril de 2017
 
++ 23-Abr-17: #PhD student position in software engineering, highly configurable
+  systems, formal methods at Chalmers. Univ. of Gothenburg, Sweden
+  http://bit.ly/2ppz3uL  
+
++ 23-Abr-17: Open positions in Tokyo: Metamathematics for systems design
+  project. http://bit.ly/2ppBXj0 #Jobs #PostDoc #PhD #CompSci 
+
++ 23-Abr-17: OCaml jobs at genomics company in New York City.
+  http://bit.ly/2ppBmy0  #Job #FunctionalProgramming 
+
++ 23-Abr-17: Postdoctoral position in automata theory, Lyon
+  (France). http://bit.ly/2q3lhud #PostDoc #CompSci 
+
++ 23-Abr-17: PhD position: Order structures in bi-partite data, (at University
+  of Kassel) http://bit.ly/2q3oR7B #PhD #CompSci   
+
 + 15-Abr-17: PhD position in Eindhoven on formal verification and GPU computing
   http://bit.ly/2phVXE2 #PhD #CompSci 
 

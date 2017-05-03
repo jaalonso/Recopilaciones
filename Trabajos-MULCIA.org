@@ -8,8 +8,23 @@ Están en orden cronológico inverso por la fecha de su publicación en [[https:
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2017
+*** Mayo de 2017
++ 03-May.17: Haskell engineering role working on data security.
+  http://hubs.ly/H07llVW0 #Job #Haskell
+
++ 03-May-17: Research (postdoc or graduate) position in program verification
+  and security. http://bit.ly/2qD2rdJ #PostDoc #CompSci 
+
++ 03-May-17: PhD position in the field of programming techniques and
+  programming languages. U Tuebingen, Germany. http://bit.ly/2qCLBM7 #PhD
+  #CompSci 
+
++ 0
 
 *** Abril de 2017
+
++ 28-Abr-18: Summer contracting opportunity for CodeWorld. #Job #Haskell
+  https://mail.haskell.org/pipermail/haskell-cafe/2017-April/126903.html 
 
 + 23-Abr-17: #PhD student position in software engineering, highly configurable
   systems, formal methods at Chalmers. Univ. of Gothenburg, Sweden

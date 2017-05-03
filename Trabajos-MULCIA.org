@@ -19,8 +19,6 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   programming languages. U Tuebingen, Germany. http://bit.ly/2qCLBM7 #PhD
   #CompSci 
 
-+ 0
-
 *** Abril de 2017
 
 + 28-Abr-18: Summer contracting opportunity for CodeWorld. #Job #Haskell

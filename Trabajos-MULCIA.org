@@ -9,6 +9,26 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 *** Mayo de 2017
+
++ 04-May-17: Software Engineering/Research Intern - Galois,
+  Inc. http://bit.ly/2pD1IeZ #Job #CompSci #Haskell   
+
++ 04-May-17: #PhD and #PostDoc positions in the project "Strong modular proof
+  assistance: reasoning across theories". Innsbruck. http://bit.ly/2pCSz61
+  #CompSci  
+
++ 04-May-17: PhD position on security and privacy of location-based services at
+  Chalmers, Sweden. http://bit.ly/2pCNlav #PhD #CompSci  
+
++ 04-May-17: Kernkonzept seeks outstanding formal-methods experts to join their
+  team in Dresden, Germany. http://bit.ly/2pCHQbN #Job #CompSci 
+
++ 04-May-17: 1-2 PhD positions on combining formal methods and machine learning
+  (U. of Oslo). http://bit.ly/2pCVThz #PhD #CompSci 
+
++ 04-May-17: Research (postdoc or graduate) position in program verification
+  and security. http://bit.ly/2qD2rdJ #PhD #PostDoc #CompSci 
+
 + 03-May.17: Haskell engineering role working on data security.
   http://hubs.ly/H07llVW0 #Job #Haskell
 

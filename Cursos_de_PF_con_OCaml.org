@@ -14,3 +14,8 @@ ordenada por países y universidades.
 
 *** Universidad de París Diderot París 7
 + [[http://www.dicosmo.org/CourseNotes/pfav/][Programmation fonctionnelle avancée]]. ~ [[http://www.dicosmo.org][Roberto Di Cosmo]].
+
+* Estados Unidos
+
+*** Universidad de Cornell
++ [[https://www.cs.cornell.edu/courses/cs3110/2017sp/lecture_notes.php][Data structures and functional programming]]. ~ [[http://www.cs.cornell.edu/home/rc/][Robert L. Constable]] (4-May-17)

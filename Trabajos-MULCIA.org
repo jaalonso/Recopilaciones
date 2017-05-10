@@ -10,6 +10,18 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2017
 *** Mayo de 2017
 
++ 11-May-17: Researcher positions in HoTT at Carnegie Mellon
+  University. http://bit.ly/2q6pYEB #PostDoc #CompSci 
+
++ 11-May-17: Postdoc position at MPI-SWS, Kaiserslautern,
+  Germany. http://bit.ly/2q6ozxN #PostDoc #CompSci 
+
++ 05-May-17: Assistant Professorship in Theoretical Foundations of Computer
+  Science, Umea (Sweden). http://bit.ly/2qKK3zu #Job #CompSci 
+
++ 05-May-17: PostDoc in the project "Multivariate algorithms: new domains and
+  paradigms". Univ. of Bergen, Norway http://bit.ly/2qKS4EK #PostDoc #CompSci
+
 + 04-May-17: Software Engineering/Research Intern - Galois,
   Inc. http://bit.ly/2pD1IeZ #Job #CompSci #Haskell   
 

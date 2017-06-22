@@ -8,7 +8,108 @@ Están en orden cronológico inverso por la fecha de su publicación en [[https:
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2017
+
+*** Junio de 2017
+
++ 22-Jun-17: EPSRC Funded PhD Studentship: Testing from verified test-models
+  for ERTMS level 2 at Swansea, UK http://bit.ly/2rG4sqv #PhD #CompSci 
+
++ 22-Jun-17: A 3 year PhD with Grenoble University on service composition for
+  safety and security. http://bit.ly/2rFI6W3 #PhD #CompSci
+
++ 20-Jun-17: #Postdoc and #PhD positions in the ERC grant "A rigorous approach
+  to consistency in cloud databases" at IMDEA, Madrid http://bit.ly/2sZc4Z3
+  #CompSci 
+
++ 20-Jun-17: Twelve #PhD student positions in "Uncertainty & randomness in
+  algorithms, verification & logic", Aachen (Germany) http://bit.ly/2rFEjbn
+  #CompSci  
+
++ 19-Jun-17: Three #PhD positions in Security and Privacy at the University of
+  Luxembourg. http://bit.ly/2sYD22O #CompSci 
+
++ 13-Jun-17: #PhD student position in proof theory, Gothenburg
+  (Sweden). http://bit.ly/2sYX90P #Logic  
+
++ 10-Jun-17: #PhD student position and #postdoctoral position in program
+  logics, Erlangen (Germany). http://bit.ly/2sYLfnv #CompSci 
+
++ 08-Jun-17: #PhD and #Postdoc position in monad-based programming and
+  verification at FAU. http://bit.ly/2sYRjNb #CompSci 
+
++ 06-Jun-17: #PhD on lambda-calculus, in Paris. http://bit.ly/2sYDHkY #Logic
+  #CompSci 
+
++ 03-Jun-17: 2 #postdoct positions in a project concerned with the
+  formalisation of mathematics within Isabelle/HOL. Cambridge (England)
+  http://bit.ly/2rFQuF1 
+
++ 03-Jun-17: Three #postdoctoral research associates on interactive theorem
+  proving, Cambridge (England) http://bit.ly/2sZ1p0g #CompSci  
+
++ 01-Jun-17: #Postdoc position in the project "FORTissimo: Automating the
+  first-order theory of rewriting" at Innsbruck. http://bit.ly/2rFKCLQ #CompSci 
+
 *** Mayo de 2017
+
++ 30-May-17: #Postdoct position on graph data mining and anomaly
+  detection. http://bit.ly/2rFyM4A #CompSci 
+
++ 23-May-17: #Postdoct position in program analysis at the University of
+  Colorado Boulder. http://bit.ly/2sYVkRz #CompSci 
+
++ 20-May-17: #Postdoct researcher and (senior) research associate/scientist
+  positions at Penn State University. http://bit.ly/2sZ0Zab #CompSci  
+
++ 20-May-17: #MULCIA: #PostDoc position on the topic of certified cost analysis
+  of functional programs at Wesleyan University. http://bit.ly/2q3vnM1 #CompSci  
+
++ 20-May-17: #MULCIA: PostDoc in the project NSF "Relaxing soundness" at DePaul
+  University. http://bit.ly/2q3lIoF #PostDoc #CompSci 
+
++ 20-May-17: Research position in Program Verification and
+  Security. http://bit.ly/2q30Qhg #PostDoc #CompSci 
+
++ 14-May-17: #MULCIA: 22 PhD student positions in autonomous systems and
+  software. http://bit.ly/2pKfiuE #PhD #CompSci 
+
++ 14-May-17: #MULCIA: Assistant Professor in Mathematics. KU Leuven
+  University. http://bit.ly/2pKeRk0 #Job #Math 
+
++ 14-May-17: #MULCIA: Postdoctoral research fellowship (2y) in dynamical
+  multi-agent systems, Stockholm (Sweden). http://bit.ly/2pKIdi7 #PostDoc
+  #CompSci 
+
++ 14-May-17: #MULCIA: Two PhD student positions in computational linguistics,
+  Utrecht (The Netherlands) http://bit.ly/2pKRPt2 #PhD #CompSci 
+
++ 14-May-17: PhD student and postdoctoral positions in Information Security,
+  Stuttgart (Germany). http://bit.ly/2pKRwyi #PhD #PostDoc #CompSci 
+
++ 14-May-17: PhD student position on agent-based modeling of drones in
+  France. http://bit.ly/2pKxPH0 #PhD #CompSci 
+
++ 14-May-17: PhD position in Groningen on concurrency theory / semantics /
+  process calculi. http://bit.ly/2pKRbvC #PhD #CompSci 
+
++ 14-May-17: Researcher positions (postdoc) in "Verification of quantum
+  cryptography" at the University of Tartu, Estonia. http://bit.ly/2pKJaHe
+  #PostDoc #CompSci  
+
++ 14-May-17: Open PostDoc and Ph.D. positions in concurrency and software
+  security at TU Darmstadt, Germany. http://bit.ly/2r5Pmxr #PhD #PosDoc
+  #CompSci 
+
++ 14-May-17: Haskell development jobs with Well-Typed. http://bit.ly/2reTbh5
+  #Haskell #Jobs 
+
++ 14-May-17: Haskell startup jobs. https://angel.co/haskell/jobs #Haskell
+
++ 12-May-17: Galois is hiring. ~ Daniel Wagner http://bit.ly/2q7MXz7 #Job
+  #CompSci 
+
++ 12-May-17: PhD student position on functional heterogenous systems, in the
+  functional programming group at Chalmers http://bit.ly/2q7JTmy #PhD #CompSci 
 
 + 11-May-17: Researcher positions in HoTT at Carnegie Mellon
   University. http://bit.ly/2q6pYEB #PostDoc #CompSci 

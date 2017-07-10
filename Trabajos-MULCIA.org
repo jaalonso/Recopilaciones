@@ -9,7 +9,37 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+*** Julio de 2017
+
++ 10-Jul-17: #Postdoctoral fellowship at the interface between algebraic
+  topology and neuronal systems. BCAM. http://bit.ly/2v2QUqh #Math #CompSci
+
++ 07-Jul-17: Funded PhD studentship: Integrating automated provers in proof assistants. http://bit.ly/2v2XOvo #PhD #CompSci
+
++ 04-Jul-17: Funded PhD positions at Edinburgh verifying embedded ARM
+  security. http://bit.ly/2u4mXJg #PhD #CompSci 
+
 *** Junio de 2017
+
++ 30-Jun-17: #PostDoc position within the project "Translating and discovering
+  calculi for modal and related logics" http://bit.ly/2u4qfMg #Logic #CompSci 
+
++ 29-Jun-17: Programa de becas de movilidad académica entre instituciones
+  asociadas a la AUIP (Asociación Universitaria Iberoamericana de
+  Postgrado) 2017. http://www.auip.org/es/becasauip
+
++ 29-Jun-17: Programa de becas de movilidad entre universidades andaluzas e
+  iberoamericanas 2017. http://www.auip.org/es/becasauip
+
++ 27-Jun-17: Postdoctoral position on first-order theory of rewriting,
+  Innsbruck (Austria). http://bit.ly/2u3XgZ5 #PostDoc #CompSci 
+
++ 26-Jun-17: Research associate in approximate computing with application to
+  machine learning. http://bit.ly/2v2Np39 #PhD_CompSci 
+
++ 22-Jun-17: PostDoc position within the project "Communication contracts for
+  distributed systems development". Univ. of Lisbon. http://bit.ly/2v2HTxo
+  #PosDoc_CompSci 
 
 + 22-Jun-17: EPSRC Funded PhD Studentship: Testing from verified test-models
   for ERTMS level 2 at Swansea, UK http://bit.ly/2rG4sqv #PhD #CompSci 

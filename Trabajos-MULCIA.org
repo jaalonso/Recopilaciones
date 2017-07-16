@@ -11,6 +11,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2017
 
++ 15-Jul-17: Postdoctoral fellowship in computational models of reasoning,
+  Washington DC (U.S.A.). http://bit.ly/2tszQc4 #PostDoc #CompSci 
+
++ 11-Jul-17: Postdoc (PhD) position @ MPI-SWS in software verification and
+  approximate computing. http://bit.ly/2tsLFyR #PhD #PostDoc #CompSci 
+
 + 10-Jul-17: #Postdoctoral fellowship at the interface between algebraic
   topology and neuronal systems. BCAM. http://bit.ly/2v2QUqh #Math #CompSci
 

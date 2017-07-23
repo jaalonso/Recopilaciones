@@ -11,8 +11,24 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2017
 
++ 21-Jul-17: #PostDoc and #PhD positions in security & concurrency with formal
+  methods. TU Darmstadt. http://bit.ly/2vMzRc7 #CompSci 
+
++ 20-Jul-17: #PostDoc research position in theorem proving at University of
+  Manchester, UK. http://bit.ly/2vMNQyG #CompSci 
+
++ 19-Jul-17: Open PhD positions with a particular focus on Formal
+  Verification. University of Lübeck https://goo.gl/j9Co2y #PhD #CompSci 
+
++ 17-Jul-17: #PostDoc researcher and (senior) research associate/scientist
+  positions on automatic software analysis, transformation, and security
+  hardening at Penn State University. http://bit.ly/2vMOrAJ #CompSci 
+
 + 15-Jul-17: Postdoctoral fellowship in computational models of reasoning,
-  Washington DC (U.S.A.). http://bit.ly/2tszQc4 #PostDoc #CompSci 
+  Washington DC (U.S.A.). http://bit.ly/2tszQc4 #PostDoc #CompSci
+
++ 14-Jul-17: #PhD/#PostDoc position at the programming languages
+  group. University of Freiburg. http://bit.ly/2vMx2Ii #CompSci 
 
 + 11-Jul-17: Postdoc (PhD) position @ MPI-SWS in software verification and
   approximate computing. http://bit.ly/2tsLFyR #PhD #PostDoc #CompSci 

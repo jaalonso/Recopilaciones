@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2017
 
++ 23-Jul-17: #PhD studentship in verification of security and privacy in modern
+  threat landscapes. Univ. of Surrey http://bit.ly/2uryLmN #CompSci 
+
 + 21-Jul-17: #PostDoc and #PhD positions in security & concurrency with formal
   methods. TU Darmstadt. http://bit.ly/2vMzRc7 #CompSci 
 

@@ -11,6 +11,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio de 2017
 
++ 26-Ju-17: #PostDoc in the project "Semantics, formal reasoning, and tool
+  support for quantum programming”. Tulane Univ. http://bit.ly/2tLR7Sn #CompSci 
+
++ 25-Jul-17: #Job: Software engineer, static analysis at
+  Facebook. https://www.facebook.com/careers/jobs/a0I1200000LT8aA #CompSci
+
++ 24-Jul-17: #PhD / #PostDoc position to work in the Tyrex group at
+  INRIA/UGA/CNRS in Grenoble, France. http://bit.ly/2tM44Md #CompSci  
+
 + 23-Jul-17: #PhD studentship in verification of security and privacy in modern
   threat landscapes. Univ. of Surrey http://bit.ly/2uryLmN #CompSci 
 

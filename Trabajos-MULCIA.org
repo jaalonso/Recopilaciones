@@ -9,10 +9,29 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+*** Agosto de 2017
+
++ 04-Ago-17: PhD research fellow position in Proof Engineering Technologies in
+  Probabilistic Programming and Software Verification http://bit.ly/2ujNDD7
+  #PhD #CompSci 
+
++ 04-Ago-17: Postdoc in program semantics at Appalachian State
+  University. http://bit.ly/2vIwyWN #PostDoc #CompSci 
+
++ 04-Ago-17: Research assistant / associate in disciplined approximate
+  arithmetic. Imperial College London. http://bit.ly/2vIb0cP #PhD #PostDoc
+  #CompSci 
+
 *** Julio de 2017
+
++ 30-Jul-17: Postdoctoral position on effects and/or type theory at Inria in
+  Nantes. http://bit.ly/2ukpXy4 #PostDoc #CompSci 
 
 + 26-Ju-17: #PostDoc in the project "Semantics, formal reasoning, and tool
   support for quantum programming”. Tulane Univ. http://bit.ly/2tLR7Sn #CompSci 
+
++ 27-Jul-17: Postdoc position in program verification at Carnegie Mellon
+  University, Silicon Valley http://bit.ly/2ujNOhv #PostDoc #CompSci 
 
 + 25-Jul-17: #Job: Software engineer, static analysis at
   Facebook. https://www.facebook.com/careers/jobs/a0I1200000LT8aA #CompSci

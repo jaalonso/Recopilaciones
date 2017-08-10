@@ -18,7 +18,8 @@ Está ordenada por países y universidades.
   Blanchette]], [[http://perso.eleves.ens-rennes.fr/~mfleur01/][Mathias Fleury]] y [[http://people.mpi-inf.mpg.de/~dwand/][Daniel Wand]].
 
 *** Universidad técnica de Kaiserslautern
-+ [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd Poetzsch-Heffter.
++ [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd
+  Poetzsch-Heffter.
 
 *** Universidad técnica de Munich (TUM)
 + [[http://www4.in.tum.de/~ballarin/belgrade08-tut][Introduction to the Isabelle proof assistant]]. ~ C. Ballarin. 
@@ -37,7 +38,8 @@ Está ordenada por países y universidades.
 *** Universidad de Innsbruck
 + [[http://cl-informatik.uibk.ac.at/teaching/ws06/atp/introduction.php][Automated theorem proving in Isabelle/HOL]]. ~ C. Ballarin y T. Weber.
 + [[http://cl-informatik.uibk.ac.at/teaching/ss08/atp/introduction.php][Automatic deduction]]. ~ C. Ballarin.
-+ [[http://cl-informatik.uibk.ac.at/teaching/ss11/eve/content.php][Experiments in verification: Introduction to Isabelle/HOL]]. ~ Christian Sternagel
++ [[http://cl-informatik.uibk.ac.at/teaching/ss11/eve/content.php][Experiments in verification: Introduction to Isabelle/HOL]]. ~ Christian
+  Sternagel
 
 * Brasil
 
@@ -55,7 +57,7 @@ Está ordenada por países y universidades.
 
 *** Universidad de Edimburgo
 + [[http://www.inf.ed.ac.uk/teaching/courses/ar/slides][Automated reasoning (2013-14)]]. ~ J. Fleuriot y P. Jackson.
-+ [[http://www.inf.ed.ac.uk/teaching/courses/ar][Automated reasoning (2016-16)]]. ~ J. Fleuriot y P. Jackson.
++ [[http://www.inf.ed.ac.uk/teaching/courses/ar][Automated reasoning (2016-17)]]. ~ J. Fleuriot y P. Jackson.
 
 * Estados Unidos
 
@@ -67,7 +69,7 @@ Está ordenada por países y universidades.
 + [[https://frap.csail.mit.edu/main][Formal reasoning about programs]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
 
 *** Univ. de Colorado
-+ [[http://www.cs.colorado.edu/~siek/7000/spring07/][Practical theorem proving with Isabelle/Isar]]. ~ Jeremy G. Siek.
++ [[https://web.archive.org/web/20130423125039/http://www.cs.colorado.edu/~siek/7000/spring07/][Practical theorem proving with Isabelle/Isar]]. ~ Jeremy G. Siek.
 + [[http://ecee.colorado.edu/~siek/ecen5013/spring11][Theorem proving in Isabelle]]. ~ Jeremy G. Siek.
 
 *** Univ. de Northeastern
@@ -80,12 +82,6 @@ Está ordenada por países y universidades.
 + [[http://www.cs.utexas.edu/~isil/cs395t][Automated logical reasoning]]. ~ [[http://www.cs.utexas.edu/~isil][I. Dillig]]. 
 + [[http://www.cs.utexas.edu/~hunt/class/2015-fall/cs395t/index.html][SAT solving and theorem proving]]. ~ [[http://www.cs.utexas.edu/~hunt][W.A. Hunt, Jr.]]
 
-* Finlandia
-
-*** Universidad Åbo Akademi
-+ [[http://users.abo.fi/vpreotea/isabelle-2012][Introduction to mechanized reasoning with Isabelle/HOL]]. ~ Viorel Preoteasa,
-  Ralph-Johan Back y Charmi Panchal. 
-
 * Francia
 
 *** Universidad de Nica
@@ -95,11 +91,10 @@ Está ordenada por países y universidades.
 + [[http://www.irisa.fr/celtique/genet/ACF/][Analyse et conception formelles]]. ~ [[http://www.irisa.fr/celtique/genet][T. Genet]].
 + [[http://www.irisa.fr/celtique/genet/ACF][Software formal analysis and design]]. ~ T. Genet.
 
-
 * Japón
 
 *** Universidad de Tsukuba 
-+ [[ghourabi.net/TP16.html][Exercises in Information Sciences II (Theorem Proving)]]. ~ [[https://www.researchgate.net/profile/Fadoua_Ghourabi][F. Ghourabi]]
++ [[http://ghourabi.net/TP16.html][Exercises in Information Sciences II (Theorem Proving)]]. ~ [[https://www.researchgate.net/profile/Fadoua_Ghourabi][F. Ghourabi]]
 
 * Reino Unido
 

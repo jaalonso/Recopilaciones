@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2017
 
++ 09-Ago-17: PhD student position in correct parallel algorithms, Leiden (The
+  Netherlands). http://bit.ly/2vRHzpB #PhD #CompSci 
+
 + 04-Ago-17: PhD research fellow position in Proof Engineering Technologies in
   Probabilistic Programming and Software Verification http://bit.ly/2ujNDD7
   #PhD #CompSci 

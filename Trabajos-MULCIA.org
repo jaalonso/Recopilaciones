@@ -11,6 +11,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2017
 
++ 17-Ago-17: Research position in formal methods for intelligent
+  cars. http://bit.ly/2vXKtYO #PostDoc #CompSci 
+
++ 14-Ago-17: Academic position at University of Glasgow, Scotland
+  (UK). http://bit.ly/2vX50wu #PostDoc #CompSci 
+
 + 09-Ago-17: PhD student position in correct parallel algorithms, Leiden (The
   Netherlands). http://bit.ly/2vRHzpB #PhD #CompSci 
 

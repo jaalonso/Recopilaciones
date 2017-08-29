@@ -11,7 +11,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2017
 
-+ 26-Sep-17: PhD student position in software testing and verification at
++ 28-Ago-17: Two PhD Positions in social network analysis.http://bit.ly/2wZdc03
+  #PhD #CompSci   
+
++ 26-Ago-17: Six full professorships in computing (including algorithms &
+  complexity), Leeds (England). http://bit.ly/2vzHJ1d #Jobs #CompSci 
+
++ 26-Ago-17: PhD student position in software testing and verification at
   Mälardalen University http://bit.ly/2wGKT7k #PhD #CompSci 
 
 + 17-Ago-17: Research position in formal methods for intelligent

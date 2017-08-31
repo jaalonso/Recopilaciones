@@ -11,6 +11,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto de 2017
 
++ 31-Ago-17: Postdoctoral research associate in verifiable autonomous robotics
+  within hazardous environments. Univ. Liverpool http://bit.ly/2x7sBf2 #PostDoc
+  #CompSci 
+
 + 28-Ago-17: Two PhD Positions in social network analysis.http://bit.ly/2wZdc03
   #PhD #CompSci   
 

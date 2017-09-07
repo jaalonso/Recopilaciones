@@ -12,8 +12,17 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2017
 
-+ 01-Sep-16: #MULCIA: Position of Junior Quant Researcher at
-  ARFIMA. http://bit.ly/2wXoBhW #PostDoc #Math #CompSci 
++ 07-Sep-17: Concurrency/verification positions at Politecnico di
+  Milano. http://bit.ly/2wIGqzQ #PostDoc #CompSci
+
++ 06-Sep-17: Call for Inria postdoc applications in formal methods for
+  security. http://bit.ly/2wJsQwe #PostDoc #CompSci
+
++ 06-Sep-17: Open positions in Tokyo: Formal methods and cyber-physical
+  systems. http://bit.ly/2wJM8BM #PhD #PostDoc #CompSci
+
++ 01-Sep-17: Position of Junior Quant Researcher at
+  ARFIMA. http://bit.ly/2wXoBhW #PostDoc #Math #CompSci
 
 *** Agosto de 2017
 
@@ -172,26 +181,26 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 20-May-17: #Postdoct researcher and (senior) research associate/scientist
   positions at Penn State University. http://bit.ly/2sZ0Zab #CompSci  
 
-+ 20-May-17: #MULCIA: #PostDoc position on the topic of certified cost analysis
++ 20-May-17: #PostDoc position on the topic of certified cost analysis
   of functional programs at Wesleyan University. http://bit.ly/2q3vnM1 #CompSci  
 
-+ 20-May-17: #MULCIA: PostDoc in the project NSF "Relaxing soundness" at DePaul
++ 20-May-17: PostDoc in the project NSF "Relaxing soundness" at DePaul
   University. http://bit.ly/2q3lIoF #PostDoc #CompSci 
 
 + 20-May-17: Research position in Program Verification and
   Security. http://bit.ly/2q30Qhg #PostDoc #CompSci 
 
-+ 14-May-17: #MULCIA: 22 PhD student positions in autonomous systems and
++ 14-May-17: 22 PhD student positions in autonomous systems and
   software. http://bit.ly/2pKfiuE #PhD #CompSci 
 
-+ 14-May-17: #MULCIA: Assistant Professor in Mathematics. KU Leuven
++ 14-May-17: Assistant Professor in Mathematics. KU Leuven
   University. http://bit.ly/2pKeRk0 #Job #Math 
 
-+ 14-May-17: #MULCIA: Postdoctoral research fellowship (2y) in dynamical
++ 14-May-17: Postdoctoral research fellowship (2y) in dynamical
   multi-agent systems, Stockholm (Sweden). http://bit.ly/2pKIdi7 #PostDoc
   #CompSci 
 
-+ 14-May-17: #MULCIA: Two PhD student positions in computational linguistics,
++ 14-May-17: Two PhD student positions in computational linguistics,
   Utrecht (The Netherlands) http://bit.ly/2pKRPt2 #PhD #CompSci 
 
 + 14-May-17: PhD student and postdoctoral positions in Information Security,

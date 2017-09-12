@@ -12,6 +12,22 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2017
 
++ 12-Sep-17: PhD positions in "Verification of Quantum Cryptography"
+  http://bit.ly/2eSaAH7 #PhD #CompSci 
+
++ 12-Sep-17: Researcher positions (postdoc) in "Verification of Quantum
+  Cryptography". http://bit.ly/2eRzd71 #PostDoc #CompSci 
+
++ 10-Sep-17: PhD student positions in mathematics, Helsinki
+  (Finland). http://bit.ly/2eRY4aO #PhD #Logic 
+
++ 09-Sep-17: Functional Jobs: Backend Ruby and Haskell engineer at Health
+  eFilings (Full-time) http://bit.ly/2xV9zq4 #Jobs #Haskell
+
++ 08-Sep-17: A PhD position in the area of "Formal methods for requirements
+  validation of resilient systems" in Trento. http://bit.ly/2eSrNQG #PhD
+  #CompSci 
+
 + 07-Sep-17: Concurrency/verification positions at Politecnico di
   Milano. http://bit.ly/2wIGqzQ #PostDoc #CompSci
 

@@ -12,6 +12,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2017
 
++ 14-Sep-17: PhD studentships in computing at Imperial College
+  London. http://bit.ly/2y8hr7S #PhD #CompSci 
+
++ 14-Sep-17: Postdoctoral position in SAT solving, Stockholm
+  (Sweden). http://bit.ly/2y8h0dK #PostDoc #CompSci
+
 + 12-Sep-17: PhD research fellow position in Proof Engineering Technologies in
   Probabilistic Programming and Software Verification. http://bit.ly/2xhLhJh
   #PhD #CompSci 

@@ -43,6 +43,10 @@ Está ordenada por países y universidades.
 ** Universidad de Chicago
 + [[http://cmsc-16100.cs.uchicago.edu/2016/][Honors introduction to programming, I]]. ~ [[http://people.cs.uchicago.edu/~rchugh/][R. Chugh]] y  [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]
 + [[http://cmsc-22311.cs.uchicago.edu/2015/][Functional systems in Haskell]]. ~ [[http://people.cs.uchicago.edu/~stuart/][S.A. Kurtz]]
+
+** Universidad de Mississippi
++ [[https://john.cs.olemiss.edu/~hcc/csci450/csci450.html][Fundamental concepts in languages]]. ~ [[https://john.cs.olemiss.edu/~hcc/HOME_hcc.html][C. Cunningham]]
+
 ** Universidad de Pensilvania
 + [[http://www.seas.upenn.edu/~cis552/13fa/][Advanced programming]]. ~ [[http://www.seas.upenn.edu/~sweirich][S. Weirich]].
 + [[http://cis.upenn.edu/~cis194/fall14/spring13/][Introduction to Haskell (Spring 2013)]]. ~ B. Yorgey.
@@ -71,7 +75,6 @@ Está ordenada por países y universidades.
 
 ** Universidad Noruega de Ciencia y Tecnología (NTNU)
 + [[http://www.hg.schaathun.net/FPIA/][Functional programming and intelligent algorithms]]. ~ [[http://www.hg.schaathun.net/][Hans Georg Schaathun]]
-
 
 
 * Países Bajos

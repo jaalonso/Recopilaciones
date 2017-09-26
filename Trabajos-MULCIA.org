@@ -11,6 +11,14 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Septiembre de 2017
+
++ 24-Sep-17: Two research associates in software testing, security and
+  programming languages. Imperial College London. http://bit.ly/2fPv1Wm
+  #PostDoc #CompSci
+
++ 22-Sep-17: Haskell job opportunity at RELEX Solutions in Helsinki,
+  Finland. http://bit.ly/2xkvNob #Job #Haskell 
+
 + 21-Sep-17: Research associate in testing web browser security. Imperial
   College London, http://bit.ly/2xlaLWe #PostDoc #CompSci 
 

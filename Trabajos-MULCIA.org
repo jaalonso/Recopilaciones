@@ -12,6 +12,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2017
 
++ 28-Sep-17: fortiss GmbH: Open-minded and pragmatic
+  researcher. http://bit.ly/2xDFPhH #Job #CompSci  
+
 + 24-Sep-17: Two research associates in software testing, security and
   programming languages. Imperial College London. http://bit.ly/2fPv1Wm
   #PostDoc #CompSci

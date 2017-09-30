@@ -12,6 +12,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre de 2017
 
++ 28-Sep-17: PhD studentship in software engineering/programming languages in
+  New York City. http://bit.ly/2xGwSXk #PhD #CompSci 
+
++ 28-Sep-17: Postdoctoral researcher position in the Security of Software Lab
+  at the Pennsylvania State University. http://bit.ly/2xGwLem #PostDoc #CompSci 
+
 + 28-Sep-17: fortiss GmbH: Open-minded and pragmatic
   researcher. http://bit.ly/2xDFPhH #Job #CompSci  
 

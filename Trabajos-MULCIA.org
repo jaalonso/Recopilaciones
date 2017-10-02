@@ -10,6 +10,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2017
 
 
+*** Octubre de 2017
++ 01-Oct-17: PhD student grants (in particular, mathematical logic and set
+  theory), Hamburg (Germany). http://bit.ly/2xJ4gwO #PhD #Logic 
+
++ 01-Oct-17: #PostDoc and #PhD in applying formal verification to new
+  biological computing devices. Israel. http://bit.ly/2xKyWhi #CompSci 
+ 
 *** Septiembre de 2017
 
 + 28-Sep-17: PhD studentship in software engineering/programming languages in

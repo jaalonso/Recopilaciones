@@ -11,6 +11,14 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Octubre de 2017
+
++ 09-Oct-17: PostDoc position: "Specification and verification of quantum
+  programming languages" at CEA and Uni. Paris Sud, France
+  http://bit.ly/2y5V0TJ #PostDoc #CompSci
+
++ 04-Oct-17: PhD student position on formal verification of  security and
+  privacy. Guildford (England). http://bit.ly/2xWfzPQ #PhD #CompSci 
+
 + 01-Oct-17: PhD student grants (in particular, mathematical logic and set
   theory), Hamburg (Germany). http://bit.ly/2xJ4gwO #PhD #Logic 
 

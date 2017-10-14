@@ -11,6 +11,14 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Octubre de 2017
++ 14-Oct-17: Postdoctoral position in natural language processing and knowledge
+  representation. https://yhoo.it/2znEdJl #PostDoc #CompSci 
+
++ 11-Oct-17: Two PhD student positions in formal verification, Columbia MO
+  (U.S.A.). http://bit.ly/2znQPR4 #PhD #CompSci 
+
++ 11-Oct-17: PhD student positions in theoretical computer science, Stockholm
+  (Sweden). http://bit.ly/2zlHjO5 #PhD #CompSci  
 
 + 09-Oct-17: PostDoc position: "Specification and verification of quantum
   programming languages" at CEA and Uni. Paris Sud, France

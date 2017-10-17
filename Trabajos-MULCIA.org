@@ -11,6 +11,10 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Octubre de 2017
++ 16-Oct-17: PhD student position in Artificial Intelligence (computational
+  models of strategic behaviour), Warwick (England). http://bit.ly/2yurshX #PhD
+  #CompSci 
+
 + 14-Oct-17: Postdoctoral position in natural language processing and knowledge
   representation. https://yhoo.it/2znEdJl #PostDoc #CompSci 
 

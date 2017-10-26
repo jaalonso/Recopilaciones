@@ -11,6 +11,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Octubre de 2017
+
++ 26-Oct-17: Research Fellowship to work on Homotopy Type
+  Theory. http://bit.ly/2z8eFTZ #PostDoc #CompSci 
+
++ 25-Oct-17: Postdoctoral position in formal semantics and compiler
+  verification http://eapls.org/items/2641 #PostDoc #CompSci 
+
 + 16-Oct-17: PhD student position in Artificial Intelligence (computational
   models of strategic behaviour), Warwick (England). http://bit.ly/2yurshX #PhD
   #CompSci 

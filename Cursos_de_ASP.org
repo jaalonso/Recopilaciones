@@ -1,0 +1,17 @@
+#+TITLE:   Cursos de ASP (Answer Set Programming)
+#+AUTHOR:  José A. Alonso
+#+DATE:    30 de octubre de 2017
+#+OPTIONS: H:2 num:t 
+
+En esta página se recopilan cursos de programación con conjuntos de respuestas
+(ASP, del inglés /Answer Set Programming/).
+
+Está ordenada por países y universidades.
+
+* Estados Unidos
+
+** UC Santa Cruz
+
++ [[https://canvas.ucsc.edu/courses/1338][Applied ASP (2017)]]. ~ [[https://adamsmith.as][Adam M. Smith]].
++ [[https://docs.google.com/document/u/2/d/e/2PACX-1vSxJCPMe3jL2RxdgcyXilDPDGXuojx5SVIrWRRztPEKKZfWOm5Z9rePIfP8rD6YZ5xRcGg9x3iI20yo/pub][Answer Set Programming Tutorial]]. ~ [[https://adamsmith.as][Adam M. Smith]].
+

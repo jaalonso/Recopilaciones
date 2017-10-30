@@ -78,7 +78,6 @@ Está ordenada por países y universidades.
 ** Universidad Noruega de Ciencia y Tecnología (NTNU)
 + [[http://www.hg.schaathun.net/FPIA/][Functional programming and intelligent algorithms]]. ~ [[http://www.hg.schaathun.net/][Hans Georg Schaathun]]
 
-
 * Países Bajos
 
 ** Universidad de Utrecht

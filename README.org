@@ -4,7 +4,8 @@ El contenido de este directorio el siguiente:
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_Haskell.org][Cursos de programación funcional con Haskell]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_OCaml.org][Cursos de programación funcional con OCaml]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PL_con_Prolog.org][Cursos de programación lógica con Prolog]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_programacion.org][Cursosde programación]].
++ [[./Cursos_de_ASP.org][Cursos de ASP]].
++ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_programacion.org][Cursos de programación]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_RA.org][Cursos de razonamiento automático y demostración asistida por ordenador]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Trabajos-MULCIA.org][Trabajos-MULCIA]]: Ofertas de trabajo de interés para los estudiantes del
   Máster Universitario en Lógica, Computación e Inteligencia Artificial de la

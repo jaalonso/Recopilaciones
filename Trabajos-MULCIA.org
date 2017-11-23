@@ -10,13 +10,51 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2017
 
 
+*** Noviembre de 2017
+
++ 19-Nov-17: PhD positions at CMU for students interested in doing research in
+  type theory, homotopy theory, (higher) category theory, and related
+  areas. http://bit.ly/2hL7gzd #PhD #CompSci 
+
++ 17-Nov-17: PhD studentship on "The ethics of AI", Oxford
+  (England). http://bit.ly/2hLGLtk #PhD #AI 
+
++ 16-Nov-17: Two postdoctoral positions on interpretable vector space models,
+  Cardiff (Wales). http://bit.ly/2zZji2c #PostDoc #CompSci 
+
++ 14-Nov-17: Postdoc Positions at The University of Pennsylvania to work on
+  projects related to verification, software specification, and
+  security. http://bit.ly/2A1BKr6 #PostDoc #CompSci 
+
++ 13-Nov-17: Open Postdoc position on higher-order model checking, at the
+  University of Tokyo, Japan. http://bit.ly/2zZcsJU #PostDoc #CompSci 
+ 
+
 *** Octubre de 2017
+
++ 31-Oct-17: Data61 seeking proof engineers. http://bit.ly/2gYurJy #Job
+  #CompSci
+
++ 31-Oct-17: Data61 seeking senior proof engineers. http://bit.ly/2gYurJy #Job
+  #CompSci 
+
++ 31-Oct-17: #PostDoc in the project "Algorithms that count: exploring the
+  limits of tractability" at Queen Mary, London. http://bit.ly/2gZ7Oo9 #CompSci
+
++ 31-Oct-17: PhD student position in Artificial Intelligence, Mannheim
+  (Germany). http://bit.ly/2gXMu2H #PhD #CompSci 
+
++ 30-Oct-17: #Job opening at Symbiont in New York City: advanced type systems
+  and/or formal verification techniques. http://bit.ly/2gWUL6R #CompSci 
 
 + 26-Oct-17: Research Fellowship to work on Homotopy Type
   Theory. http://bit.ly/2z8eFTZ #PostDoc #CompSci 
 
 + 25-Oct-17: Postdoctoral position in formal semantics and compiler
   verification http://eapls.org/items/2641 #PostDoc #CompSci 
+
++ 20-Oct-17: Postdoc in algorithmic economics, New York City NY
+  (U.S.A.). http://bit.ly/2gYxHVk #PostDoc #CompSci 
 
 + 16-Oct-17: PhD student position in Artificial Intelligence (computational
   models of strategic behaviour), Warwick (England). http://bit.ly/2yurshX #PhD

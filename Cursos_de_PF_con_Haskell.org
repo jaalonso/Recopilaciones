@@ -110,6 +110,11 @@ Está ordenada por países y universidades.
 ** Univ. de la República, Montevideo
 + [[https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma][Programación funcional avanzada]]. ~ [[https://www.fing.edu.uy/~mviera/wiki/field.php?n=Main.Home][M. Viera]] y [[https://www.fing.edu.uy/~pardo/][A. Pardo]]. 
 
+* Venezuela
+
+** Univ. Simón Bolívar
++ [[http://ldc.usb.ve/~emhn/cursos/ci4251/][Programación funcional avanzada (2017)]]. ~ [[http://ldc.usb.ve/~emhn/][Ernesto Hernández-Novich]].   
+
 * Vídeos de Haskell
 
 ** Vídeo tutoriales de Haskell

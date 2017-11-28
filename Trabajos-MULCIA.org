@@ -12,6 +12,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Noviembre de 2017
 
++ 27-Nov-17: Multiple Ph.D. positions in the Software Factory 4.0 project at TU
+  Darmstadt. http://bit.ly/2hYqeCx #PhD #CompSci 
+
++ 23-Nov-17: Job offer on formalizing complexity and termination techniques at
+  the University of Innsbruck. http://bit.ly/2jsqslu #PhD #PostDoc #CompSci 
+
 + 19-Nov-17: PhD positions at CMU for students interested in doing research in
   type theory, homotopy theory, (higher) category theory, and related
   areas. http://bit.ly/2hL7gzd #PhD #CompSci 

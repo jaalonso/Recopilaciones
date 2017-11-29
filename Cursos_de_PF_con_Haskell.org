@@ -139,3 +139,4 @@ Está ordenada por países y universidades.
 * Otros materiales
 
 + [[http://bit.ly/1qGjwMN][Haskell online study materials]].
++ [[https://github.com/HaskellChamber/Haskell-University][Haskell-University: Portfolio-based approach to learning Haskell]].

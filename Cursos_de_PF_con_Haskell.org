@@ -140,3 +140,5 @@ Está ordenada por países y universidades.
 
 + [[http://bit.ly/1qGjwMN][Haskell online study materials]].
 + [[https://github.com/HaskellChamber/Haskell-University][Haskell-University: Portfolio-based approach to learning Haskell]].
++ [[https://github.com/jagajaga/FP-Course-ITMO][Slides and other materials for functional programming lectures ITMO
+  university]]. ~ [[https://github.com/ChShersh][D. Kovanikov]] y [[https://github.com/jagajaga][A. Seroka]]. 

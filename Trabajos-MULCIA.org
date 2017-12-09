@@ -9,14 +9,38 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2017
 
+*** Diciembre de 2017
+
++ 09-Dic-17: 10 fully-funded PhD studentships. University of Nottingham -
+  Computer Science. http://bit.ly/2nMls0I #PhD #CompSci
+
++ 09-Dic-17: The School of Computer Science in Nottingham is advertising 10
+  fully-funded PhD studentships. Applicants in the area of the Functional
+  Programming Lab are encouraged! http://bit.ly/2AnUGl7 #PhD #CompSci  
+
++ 04-Dic-17: PhD studentship in applications of logic and category theory to
+  the semantics of  non-classical computational models, London
+  (England). http://resources.illc.uva.nl/LogicList/newsitem.php?id=8659 #PhD
+  #CompSci 
+
++ 01-Dic-17: One year fellowship in Padova on "Homotopy type theoretic aspects
+  within he Minimalist  Foundation". http://bit.ly/2nKEeFt #PhD #Logic #CompSci 
 
 *** Noviembre de 2017
 
 + 27-Nov-17: Multiple Ph.D. positions in the Software Factory 4.0 project at TU
   Darmstadt. http://bit.ly/2hYqeCx #PhD #CompSci 
 
++ 23-Nov-17: 2 studentships in Swansea Railway Verification Group on formal
+  modelling, analysing and testing of real time systems. http://bit.ly/2nL1Yt9
+  #PhD #CompSci 
+
 + 23-Nov-17: Job offer on formalizing complexity and termination techniques at
   the University of Innsbruck. http://bit.ly/2jsqslu #PhD #PostDoc #CompSci 
+
++ 22-Nov-17: PhD student positions in homotopy type theory, Pittsburgh PA
+  (U.S.A.). http://resources.illc.uva.nl/LogicList/newsitem.php?id=8656 #PhD
+  #CompSci 
 
 + 19-Nov-17: PhD positions at CMU for students interested in doing research in
   type theory, homotopy theory, (higher) category theory, and related
@@ -35,7 +59,6 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 13-Nov-17: Open Postdoc position on higher-order model checking, at the
   University of Tokyo, Japan. http://bit.ly/2zZcsJU #PostDoc #CompSci 
  
-
 *** Octubre de 2017
 
 + 31-Oct-17: Data61 seeking proof engineers. http://bit.ly/2gYurJy #Job

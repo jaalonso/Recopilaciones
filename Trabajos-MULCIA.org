@@ -11,6 +11,25 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2017
 
++ 12-Dic-17: Fully-funded PhD Studentship at Oxford in machine learning for
+  verification. http://bit.ly/2nU7ObK #PhD #CompSci
+
++ 12-Dic-17: Postdoctoral research associate in proof-driven query planning (2
+  posts). University of Oxford. http://bit.ly/2nSqvg4 #PostDoc #CompSci 
+
++ 12-Dic-17: PhD positions at the University of Pennsylvania in programming
+  languages and formal methods. http://bit.ly/2nXniMr #PhD #CompSci 
+
++ 12-Dic-17: PhD position at Aalborg University: Compositional verification of
+  real-time multi-core safety critical systems. http://bit.ly/2C5LE9D #PhD
+  #CompSci 
+
++ 12-Dic-17: PhD student positions in computer science ("logic for agents"),
+  Nottingham (England). http://bit.ly/2nRBExP #PhD #CompSci 
+
++ 10-Dic-17: Postdoctoral researcher in Logic. University of
+  Gothenburg. http://bit.ly/2nLvAGN #PostDoc #Logic 
+
 + 09-Dic-17: 10 fully-funded PhD studentships. University of Nottingham -
   Computer Science. http://bit.ly/2nMls0I #PhD #CompSci
 

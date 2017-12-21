@@ -11,6 +11,21 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Diciembre de 2017
 
++ 21-Dic-17: PhD position in computer science focused on SAT Solving at KTH
+  Royal Institute of Technology. http://bit.ly/2DloRqQ #PhD #CompSci
+
++ 21-Dic-17: Postdoc position in computer science focused on SAT solving at KTH
+  Royal Institute of Technology. http://bit.ly/2p2IjFN #PhD #CompSci 
+
++ 21-Dic-17: Postdoc at CMU or a project in formal verification, dynamical
+  systems, and constructive analysis. http://bit.ly/2p2koGB #PostDoc #CompSci 
+
++ 21-Dic-17: PhD student position in Cognitive Reasoning, Wernigerode
+  (Germany). http://bit.ly/2p3WgU6 #PhD #CompSci 
+
++ 21-Dic-17: PhD student position in knowledge representation and reasoning
+  techniques, Ulm (Germany). http://bit.ly/2p4GEQb #PhD #CompSci 
+
 + 12-Dic-17: Fully-funded PhD Studentship at Oxford in machine learning for
   verification. http://bit.ly/2nU7ObK #PhD #CompSci
 

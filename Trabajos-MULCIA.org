@@ -7,6 +7,16 @@ Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
 el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
+** 2018
+
+*** Enero de 2018
+
++ 04-Ene-18: PhD student position in SAT solving, Stockholm (Sweden). 
+  http://bit.ly/2E8mYO1 #PhD #CompSci 
+
++ 04-Ene-18: Various PhD student funding opportunities in theoretical computer
+  Science, Swansea (Wales). http://bit.ly/2E65JN6 #PhD #CompSci  
+
 ** 2017
 
 *** Diciembre de 2017

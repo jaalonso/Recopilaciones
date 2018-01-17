@@ -1,0 +1,13 @@
+#+TITLE:  Cursos de programación funcional con Scala
+#+AUTHOR: José A. Alonso
+#+DATE:   17 de enero de 2018
+
+En esta página se recopilan cursos de programación funcional con Scala. Está
+ordenada por países y universidades.
+
+* Suiza
+
+*** EPFL (Ecole polytechnique fédérale de Lausanne)
+
++ [[http://lara.epfl.ch/w/funprog17:top][Functional Programming 2017]]. ~  [[http://lara.epfl.ch/~kuncak/][V. Kunčak]].
+

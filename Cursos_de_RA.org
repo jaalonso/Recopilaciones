@@ -68,6 +68,10 @@ Está ordenada por países y universidades.
 + [[http://stellar.mit.edu/S/course/6/fa11/6.892/][Interactive computer theorem proving]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
 + [[https://frap.csail.mit.edu/main][Formal reasoning about programs]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
 
+
+*** Univ. de Berkeley
++ [[https://people.eecs.berkeley.edu/~sseshia/219c/index.html][Formal methods: specification, verification, and synthesis]]. ~ [[http://www.eecs.berkeley.edu/~sseshia][S.A. Seshia]].
+
 *** Univ. de Colorado
 + [[https://web.archive.org/web/20130423125039/http://www.cs.colorado.edu/~siek/7000/spring07/][Practical theorem proving with Isabelle/Isar]]. ~ Jeremy G. Siek.
 + [[http://ecee.colorado.edu/~siek/ecen5013/spring11][Theorem proving in Isabelle]]. ~ Jeremy G. Siek.
@@ -81,6 +85,9 @@ Está ordenada por países y universidades.
 *** Universidad de Tejas en Austin
 + [[http://www.cs.utexas.edu/~isil/cs395t][Automated logical reasoning]]. ~ [[http://www.cs.utexas.edu/~isil][I. Dillig]]. 
 + [[http://www.cs.utexas.edu/~hunt/class/2015-fall/cs395t/index.html][SAT solving and theorem proving]]. ~ [[http://www.cs.utexas.edu/~hunt][W.A. Hunt, Jr.]]
+
+*** Universidad de Whashington
++ [[https://courses.cs.washington.edu/courses/cse507/17wi/calendar.html][Computer-aided reasoning for software]]. ~ [[https://homes.cs.washington.edu/~emina/][E. Torlak]] 
 
 * Francia
 
@@ -108,6 +115,9 @@ Está ordenada por países y universidades.
 + [[http://www.csc.kth.se/utbildning/kth/kurser/DD2453/aform07][Advanced formal methods]]. ~ M. Dam.
 
 * Suiza
+
+*** EPFL (Ecole polytechnique fédérale de Lausanne)
++ [[http://lara.epfl.ch/w/sav13:top][Synthesis, analysis, and verification]]. ~ [[https://people.epfl.ch/etienne.kneuss][E. Kneuss]], [[http://lara.epfl.ch/~kuncak/][V. Kunčak]].
 
 *** ETH de Zúrich
 + [[http://archiv.infsec.ethz.ch/education/permanent/csmr.html][Computer-supported modeling and reasoning]]. ~ A.D. Brucker, D. Basin,

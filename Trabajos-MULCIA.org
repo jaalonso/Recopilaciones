@@ -11,6 +11,41 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2018
 
++ 17-Ene-18: Various PhD student funding opportunities in theoretical computer
+  Science, Swansea (Wales). http://bit.ly/2E65JN6 #PhD #CompSci 
+
++ 17-Ene-18: PhD position available, Imperial College London on the analysis
+  and verification of concurrent and web programs. http://bit.ly/2EOoPb6 #PhD
+  #CompSci  
+
++ 17-Ene-18: Research Associate Univ. de Cambridge: The project is entitled
+  "How to (re)represent it?" and is led by Dr Mateja
+  Jamnik. http://bit.ly/2FNrh2L #PhD #PostDoc #CompSci 
+
++ 17-Ene-18: Postdoc at Imperial College London on detecting and surviving
+  exploitable compiler bugs. http://bit.ly/2EM6N9p #PostDoc #CompSci 
+
++ 17-Ene-18: Postdoc positions at the University of Pennsylvania to work on
+  projects related to verification, software specification, and
+  security. http://bit.ly/2FJBUUj #PostDoc #CompSci 
+
++ 17-Ene-18: Postdoctoral Fellowships at Trinity College Dublin supervised by
+  staff members of the Foundations, Methods & Programming Languages
+  Group. http://bit.ly/2EPs5Tn #PostDoc #CompSci  
+
++ 17-Ene-18: Two PhD positions on analysis and verification at the University
+  of Chieti-Pescara in Italy. http://bit.ly/2ENntND #PhD #CompSci  
+
++ 17-Ene-18: Post-doc position at the Department of Computer Science and
+  Engineering (University of Bologna, Italy) on: "Formal methods: description
+  and analysis of distributed systems". http://bit.ly/2EOaUSf #PostDoc #CompSci   
+
++ 17-Ene-18: Post-doc "A formally verified symbolic interpreter for the CoLiS
+  language". INRIA, Orsay http://bit.ly/2FMgypo #PostDoc #CompSci    
+
++ 17-Ene-18: Postdoctoral Researcher in Logic. University of
+  Gothenburg. http://bit.ly/2FLrH9W #PostDoc #Logic
+
 + 04-Ene-18: PhD student position in SAT solving, Stockholm (Sweden). 
   http://bit.ly/2E8mYO1 #PhD #CompSci 
 

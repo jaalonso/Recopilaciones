@@ -3,6 +3,7 @@ El contenido de este directorio el siguiente:
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_Logica_computacional.org][Cursos de lógica computacional]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_Haskell.org][Cursos de programación funcional con Haskell]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_OCaml.org][Cursos de programación funcional con OCaml]].
++ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_Scala.org][Cursos de programación funcional con Scala]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PL_con_Prolog.org][Cursos de programación lógica con Prolog]].
 + [[./Cursos_de_ASP.org][Cursos de ASP]].
 + [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_programacion.org][Cursos de programación]].

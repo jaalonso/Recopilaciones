@@ -11,6 +11,21 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2018
 
++ 23-Ene-18: Two research assistant positions in satisfiability testing and
+  computational modeling of human reasoning, Dresden
+  (Germany). http://bit.ly/2rrFsr8 #PhD #CompSci 
+
++ 23-Ene-18: Three PhD student scholarships in computer science (including
+  computational logic, formal languages), Tbilisi
+  (Georgia). http://bit.ly/2G9IYdd #PhD #CompSci  
+
++ 23-Ene-18: Open positions in Tokyo: Formal methods and cyber-physical
+  systems. http://bit.ly/2G7re2b #PostDoc #CompSci  
+
++ 18-Ene-18: 2 postdoc positions in distributed systems verification at
+  University of Lugano and TU Darmstadt. http://bit.ly/2rjjXIZ #PostDoc
+  #CompSci
+
 + 17-Ene-18: Various PhD student funding opportunities in theoretical computer
   Science, Swansea (Wales). http://bit.ly/2E65JN6 #PhD #CompSci 
 

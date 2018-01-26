@@ -11,6 +11,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2018
 
++ 26-Ene-18: Postdoctoral Fellow in Mathematical Logic, Stockholm
+  University. http://bit.ly/2GjEctq #PostDoc #Logic 
+
++ 26-Ene-18: Postdoctoral position and PhD student position in Algorithms,
+  Potsdam (Germany). http://bit.ly/2Gj0ifP #PhD #PostDoc #CompSci 
+
++ 26-Ene-18: Postdoctoral position in logic, Gothenburg
+  (Sweden). http://bit.ly/2FLrH9W #PostDoc #Logic  
+
 + 23-Ene-18: Two research assistant positions in satisfiability testing and
   computational modeling of human reasoning, Dresden
   (Germany). http://bit.ly/2rrFsr8 #PhD #CompSci 

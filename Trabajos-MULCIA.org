@@ -11,6 +11,13 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2018
 
++ 26-Ene-18: PhD student position: applications of finite semigroups in formal
+  verification. Loughborough University (England). http://bit.ly/2rE7Qqd #PhD
+  #CompSci 
+
++ 26-Ene-18: PhD studentship: String logics for query languages. Loughborough
+  University (England). http://bit.ly/2GflMdn #PhD #CompSci 
+
 + 26-Ene-18: Postdoctoral Fellow in Mathematical Logic, Stockholm
   University. http://bit.ly/2GjEctq #PostDoc #Logic 
 

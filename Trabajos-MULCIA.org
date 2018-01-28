@@ -11,6 +11,9 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Enero de 2018
 
++ 28-Ene-18: Postdoc in Quantum Computing / Quantum Algorithms. University of
+  Tartu, Estonia. http://bit.ly/2rIv5PT #PostDoc #CompSci 
+
 + 26-Ene-18: PhD student position: applications of finite semigroups in formal
   verification. Loughborough University (England). http://bit.ly/2rE7Qqd #PhD
   #CompSci 

@@ -9,6 +9,18 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
+
+*** Febrero 2018
+
++ 02-Feb-18: 16 PhD positions on logical methods in computer science in
+  Austria. http://bit.ly/2rZepng #PhD #Compsci 
+
++ 02-Feb-18: PhD student positions in theoretical computer science,
+  Loughborough (England). http://bit.ly/2GGjzYO #PhD #Compsci  
+
++ 02-Feb-18: Postdoctoral fellowship in mathematical logic, Stockholm
+  (Sweden). http://bit.ly/2s1lROQ #PosDoc #CompSci 
+
 *** Enero de 2018
 
 + 28-Ene-18: Postdoc in Quantum Computing / Quantum Algorithms. University of

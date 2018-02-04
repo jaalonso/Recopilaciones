@@ -12,8 +12,7 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
-+ 04-Feb-18: Kadena is hiring Haskell
-  developers. https://www.reddit.com/r/haskell/comments/7uuq0z/kadena_is_hiring_haskell_developers
++ 04-Feb-18: Kadena is hiring Haskell developers. http://bit.ly/2GMHBl1
   #Jobs #Haskell 
 
 + 04-Feb-18: Postdoctoral fellowship on "Nonstandard methods for Ramsey

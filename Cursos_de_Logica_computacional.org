@@ -95,6 +95,11 @@ http:////www.cs.cornell.edu/courses/CS4860/2016fa
 + [[http://www.irit.fr/~Francois.Schwarzentruber/enseignements/logiquel2/index.html][Introduction à la logique]]. ~ Olivier Gasquet.
 + [[http://www.irit.fr/~Francois.Schwarzentruber/enseignements/logiquel2/logique_notesdecours.pdf][Logique]]. ~ O. Gasquet, F. Schwarzentruber y M. Strecker
 
+* México
+
+*** Universidad Autónoma de México (UNAM)
++ [[https://sites.google.com/ciencias.unam.mx/lcomp172-7040/inicio][Lógica computacional]]. ~  [[https://sites.google.com/a/ciencias.unam.mx/luglzhuesca/][Lourdes del Carmen González Huesca]].
+
 * Paises Bajos
 
 *** Universidad de Nijmegen

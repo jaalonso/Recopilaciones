@@ -12,6 +12,12 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 06-Feb-18: ERC funded RA (PostDoc) position in formal verification at
+  University of Leicester. http://bit.ly/2GTylf1 #PostDoc #CompSci 
+
++ 05-Feb-18: Multiple PhD and Postdoc positions, security and privacy group, TU
+  Wien, Austria. http://bit.ly/2sg6oe7 #PhD #PostDoc #CompSci 
+
 + 04-Feb-18: Kadena is hiring Haskell developers. http://bit.ly/2GMHBl1
   #Jobs #Haskell 
 

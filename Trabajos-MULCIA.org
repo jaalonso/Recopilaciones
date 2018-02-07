@@ -12,6 +12,15 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 07-Feb-18: Sr. formal verification engineer careers at Intel in Hillsboro,
+  OR. http://intel.ly/2FUIzuh #Job #CompSci 
+
++ 07-Feb-18: Postdocs to work in a small, agile team at NASA Ames Research Park
+  in Silicon Valley on the multi-year QUASAR project (Quantifiable Assurance
+  Cases for Trusted Autonomy), part of the US Defense  Advanced Research
+  Projects Agency (DARPA) Assured Autonomy research
+  program. http://bit.ly/2GXfFem #PostDoc #CompSci 
+
 + 06-Feb-18: ERC funded RA (PostDoc) position in formal verification at
   University of Leicester. http://bit.ly/2GTylf1 #PostDoc #CompSci 
 

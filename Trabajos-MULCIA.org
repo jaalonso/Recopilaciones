@@ -12,6 +12,14 @@ el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 10-Feb-18: Post-doc position in programming language theory / practice,
+  computing science, University of Glasgow. http://bit.ly/2G59LGJ #PostDoc
+  #CompSci 
+
++ 08-Feb-18: PhD position: Software engineering, formal methods, highly
+  configurable systems (Gothenburg, Sweden). http://bit.ly/2GZzCB3 #PhD
+  #CompSci 
+
 + 07-Feb-18: Sr. formal verification engineer careers at Intel in Hillsboro,
   OR. http://intel.ly/2FUIzuh #Job #CompSci 
 

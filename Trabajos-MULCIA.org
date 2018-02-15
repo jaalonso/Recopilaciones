@@ -5,12 +5,25 @@ estudiantes del [[http://master.cs.us.es/M%C3%A1ster_Universitario_en_L%C3%B3gic
 Artificial]] de la [[http://www.us.es][Universidad de Sevilla]].
 
 Están en orden cronológico inverso por la fecha de su publicación en [[https://twitter.com/Jose_A_Alonso][Twitter]] o
-el la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
+en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del Máster]].
 
 ** 2018
 
 
 *** Febrero 2018
+
++ 15-Feb-18: PhD position on high-level synthesis of neural networks for FPGAS
+  with LIFT. http://bit.ly/2HhAWiI #PhD #CompSci 
+
++ 15-Feb-18: The Centre for Quantum Technologies at the National University of
+  Singapore invites applications for a Postdoctoral Research Fellowship in its
+  Computer Science Group in the broad area of quantum-safe
+  cryptography. http://bit.ly/2Gf64ya #PostDoc #CompSci  
+
++ 15-Feb-18: The algorithms group in Duke Computer Science invites applications
+  for a postdoctoral position. Candidates in geometric algorithms and data
+  structures are of particular interest. http://bit.ly/2HhPIGg #PostDoc
+  #CompSci   
 
 + 10-Feb-18: Post-doc position in programming language theory / practice,
   computing science, University of Glasgow. http://bit.ly/2G59LGJ #PostDoc

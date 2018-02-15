@@ -12,6 +12,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 15-Feb-18: PhD position at the University of Birmingham: higher
+  categories, quantum computing, formal proof. http://bit.ly/2HiTS0z
+  #PhD #CompSci  
+
++ 15-Feb-18: Doctoral student funding at Boston University: formal
+  methods for cryptography. http://bit.ly/2Ggp6nK #PhD #CompSci 
+
 + 15-Feb-18: PhD position on high-level synthesis of neural networks for FPGAS
   with LIFT. http://bit.ly/2HhAWiI #PhD #CompSci 
 

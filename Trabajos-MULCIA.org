@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 17-Feb-18: PhD and Postdoc positions at IRISA/Inria Rennes: Formal
+  verification with Coq. http://bit.ly/2Gmx1Qy #PhD #PostDoc #CompSci 
+
 + 15-Feb-18: PhD position at the University of Birmingham: higher
   categories, quantum computing, formal proof. http://bit.ly/2HiTS0z
   #PhD #CompSci  

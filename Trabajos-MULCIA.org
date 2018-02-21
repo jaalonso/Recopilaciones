@@ -12,6 +12,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 21-Feb-17: Postdoctoral researcher in programming languages and
+  machine learning n the Computer Science & Engineering department at
+  Penn State. http://bit.ly/2GzY2QO #PostDoc #CompSci 
+
++ 21-Feb-17: Tsuru Capital is hiring Haskellers! Full-time and interns
+  in Tokyo, Japan: http://bit.ly/2HyIwFU #Job #Haskell 
+
++ 21-Feb-17: The National Institute of Aerospace (NIA), located in
+  Hampton, Virginia, has an opening for the position of Research
+  Scientist to work on research and development of theorem proving
+  technology for the formal verification of autonomous
+  systems. http://bit.ly/2GAeKPF #Job #CompSci #ITP 
+
 + 17-Feb-18: PhD and Postdoc positions at IRISA/Inria Rennes: Formal
   verification with Coq. http://bit.ly/2Gmx1Qy #PhD #PostDoc #CompSci 
 

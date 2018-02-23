@@ -12,14 +12,32 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
-+ 21-Feb-17: Postdoctoral researcher in programming languages and
++ 23-Feb-18: Postdoc at Department of Computer Science, University of
+  Copenhagen. The project focuses on algorithms theory for graph
+  problems. http://bit.ly/2FqyuGm #PostDoc #CompSci 
+
++ 23-Feb-18: Postdoc in formal methods / game theory / machine learning
+  for controller synthesis at UMONS, Belgium. http://bit.ly/2FsnEiQ
+  #PostDoc #CompSci  
+
++ 23-Feb-18: PhD positions in Theoretical Computer Science at ETH
+  Zürich. http://bit.ly/2EQ3iyX #PhD #CompSci
+
++ 23-Feb-18: The IT University of Copenhagen seeks PhD student to the
+  type theories for reactive programming project. http://bit.ly/2EQoUeC
+  #PhD #CompSci  
+
++ 23-Feb-18: PhD position in formal methods for security. Technical
+  University of Denmark. http://bit.ly/2EOE0BA #PhD #CompSci
+
++ 21-Feb-18: Postdoctoral researcher in programming languages and
   machine learning n the Computer Science & Engineering department at
   Penn State. http://bit.ly/2GzY2QO #PostDoc #CompSci 
 
-+ 21-Feb-17: Tsuru Capital is hiring Haskellers! Full-time and interns
++ 21-Feb-18: Tsuru Capital is hiring Haskellers! Full-time and interns
   in Tokyo, Japan: http://bit.ly/2HyIwFU #Job #Haskell 
 
-+ 21-Feb-17: The National Institute of Aerospace (NIA), located in
++ 21-Feb-18: The National Institute of Aerospace (NIA), located in
   Hampton, Virginia, has an opening for the position of Research
   Scientist to work on research and development of theorem proving
   technology for the formal verification of autonomous

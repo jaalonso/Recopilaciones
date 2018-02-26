@@ -9,8 +9,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
-
 *** Febrero 2018
+
++ 26-Feb-18: PhD student positions in modal logic for granularity and
+  spatial knowledge representation, Leeds (England). 
+  http://bit.ly/2FA79S3 #PhD #Logic
+
++ 26-Feb-18: Postdoctoral fellowship in logic in CS, Groningen (The
+  Netherlands). http://bit.ly/2FyQzSJ #PostDoc #Logic #CompSci 
+
++ 24-Feb-18: Backend Haskell engineer job at Holmusk in
+  Singapore. http://bit.ly/2FyYLlU #Job #Haskell
 
 + 23-Feb-18: Postdoc at Department of Computer Science, University of
   Copenhagen. The project focuses on algorithms theory for graph

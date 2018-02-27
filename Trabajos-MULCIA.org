@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Febrero 2018
 
++ 27-Feb-18: Postdoctoral research at Stanford University under
+  Professor Clark Barrett. http://bit.ly/2F1aNTQ #PostDoc #CompSci 
+
 + 26-Feb-18: PhD student positions in modal logic for granularity and
   spatial knowledge representation, Leeds (England). 
   http://bit.ly/2FA79S3 #PhD #Logic

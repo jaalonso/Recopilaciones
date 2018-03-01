@@ -9,6 +9,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
+
+*** Marzo 2018
+
++ 01-Mar-18: Software engineer job situated in a PL research group. The
+  work will be largely about sandboxing, containerization, and other low
+  level systems stuff, but all the high-level software in the group is
+  written in Haskell. http://bit.ly/2F2K1dO #Job #CompSci #Haskell 
+
++ 01-Mar-18: PhD student position in computational social choice,
+  Amsterdam (The Netherlands). http://bit.ly/2F4oamh #PhD #CompSci 
+
++ 01-Mar-18: PhD position in computational linguistics, Utrecht (The
+  Netherlands). http://bit.ly/2FGmgcO #PhD #CompSci 
+
 *** Febrero 2018
 
 + 27-Feb-18: Postdoctoral research at Stanford University under

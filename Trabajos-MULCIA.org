@@ -12,6 +12,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 05-Mar-18: Two postdoc positions at Imperial: “Security analysis for
+  graphics drivers”, and “Programming language and system support for
+  high-performance data processing” http://bit.ly/2CYAEKx #PostDoc
+  #CompSci 
+
++ 05-Mar-18: 16 PhD Positions on Logical Methods in Computer
+  Science. The doctoral positions are funded for a period of 4 years
+  according to the funding scheme of the Austrian Science
+  Fund. http://bit.ly/2CYCWJE #PhD #CompSci #Logic 
+
+
 + 01-Mar-18: Software engineer job situated in a PL research group. The
   work will be largely about sandboxing, containerization, and other low
   level systems stuff, but all the high-level software in the group is

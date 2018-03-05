@@ -12,6 +12,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 05-Mar-18: The Microsoft Research-INRIA Joint Centre is offering a
+  24-month position for a research engineer to contribute to the design
+  and further development of the TLA+ Proof System. http://bit.ly/2D2AYYx 
+  #PostDoc #CompSci 
+
++ 05-May-18: Post-doctoral position: Compiling recursive functions to
+  inductive definition in Coq. http://bit.ly/2FWGGhU #PostDoc #CompSci 
+
 + 05-Mar-18: Two postdoc positions at Imperial: “Security analysis for
   graphics drivers”, and “Programming language and system support for
   high-performance data processing” http://bit.ly/2CYAEKx #PostDoc

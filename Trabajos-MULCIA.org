@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 06-Mar-18: Postdoc at the Center for algorithms and machine learning
+  at Indiana University Bloomington. http://bit.ly/2FX246D #PostDoc
+  #CompSci 
+
 + 05-Mar-18: The Microsoft Research-INRIA Joint Centre is offering a
   24-month position for a research engineer to contribute to the design
   and further development of the TLA+ Proof System. http://bit.ly/2D2AYYx 

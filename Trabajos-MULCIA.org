@@ -12,6 +12,21 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 08-Mar-18: The Institute of Computer Science of the Czech Academy of
+  Sciences (ICS), Prague, Czech Republic, is seeking a postdoctoral
+  researcher to complement the team for the project "Non-classical
+  logical models of information  dynamics". http://bit.ly/2G9KJYl
+  #PosDoc #CompSci 
+
++ 08-Mar-18: Professor Kaltofen's NSF grant "AF: Small: Symbolic
+  Computation with Certificates, Sparsity and Error Correction" funds a
+  2-years postdoc to perform research in the areas of the the grant.
+  North Carolina State University http://bit.ly/2FoWf0w #PosDoc #CompSci 
+
++ 08-Mar-18: The Center for Computation and Technology of Louisiana
+  State University is looking for a Postdoc in the field of
+  Combinatorial Optimization. http://bit.ly/2G6fNrM #PosDoc #CompSci 
+
 + 06-Mar-18: Postdoc at the Center for algorithms and machine learning
   at Indiana University Bloomington. http://bit.ly/2FX246D #PostDoc
   #CompSci 

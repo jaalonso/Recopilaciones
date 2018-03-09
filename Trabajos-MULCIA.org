@@ -12,6 +12,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 09-Mar-18: Becas para cursar Másteres Universitarios en la Universidad
+  de Sevilla 2018/2019. http://bit.ly/2GeZ4ml
+
++ 09-Mar-18: IOHK is looking for a talented, functional compiler
+  engineer. The candidate will be responsible for designing and
+  implementing functional programming languages for next-generation
+  blockchain smart contract systems. http://bit.ly/2FxgNEh #Job
+  #FunctionalProgramming #Haskell
+
++ 08-Mar-18: QFPL (Queensland Functional Programming Lab) is hiring 5
+  functional programmers in Brisbane, Australia. http://bit.ly/2FsxQr3
+  #Job #Haskell 
+
 + 08-Mar-18: The Institute of Computer Science of the Czech Academy of
   Sciences (ICS), Prague, Czech Republic, is seeking a postdoctoral
   researcher to complement the team for the project "Non-classical

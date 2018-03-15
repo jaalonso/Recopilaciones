@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 15-Mar-18: Post-doc on formal proofs about the floating-point
+  evaluation of polynomials in Orsay, France. http://bit.ly/2FCPFaN
+  #PostDoc #CompSci  
+
++ 13-Mar-18: The University of Leeds School of Mathematics is looking
+  for a Research Fellow to join our project "A new dawn of
+  intuitionism," which seeks to address contemporary foundational
+  concerns from the intuitionistic point of view. http://bit.ly/2FxhSA5
+  #PostDoc #Logic #CompSci 
+
 + 09-Mar-18: Becas para cursar Másteres Universitarios en la Universidad
   de Sevilla 2018/2019. http://bit.ly/2GeZ4ml
 

@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 17-Mar-18: Data61 seeking junior proof  engineers. http://bit.ly/2GBYy1F 
+  #Job #CompSci 
+
++ 17-Mar-18: Data61 seeking senior proof engineers. http://bit.ly/2FNrD97 
+  #Job #CompSci  
+
 + 17-Mar-18: Haskell position in evolutionary bioinformatics at American
   Museum of Natural History (New York). http://bit.ly/2FH1qgt #Job
   #Haskell 

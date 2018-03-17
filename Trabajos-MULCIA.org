@@ -12,6 +12,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 17-Mar-18: Haskell position in evolutionary bioinformatics at American
+  Museum of Natural History (New York). http://bit.ly/2FH1qgt #Job
+  #Haskell 
+
 + 15-Mar-18: Post-doc on formal proofs about the floating-point
   evaluation of polynomials in Orsay, France. http://bit.ly/2FCPFaN
   #PostDoc #CompSci  

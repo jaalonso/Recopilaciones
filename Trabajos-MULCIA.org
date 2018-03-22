@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 22-Mar-18: Assistant Professor in Computer Science directed towards
+  Logic of Programs. Stockholm University, Sweden http://bit.ly/2pvXwgt
+  #Job #CompSci 
+
++ 22-Mar-18: Formal methods internship at Toyota ITC. http://bit.ly/2pvKzTM 
+  #PhD #CompSci
+
++ 22-Mar-18: Postdoctoral position in "A new dawn of intuitionism",
+  Leeds (England). http://bit.ly/2DLR2OO #PostDoc #Logic 
+
 + 17-Mar-18: Data61 seeking junior proof  engineers. http://bit.ly/2GBYy1F 
   #Job #CompSci 
 

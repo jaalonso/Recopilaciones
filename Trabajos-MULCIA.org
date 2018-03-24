@@ -12,6 +12,34 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Marzo 2018
 
++ 24-Mar-18: ESRC-funded PhD studentship at University of Edinburgh for
+  the project 'Interpretable scoring models for understanding household
+  financial distress'. http://bit.ly/2py3n52 #PhD #CompSci 
+
++ 24-Mar-18: Postdoctoral Fellowship in Symbolic Computation in the
+  areas of the gran "AF:Small: Symbolic Computation with Certificates,
+  Sparsity and Error Correction" http://bit.ly/2DReTws #PostDoc #CompSci
+
++ 24-Mar-18: PhD studentship on Automated Black-box Verification of
+  Networking Systems at University College London. http://bit.ly/2py4rG4
+  #PhD #CompSci 
+
++ 24-Mar-18: Multiple positions at FAU Erlangen/Nürnberg for the
+  following projects: "Argumentation logics manager & argument context
+  graph" and "Open digital research environment toolkit for the
+  advancement of Mathematics" http://bit.ly/2pBmScN #PhD #PostDoc
+  #CompSci 
+
++ 24-Mar-18: Postdoctoral research position in cybersecurity at Inria
+  Rennes, Brittany, France. http://bit.ly/2pAxB7i #PostDoc #CompSci 
+
++ 24-Mar-18: A post-doctoral position on the formal proof of the GNU
+  MPFR library. http://bit.ly/2pBoDqp #PostDoc #CompSci 
+
++ 24-Mar-18: Obsidian Systems is looking for developers to work on
+  full-stack Haskell web and mobile applications. http://bit.ly/2pzPhAa
+  #Job #Haskell
+
 + 22-Mar-18: Assistant Professor in Computer Science directed towards
   Logic of Programs. Stockholm University, Sweden http://bit.ly/2pvXwgt
   #Job #CompSci 

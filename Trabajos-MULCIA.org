@@ -13,8 +13,8 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 *** Marzo 2018
 
 + 24-Mar-18: ESRC-funded PhD studentship at University of Edinburgh for
-  the project 'Interpretable scoring models for understanding household
-  financial distress'. http://bit.ly/2py3n52 #PhD #CompSci 
+  the project "Interpretable scoring models for understanding household
+  financial distress". http://bit.ly/2py3n52 #PhD #CompSci 
 
 + 24-Mar-18: Postdoctoral Fellowship in Symbolic Computation in the
   areas of the gran "AF:Small: Symbolic Computation with Certificates,

@@ -10,7 +10,35 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2018
 
 
+
 *** Marzo 2018
+
++ 29-Mar-18: PhD position on "Fault localization and explanation for
+  concurrent programs" available at Inria Grenoble (France). http://bit.ly/2GEzwl6 #PhD #CompSci 
+
++ 29-Mar-18: PhD student positions in symmetry in computational
+  complexity, Prague (Czech Republic). http://bit.ly/2GngiNv #PhD #CompSci 
+
++ 29-Mar-18: Twenty-month Postdoctoral Fellowship in the context of the
+  ANR-DFG research program "Formalism, formalisation, intuition, and
+  understanding in mathematics". Nancy / Paris (France)
+  http://bit.ly/2GlTPQS #PostDoc #CompSci
+
++ 28-Mart-18: Post-doc and PhD positions on program analysis and code
+  optimisation using machine learning. http://bit.ly/2usDSGV #PhD
+  #PostDoc #CompSci
+
++ 28-Mar-18: Postdoctoral and Ph.D. positions on software security at
+  Uppsala University. http://bit.ly/2J1X69C #PhD #PostDoc #CompSci 
+
++ 28-Mar-18: PhD positions in theoretical computer science at KTH Royal
+  Institute of Technology http://bit.ly/2uwFOP0 #PhD #CompSci 
+
++ 28-Mar-18: Postdoc positions in theoretical computer science at KTH
+  Royal Institute of Technology http://bit.ly/2utnd67 #PostDoc #CompSci
+
++ 28-Mar-18: PhD Scholarships in Logic and Verification at the
+  Australian National University. http://bit.ly/2uwqD8u #PhD #CompSci 
 
 + 28-Mar-18: Haskell development job with Well-Typed. 
   http://bit.ly/2urKVzR #Job #Haskell 

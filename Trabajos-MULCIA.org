@@ -9,7 +9,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
+*** Abril 2018
 
++ 07-Abr-18: PhD student scholarships in logic and related fields,
+  Canberra (Australia). http://bit.ly/2HiNeI0 #PhD #CompSci 
+
++ 07-Abr-18: PhD student position in formal methods, Konstanz
+  (Germany). http://bit.ly/2GEVAIX #PhD #CompSci 
+
++ 07-Abr-18: Postdoc position in Logic, Gothenburg
+  (Sweden). http://bit.ly/2FLrH9W #PostDoc #Logic 
+
++ 07-Abr-18: Postdoctoral position in machine learning + program
+  synthesis at Rice University. http://bit.ly/2HgNLu1 #PostDoc #CompSci 
 
 *** Marzo 2018
 

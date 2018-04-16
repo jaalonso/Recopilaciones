@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2018
 
++ 16-Abr-18: PhD student position in concurrency theory, Groningen (The
+  Netherlands). http://bit.ly/2qCrNuz #PhD #CompSci 
+
++ 16-Abr-18: Postdoctoral position in nonstandard methods in Ramsey
+  Theory, Vienna (Austria). http://bit.ly/2HnYmGh #PostDoc #Logic
+
 + 10-Abr-18: The programming languages group at University of Freiburg,
   Germany, has an opening for a research assistant to work on a
   DFG-funded project to create a version of OCaml with linear types and

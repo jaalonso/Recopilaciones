@@ -40,6 +40,7 @@ Está ordenada por países y universidades.
 + [[http://cl-informatik.uibk.ac.at/teaching/ss08/atp/introduction.php][Automatic deduction]]. ~ C. Ballarin.
 + [[http://cl-informatik.uibk.ac.at/teaching/ss11/eve/content.php][Experiments in verification: Introduction to Isabelle/HOL]]. ~ Christian
   Sternagel
++ [[http://cl-informatik.uibk.ac.at/teaching/ss18/mltp/content.php][Machine learning for theorem proving]]. ~ C. Kaliszyk
 
 * Brasil
 

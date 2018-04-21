@@ -11,6 +11,34 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2018
 
++ 21-Abr-18: Doctoral student in system security and formal methods. KTH
+  Royal Institute of Technology. http://bit.ly/2HRbnpA #PhD #CompSci
+
++ 21-Abr-18: Senior Research Associate on power of algorithms in
+  discrete optimisation. Pxford University. http://bit.ly/2F49cMt
+  #PostDoc #CompSci 
+
++ 19-Abr-18: Postdoctoral position in computational social choice /
+  algorithmic game theory, Berlin (Germany). http://bit.ly/2HxmvtP
+  #PostDoc #CompSci 
+
++ 19-Abr-18: PhD position in "Foundations of interactive democracy",
+  Berlin (Germany). http://bit.ly/2HAm0zl #PostDoc #CompSci 
+
++ 17-Abr-18: The CELTIQUE team has a PhD position available on the
+  definition of a rule format to specify formal semantics and derive
+  certified static analyzers in Coq. http://bit.ly/2H5P6ax #PhD #CompSci
+  #Coq 
+
++ 17-Abr-18: Postdoc and PhD positions in verification at IMDEA (Madrid)
+  in the areas of software verification of concurrent programs,
+  separation logic, and language-based security. http://bit.ly/2H65p72
+  #PhD #PostDoc #CompSci  
+
++ 17-Abr-a8: Three PhD student positions in Cognitive Science &
+  Artificial Intelligence, Tilburg (The Netherlands). http://bit.ly/2H68WlY 
+  #PhD #CompSci 
+
 + 16-Abr-18: PhD student position in concurrency theory, Groningen (The
   Netherlands). http://bit.ly/2qCrNuz #PhD #CompSci 
 

@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2018
 
++ 22-Abr-18: PhD in CS focused on SAT solving at KTH Royal Institute of
+  Technology. http://bit.ly/2vzNj8b #PhD #CompSci  
+
 + 21-Abr-18: Doctoral student in system security and formal methods. KTH
   Royal Institute of Technology. http://bit.ly/2HRbnpA #PhD #CompSci
 

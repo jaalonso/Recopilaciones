@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2018
 
++ 25-Abr-18: PhD position in logic and its application to program and
+  systems verification at UCL. http://bit.ly/2HwqQuh #PhD #CompSci 
+
 + 22-Abr-18: PhD in CS focused on SAT solving at KTH Royal Institute of
   Technology. http://bit.ly/2vzNj8b #PhD #CompSci  
 

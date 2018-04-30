@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Abril 2018
 
++ 30-Abr-18: PhD studentship on the CakeML project. The position is part
+  of the "Building verified applications in CakeML" (University of Kent)
+  http://bit.ly/2I8CO0u #PhD #CompSci 
+
++ 30-Abr-18: Postdoctoral position on "The implicit commitment of
+  mathematical theories through intensional notions", Pisa
+  (Italy). http://bit.ly/2r7QTBW #PostDoc #Logic 
+
++ 30-Abr-18: PhD-student in mathematics within the WASP project
+  Mathematics for AI on quantitative & qualitative analysis of
+  multi-player games, Stockholm (Sweden) http://bit.ly/2I1KxNR #PhD
+  #CompSci
+
++ 30-Abr-18: PhD student position in the history and philosophy of
+  programming, Lille (France). http://bit.ly/2w8vX2H #PhD #CompSci 
+
 + 25-Abr-18: PhD position in logic and its application to program and
   systems verification at UCL. http://bit.ly/2HwqQuh #PhD #CompSci 
 

@@ -9,6 +9,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
+
+*** Mayo 2018
+
++ 05-May-18: 18 PhD positions at 7 Swedish universities focusing on the
+  mathematical foundations of artificial intelligence. http://bit.ly/2FLn52i 
+  #PhD #CompSci #Math #AI 
+
 *** Abril 2018
 
 + 30-Abr-18: PhD studentship on the CakeML project. The position is part

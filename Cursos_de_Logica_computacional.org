@@ -67,6 +67,9 @@ http:////www.cs.cornell.edu/courses/CS4860/2016fa
 
 * Estados Unidos
 
+*** Universidad de Carnegie Mellon
++ [[http://leanprover.github.io/logic_and_proof][Logic and proof (Release 0.1)]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn
+
 *** Universidad de Nueva York
 + [[https://cs.nyu.edu/courses/spring04/G22.3033-003][Logic and verification (2004)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]
 + [[http://www.cs.nyu.edu/courses/spring07/G22.3033-009/index.html][Topics in automated deduction (2007)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]

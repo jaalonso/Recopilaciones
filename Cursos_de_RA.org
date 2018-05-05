@@ -64,11 +64,11 @@ Está ordenada por países y universidades.
 
 *** Carnegie Mellon
 + [[http://www.phil.cmu.edu/~avigad/formal][Logic and formal verification]]. ~ J. Avigad.
++ [[http://leanprover.github.io/logic_and_proof][Logic and proof (Release 0.1)]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn
 
 *** MIT
 + [[http://stellar.mit.edu/S/course/6/fa11/6.892/][Interactive computer theorem proving]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
 + [[https://frap.csail.mit.edu/main][Formal reasoning about programs]]. ~ [[http://adam.chlipala.net/][A. Chlipala]].
-
 
 *** Univ. de Berkeley
 + [[https://people.eecs.berkeley.edu/~sseshia/219c/index.html][Formal methods: specification, verification, and synthesis]]. ~ [[http://www.eecs.berkeley.edu/~sseshia][S.A. Seshia]].
@@ -123,4 +123,5 @@ Está ordenada por países y universidades.
 *** ETH de Zúrich
 + [[http://archiv.infsec.ethz.ch/education/permanent/csmr.html][Computer-supported modeling and reasoning]]. ~ A.D. Brucker, D. Basin,
   J.G. Smaus y B. Wolff.
+
 

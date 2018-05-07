@@ -9,8 +9,31 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
-
 *** Mayo 2018
+
++ 07-May-18: PhD fellows in natural language processing and machine
+  learning University of Copenhagen. http://bit.ly/2FPVuND #PhD #CompSci 
+
++ 07-May-18: PhD position in dominance based fuzzy rough set models for
+  preference learning in ordinal classification. Ghent
+  University. http://bit.ly/2FRCzBY #PhD #CompSci  
+
++ 07-May-18: PhD position in fuzzy rough set models for machine learning
+  and sentiment analysis. Ghent University. http://bit.ly/2jz0vkL #PhD
+  #CompSci   
+
++ 07-May-18: Research fellow in machine learning. University of
+  Warwick. http://bit.ly/2FQpmcI #PostDoc #CompSci 
+
++ 07-May-18: Open positions in crypto/security at IT University of
+  Copenhagen. http://bit.ly/2jCwn8n #PostDoc #CompSci  
+
++ 07-May-18: PhD positions in PL and distributed systems at IMDEA,
+  Madrid. http://bit.ly/2FRXe8N #PhD #CompSci
+
++ 07-May-18: PhD student position on quantitative & qualitative analysis
+  of multi-player games, Stockholm (Sweden). http://bit.ly/2FOWjGd #PhD
+  #CompSci 
 
 + 05-May-18: 18 PhD positions at 7 Swedish universities focusing on the
   mathematical foundations of artificial intelligence. http://bit.ly/2FLn52i 

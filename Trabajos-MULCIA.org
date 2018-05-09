@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 09-May-18: Research positions in logic & verification at UCL
+  (University College London), London, UK. http://bit.ly/2KPkRCC
+  #PostDoc #CompSci 
+
 + 07-May-18: PhD fellows in natural language processing and machine
   learning University of Copenhagen. http://bit.ly/2FPVuND #PhD #CompSci 
 

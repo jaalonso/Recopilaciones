@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 14-may-18: Research Fellow in geometric topology, topological quantum
+  field theory and applications to quantum computing. http://bit.ly/2KZ0KSL 
+  #PostDoc #Math #CompSci 
+
++ 13-May-18: Postdoc in formal verification for formal contracts
+  co-funded by Deon Digital and the Danish Innovation
+  Foundation. University of Copenhagen http://bit.ly/2KToqI5 #PostDoc
+  #CompSci 
+
 + 09-May-18: Research positions in logic & verification at UCL
   (University College London), London, UK. http://bit.ly/2KPkRCC
   #PostDoc #CompSci 

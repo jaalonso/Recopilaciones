@@ -11,7 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
-+ 14-may-18: Research Fellow in geometric topology, topological quantum
++ 17-May-18: PhD studentship in formal methods & verification at
+  University College London. http://bit.ly/2IooP80 #PhD #CompSci 
+
++ 17-May-18: Tezos is hiring! Tezos is a self-governing blockchain and
+  smart-contract platform written in OCaml. http://bit.ly/2rOwG3C #PhD
+  #PostDoc #CompSci #FunctionalProgramming 
+
++ 14-May-18: Research Fellow in geometric topology, topological quantum
   field theory and applications to quantum computing. http://bit.ly/2KZ0KSL 
   #PostDoc #Math #CompSci 
 

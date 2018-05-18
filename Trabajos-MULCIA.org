@@ -11,6 +11,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 18-May-18: Ph.D. Fellowship in unconventional computation. Norwegian
+  University of Science and Technology (NTNU). http://bit.ly/2GvE6hd
+  #PhD #CompSci 
+
++ 18-May-18: Machine Learning Engineer. Think
+  Silicon. http://bit.ly/2GuHLfe #Job #CompSci 
+
++ 18-May-18: High performance computing in medical imaging. University
+  of Cordoba, Spain. http://bit.ly/2IqMEMp #PostDoc #CompSci 
+
++ 18-May-18: Research Assistant/Research Associate, ECOSCALE H2020
+  project (two posts available). University of
+  Manchester. http://bit.ly/2rRyKbP #PhD #PostDoc #CompSci 
+
 + 17-May-18: PhD studentship in formal methods & verification at
   University College London. http://bit.ly/2IooP80 #PhD #CompSci 
 

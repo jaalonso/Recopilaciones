@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 21-May-18: PhD position in KRR at Artois University, France. The goal
+  of the thesis is to investigate and develop non-monotonic logic-based
+  formalisms for the specification and verification of
+  exception-tolerant systems. http://bit.ly/2IztRyv #PhD #CompSci 
+
 + 18-May-18: Ph.D. Fellowship in unconventional computation. Norwegian
   University of Science and Technology (NTNU). http://bit.ly/2GvE6hd
   #PhD #CompSci 

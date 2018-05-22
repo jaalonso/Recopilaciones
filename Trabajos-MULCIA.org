@@ -11,6 +11,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 22-May-18: Postdoc on using machine learning to make runtime
+  verification more efficient. University of Kent. http://bit.ly/2LkHJuj
+  #PostDoc #CompSci 
+
++ 22-May-18: The Security Group at Arm Research is seeking a Formal
+  Methods Intern to work on the application of software verification
+  technology to cryptographic code. http://bit.ly/2IB86OM #PhD #CompSci 
+
++ 22-May-18: 18 PhD positions in Computer Science and System Engineering
+  at University of Verona. http://bit.ly/2ID7B2A #PhD #CompSci
+
++ 22-May-18: PhD student position in formal semantics, Utrecht (The
+  Netherlands). http://bit.ly/2IHpu0s #PhD #CompSci 
+
 + 21-May-18: PhD position in KRR at Artois University, France. The goal
   of the thesis is to investigate and develop non-monotonic logic-based
   formalisms for the specification and verification of

@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 26-May-18: Formal verification position at Toyota ITC, Mountain
+  View. http://bit.ly/2IMOKGz #PostDoc #CompSci 
+
++ 26-May-18: Open Ph.D. position in Runtime Verification and Monitoring
+  at ETH Zürich. http://bit.ly/2IMVYGn #PhD #CompSci 
+
++ 26-May-18: Two Research Associate Positions (Post-doc, Full Time,
+  Fixed Term) at Imperial College London. http://bit.ly/2IPUsDm #PostDoc
+  #CompSci 
+
 + 22-May-18: Postdoc on using machine learning to make runtime
   verification more efficient. University of Kent. http://bit.ly/2LkHJuj
   #PostDoc #CompSci 

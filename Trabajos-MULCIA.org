@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Mayo 2018
 
++ 28-May-18: Categorical Informatics, a data
+  modeling/integration/migration company pioneering a new approach to
+  data based on category theory, is looking to recruit an initial
+  technical staff. http://bit.ly/2LyxC54 #Job #CompSci  
+
++ 26-May-18: Data Scientist / Spatial Data Scientist: 2 x Fixed-Term
+  appointments (4 years). University of Wollongong (UOW) - New South
+  Wales, Australia  http://bit.ly/2ISIPvm #Job #CompSci #DataScience 
+
++ 26-May-18: Research Associate in Medical Machine Learning. Lancaster
+  University. http://bit.ly/2xl36ZA #PostDoc #CompSci #MachineLearning 
+
 + 26-May-18: Formal verification position at Toyota ITC, Mountain
   View. http://bit.ly/2IMOKGz #PostDoc #CompSci 
 

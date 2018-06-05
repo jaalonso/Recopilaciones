@@ -9,6 +9,51 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
+
+*** Junio 2018
+
++ 05-Jun-18: Nuevas oportunidades del Consejo Europeo de Investigación
+  Nuclear (CERN) para investigadores y estudiantes de la Universidad de
+  Sevilla. http://bit.ly/2LTQcF3 #Job #CompSci 
+
++ 05-Jun-18: Research Associate position on verification of linear
+  dynamical systems, Oxford (England). http://bit.ly/2LWJC0l #PostDoc
+  #CompSci 
+
++ 05-Jun-18: Postdoctoral position on "optimal proofs", Utrecht (The
+  Netherlands). http://bit.ly/2M0GjFn #PostDoc #Logic 
+
++ 05-Jun-18: PhD student position in analysis of concurrent systems,
+  Warsaw (Poland). http://bit.ly/2LTRjVf #PhD #CompSci 
+
++ 05-Jun-18: PhD student position in computational (psycho)linguistics,
+  Stuttgart (Germany). http://bit.ly/2M2VZrE #PhD #CompSci  
+
++ 05-Jun-18: PhD student position in computational semantics, Utrecht
+  (The Netherlands). http://bit.ly/2LWKhPn #PhD #CompSci   
+
++ 05-Jun-18: PhD student position in modelling and verification of
+  software systems, London (England). http://bit.ly/2LXfRN0 #PhD
+  #CompSci     
+
++ 05-Jun-18: PhD student position in formal semantics, Utrecht (The
+  Netherlands). http://bit.ly/2IHpu0s #PhD #CompSci 
+
++ 05-Jun-18: Open postdoc position on higher-order model
+  checking. University of Tokyo, Japan. http://bit.ly/2LXO52S #PostDoc
+  #CompSci 
+
++ 05-Jun-18: VeTSS PhD Scholarship Programme on Session Types and
+  Programming Languages. Imperial College London. http://bit.ly/2LYdcCI
+  #PhD_CompSci 
+
++ 05-Jun-18: Postdoc at Imperial on the IRIS project, on "Compositional
+  reasoning for high-assurance many-core software". http://bit.ly/2LYvALX 
+  #PostDoc #CompSci 
+
++ 05-Jun-18: PL Research positions at Facebook Languages Research
+  (FLaRe). http://bit.ly/2M0u3oD #PostDoc #CompSci 
+
 *** Mayo 2018
 
 + 28-May-18: Categorical Informatics, a data

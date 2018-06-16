@@ -12,6 +12,31 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2018
 
++ 16-Jun-18: Two Post-doc Research Fellowships at NOVA LINCS/NOVA
+  University of Lisbon and OutSystems collaborative
+  laboratory. http://bit.ly/2sZsyiE #PostDoc #CompSci 
+
++ 16-Jun-18: Postdoc positions in formal methods at Stanford
+  University. http://bit.ly/2Mt4kFo #PostDoc #CompSci 
+
++ 16-Jun-18: Graduiertenkolleg "Facets of Complexity": Seven
+  Ph.D. positions, starting September 2018, for three
+  years. http://bit.ly/2td4dox #PhD #CompSci 
+
++ 16-Jun-18: PhD studentship in Logic & Verification at
+  UCL. http://bit.ly/2tbXUl9 #PhD #CompSci 
+
++ 16-Jun-18: Fully-funded PhD studentship at University of Kent for the
+  project "Specification and verification of C++ data structure
+  libraries". http://bit.ly/2py3n52 #PhD #CompSci   
+
++ 16-Jun-18: Research Associate position on Verification of Linear
+  Dynamical Systems, Oxford(England). http://bit.ly/2LWJC0l #PostDoc
+  #CompSci 
+
++ 16-Jun-18: Fully-Funded Ph.D. Studentship in Analysis of Concurrent
+  Systems. University of Warsaw http://bit.ly/2LTRjVf #PhD #CompSci 
+
 + 05-Jun-18: Nuevas oportunidades del Consejo Europeo de Investigación
   Nuclear (CERN) para investigadores y estudiantes de la Universidad de
   Sevilla. http://bit.ly/2LTQcF3 #Job #CompSci 

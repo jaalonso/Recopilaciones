@@ -12,6 +12,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2018
 
++ 20-Jun-18: PhD Student in software security and formal
+  methods. http://bit.ly/2JUvBmo #PhD #CompSci 
+
++ 20-Jun-18: PostDoc at Inria, Paris, on validation and synthesis of
+  DWARF debugging information. http://bit.ly/2MEJyml #PostDoc #CompSci
+
++ 20-Jun-18: Fully funded EPSRC iCASE PhD scholarship: "Verification of
+  real time systems" at Swansea University. http://bit.ly/2MDEwXr #PhD
+  #CompSci
+
 + 16-Jun-18: Two Post-doc Research Fellowships at NOVA LINCS/NOVA
   University of Lisbon and OutSystems collaborative
   laboratory. http://bit.ly/2sZsyiE #PostDoc #CompSci 

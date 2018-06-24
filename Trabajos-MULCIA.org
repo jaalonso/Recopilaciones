@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Junio 2018
 
++ 24-Jun-18: PhD openings in the Security and Privacy group at TU
+  Wien. http://bit.ly/2Kgbewf #PhD #CompSci 
+
++ 24-Jun-18: PhD student position in logic and verification, London
+  (England). http://bit.ly/2Kjtzs8 #PhD #CompSci #Logic
+
 + 20-Jun-18: PhD Student in software security and formal
   methods. http://bit.ly/2JUvBmo #PhD #CompSci 
 

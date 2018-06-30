@@ -14,8 +14,10 @@ Está ordenada por países y universidades.
 + [[http://www.informatik.uni-freiburg.de/~ki/teaching/ws0910/csmr/lecture.html][Computer-supported modeling and reasoning]]. ~ Jan-Georg Smaus.
 
 *** Universidad del Sarre
-+ [[http://people.mpi-inf.mpg.de/~jblanche/cswi/ss2015/][Concrete Semantics with Isabelle/HOL]] (Summer semester 2015) ~ [[http://people.mpi-inf.mpg.de/~jblanche/][Jasmin
-  Blanchette]], [[http://perso.eleves.ens-rennes.fr/~mfleur01/][Mathias Fleury]] y [[http://people.mpi-inf.mpg.de/~dwand/][Daniel Wand]].
++ [[http://people.mpi-inf.mpg.de/~jblanche/cswi/ss2015/][Concrete Semantics with Isabelle/HOL]] (Summer semester 2015) ~
+  [[http://people.mpi-inf.mpg.de/~jblanche/][Jasmin Blanchette]], [[http://perso.eleves.ens-rennes.fr/~mfleur01/][Mathias Fleury]] y [[http://people.mpi-inf.mpg.de/~dwand/][Daniel Wand]].
++ [[https://courses.ps.uni-saarland.de/icl_18/][Introduction to computational logic]] (Summer Semester 2018) ~
+  [[http://www.ps.uni-saarland.de/~smolka/][Gert Smolka]]
 
 *** Universidad técnica de Kaiserslautern
 + [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd
@@ -82,6 +84,7 @@ Está ordenada por países y universidades.
 
 *** Univ. de Pensilvania
 + [[http://www.cis.upenn.edu/~bcpierce/sf/current/index.html][Software foundations]]. ~ [[http://www.cis.upenn.edu/~bcpierce/][B.C. Pierce]] et als.
++ [[https://softwarefoundations.cis.upenn.edu/lf-current/index.html][Software foundations. Vol. 1: Logical foundations]]. ~ [[http://www.cis.upenn.edu/~bcpierce/][B.C. Pierce]] et als.
 
 *** Universidad de Tejas en Austin
 + [[http://www.cs.utexas.edu/~isil/cs395t][Automated logical reasoning]]. ~ [[http://www.cs.utexas.edu/~isil][I. Dillig]]. 

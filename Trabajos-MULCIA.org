@@ -10,6 +10,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 ** 2018
 
 
+
+*** Julio 2018
++ 03-Jul-18: PhD position: Unifying correctness for communicating
+  software. University of Groningen, The Netherlands. 
+  http://bit.ly/2KrFqst #PhD #CompSci 
+
 *** Junio 2018
 
 + 30-Jun-18: Open Ph.D. position in Privacy and Access Control at ETH

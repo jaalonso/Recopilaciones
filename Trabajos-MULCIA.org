@@ -12,6 +12,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 *** Julio 2018
+
++ 04-Jul-18: Postdoc vacancy: Homotopy type theory and probabilistic
+  programming. Aarhus University, Denmark. http://bit.ly/2z8sSAS
+  #PostDoc #CompSci 
+
++ 04-Jul-18: PhD position: Type theory, probabilistic computation and
+  computer-aided cryptography proofs. Aarhus University,
+  Denmark. http://bit.ly/2u5A1w4 #PhD #CompSci  
+
 + 03-Jul-18: PhD position: Unifying correctness for communicating
   software. University of Groningen, The Netherlands. 
   http://bit.ly/2KrFqst #PhD #CompSci 

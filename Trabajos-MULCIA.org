@@ -13,6 +13,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 06-Jul-18: Haskell developer at Henry in Stockholm. 
+  http://bit.ly/2u8SfwN #Job #Haskell 
+
 + 06-Jul-18: PhD position in ICT in Trento on "Quantum annealing for SAT
   solving". http://bit.ly/2zd0yh1 #PhD #CompSci 
 

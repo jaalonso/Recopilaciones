@@ -13,6 +13,17 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 06-Jul-18: PhD position in ICT in Trento on "Quantum annealing for SAT
+  solving". http://bit.ly/2zd0yh1 #PhD #CompSci 
+
++ 06-Jul-18: Research assistant/ associate in disciplined approximate
+  arithmetic. Imperial College London. http://bit.ly/2ubgham #Job
+  #CompSci 
+
++ 06-Jul-18: Postdoc position at Chalmers in the area of software
+  variability. University of Gothenburg. http://bit.ly/2ub4JnJ #PostDoc
+  #CompSci 
+
 + 06-Jul-18: PhD positions in software engineering/formal
   methods. Università della Svizzera italiana (USI), Lugano,
   Switzerland. http://bit.ly/2lZ8V6o #PhD #CompSci 

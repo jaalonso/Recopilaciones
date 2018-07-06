@@ -13,6 +13,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 06-Jul-18: PhD positions in software engineering/formal
+  methods. Università della Svizzera italiana (USI), Lugano,
+  Switzerland. http://bit.ly/2lZ8V6o #PhD #CompSci 
+
 + 04-Jul-18: Postdoc vacancy: Homotopy type theory and probabilistic
   programming. Aarhus University, Denmark. http://bit.ly/2z8sSAS
   #PostDoc #CompSci 

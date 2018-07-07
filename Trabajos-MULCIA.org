@@ -13,6 +13,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 07-Jul-18: Postdoc position in "Reasoning and programming with
+  infinite data-objects" project at Paris Diderot
+  University. http://bit.ly/2u0mA1r #PostDoc #CompSci 
+
++ 07-Jul-18: PhD fellow in probabilistic programming and protein
+  structure prediction. http://bit.ly/2tWVLLx #PhD #CompSci
+
 + 06-Jul-18: Haskell developer at Henry in Stockholm. 
   http://bit.ly/2u8SfwN #Job #Haskell 
 

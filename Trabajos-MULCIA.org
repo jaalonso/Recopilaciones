@@ -13,6 +13,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 09-Jul-18: Post-doctoral researchers wanted for Coq developments
+  (certified distributed algorithms; certified compiler). Grenoble,
+  France http://bit.ly/2KXdPeS #PostDoc #CompSci 
+
++ 09-Jul-18: PhD position in complex networks and knowledge graphs
+  (Research Assistant). University of Kassel,
+  Germany. http://bit.ly/2NA4hbi #PhD #CompSci 
+
 + 07-Jul-18: Postdoc position in "Reasoning and programming with
   infinite data-objects" project at Paris Diderot
   University. http://bit.ly/2u0mA1r #PostDoc #CompSci 

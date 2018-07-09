@@ -13,6 +13,30 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 09-Jul-18: PhD Position on the formalization of automated reasoning in
+  Isabelle. http://bit.ly/2NEbLtR #PhD #CompSci 
+
++ 09-Jul-18: PhD Research project on big data monitoring. ETH Zürich,
+  Switzerland http://bit.ly/2KW10of #PhD #CompSci 
+
++ 09-Jul-18: PhD Research project on privacy, data protection, and
+  access control. ETH Zürich, Switzerland http://bit.ly/2KW10of #PhD
+  #CompSci  
+
++ 09-Jul-18: Open Positions for Ph.D. candidates and Postdocs in
+  information-flow security and side-channel analysis. TU Darmstadt,
+  Germany http://bit.ly/2NExHFc #PhD #PostDoc #CompSci 
+
++ 09-Jul-18: Postdoctoral positions in formal methods. Stanford
+  University, USA. http://bit.ly/2Nzo0rM #PostDoc #CompSci 
+
++ 09-Jul-18: PhD Position: Leveraging automatic deduction for
+  verification. Loria and Inria Nancy, France http://bit.ly/2NCDPy3 #PhD
+  #CompSci 
+
++ 09-Jul-18: Postdoc Position: Verification of autonomous robots. York,
+  UK. http://bit.ly/2KYli0o #PostDoc #CompSci 
+
 + 09-Jul-18: Post-doctoral researchers wanted for Coq developments
   (certified distributed algorithms; certified compiler). Grenoble,
   France http://bit.ly/2KXdPeS #PostDoc #CompSci 

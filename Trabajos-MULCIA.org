@@ -13,6 +13,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 10-Jul-18: Postdoctoral Position in Machine Learning & Computer
+  Algebra. http://bit.ly/2uBypv6 #PostDoc #CompSci 
+
 + 09-Jul-18: PhD Position on the formalization of automated reasoning in
   Isabelle. http://bit.ly/2NEbLtR #PhD #CompSci 
 

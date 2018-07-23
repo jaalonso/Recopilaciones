@@ -13,8 +13,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
-+ 10-Jul-18: Postdoctoral Position in Machine Learning & Computer
-  Algebra. http://bit.ly/2uBypv6 #PostDoc #CompSci 
++ 23-Jul-18: PhD position on `Quantum annealing for SAT solving' in
+  Trento. http://bit.ly/2LFZeEZ #PhD #CompSci 
+
++ 19-Jul-18: Postdoctoral Position in Machine Learning & Computer
+  Algebra. http://bit.ly/2uBypv6 #PostDoc #CompSci  
 
 + 09-Jul-18: PhD Position on the formalization of automated reasoning in
   Isabelle. http://bit.ly/2NEbLtR #PhD #CompSci 

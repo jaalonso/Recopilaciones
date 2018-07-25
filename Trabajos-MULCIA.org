@@ -13,6 +13,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 25-Jul-18: Two PhD positions in program verification at KU Leuven.
+  http://bit.ly/2NJhhKW #PhD #CompSci 
+
++ 25-Jul-18: Seeking postdoc for information-flow type systems at the
+  hardware/OS level. Cornell University. http://bit.ly/2NJ3F2x #PostDoc
+  #CompSci 
+
 + 23-Jul-18: PhD position on `Quantum annealing for SAT solving' in
   Trento. http://bit.ly/2LFZeEZ #PhD #CompSci 
 

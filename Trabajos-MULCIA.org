@@ -13,6 +13,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 26-Jul-18: Postdoc position in computational geometry at the
+  University of Sydney. http://bit.ly/2LpWQGd #PostDoc #CompSci 
+
 + 25-Jul-18: Two PhD positions in program verification at KU Leuven.
   http://bit.ly/2NJhhKW #PhD #CompSci 
 

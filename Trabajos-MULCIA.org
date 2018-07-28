@@ -13,6 +13,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Julio 2018
 
++ 28-Jul-18: PhD Position on the formalization of automated reasoning in
+  Isabelle/HOL. http://bit.ly/2NOBgIq #PhD #CompSci 
+
++ 28-Jul-18: PhD and post-doc positions on formal methods for voting
+  systems, University of Luxembourg. http://bit.ly/2LZlw4Z #PhD #PostDoc
+  #CompSci 
+
 + 26-Jul-18: Postdoc position in computational geometry at the
   University of Sydney. http://bit.ly/2LpWQGd #PostDoc #CompSci 
 

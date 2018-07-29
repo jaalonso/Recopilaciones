@@ -64,6 +64,9 @@ Está ordenada por países y universidades.
 
 * Estados Unidos
 
+*** Universidad de Cornell
++ [[https://www.cs.cornell.edu/courses/cs3110/2017fa/][Data structures and functional programming]]. ~ [[https://www.cs.cornell.edu/~clarkson/][Michael Clarkson]].
+
 *** Carnegie Mellon
 + [[http://www.phil.cmu.edu/~avigad/formal][Logic and formal verification]]. ~ J. Avigad.
 + [[http://leanprover.github.io/logic_and_proof][Logic and proof (Release 0.1)]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn

@@ -19,3 +19,4 @@ ordenada por países y universidades.
 
 *** Universidad de Cornell
 + [[https://www.cs.cornell.edu/courses/cs3110/2017sp/lecture_notes.php][Data structures and functional programming]]. ~ [[http://www.cs.cornell.edu/home/rc/][Robert L. Constable]].
++ [[https://www.cs.cornell.edu/courses/cs3110/2017fa/][Data structures and functional programming]]. ~ [[https://www.cs.cornell.edu/~clarkson/][Michael Clarkson]].

@@ -11,6 +11,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 
+
+*** Agosto 2018
+
++ 05-Ago-18: PhD position in Software Lab at TU
+  Darmstadt. http://bit.ly/2MjdjbX #PhD #CompSci  
+
++ 05-Ago-18: 2 PhD fellows in functional technology for high-performance
+  architectures. http://bit.ly/2Mjd2pr #PhD #CompSci 
+
 *** Julio 2018
 
 + 28-Jul-18: PhD Position on the formalization of automated reasoning in

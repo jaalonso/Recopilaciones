@@ -14,6 +14,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2018
 
++ 09-Ago-18: PhD opportunities at the Australian National
+  University. http://bit.ly/2MfeE6A #PhD #CompSci #Logic 
+
++ 09-Ago-18: PhD studentship in logic and verification at University
+  College London. http://bit.ly/2OVZORd #PhD #CompSci 
+
 + 05-Ago-18: PhD position in Software Lab at TU
   Darmstadt. http://bit.ly/2MjdjbX #PhD #CompSci  
 

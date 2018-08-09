@@ -20,6 +20,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 09-Ago-18: PhD studentship in logic and verification at University
   College London. http://bit.ly/2OVZORd #PhD #CompSci 
 
++ 09-Ago-18: Full-time position at Tesla, Inc.: Software Engineer -
+  Functional Programming. http://bit.ly/2Ma9PLP #Job #CompSci
+  #FunctionalProgramming  
+
 + 05-Ago-18: PhD position in Software Lab at TU
   Darmstadt. http://bit.ly/2MjdjbX #PhD #CompSci  
 

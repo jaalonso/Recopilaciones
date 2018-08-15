@@ -14,6 +14,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2018
 
++ 15-Ago-18: Postdoc and PhD positions. Center for Advanced Software
+  Analysis, Aarhus University. http://bit.ly/2wcJX8m #PostDoc #PhD
+  #CompSci 
+
 + 09-Ago-18: PhD opportunities at the Australian National
   University. http://bit.ly/2MfeE6A #PhD #CompSci #Logic 
 

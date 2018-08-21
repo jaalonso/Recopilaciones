@@ -14,6 +14,13 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2018
 
++ 21-Ago-18: Postdoctoral & development positions on PL for data
+  curation at Edinburgh LFCS. http://bit.ly/2Mtz78Z #PostDoc #CompSci 
+
++ 21-Ago-18: Postdoc/Engineer positions (formal methods and quantum
+  computation) at LRI - U. Paris Saclay. http://bit.ly/2nWnRmI #PostDoc
+  #CompSci 
+
 + 18-Ago-18: PhD thesis position on formal proofs and programming
   languages at Siemens Mobility, France. http://bit.ly/2PcZuO5 #PhD
   #CompSci 

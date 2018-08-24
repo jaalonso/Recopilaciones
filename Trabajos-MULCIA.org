@@ -14,6 +14,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2018
 
++ 24-Ago-18: Two phd/post-doc positions: Formalization and verification
+  of traffic rules for automated vehicles. http://bit.ly/2o6cSqN
+  #PostDoc #CompSci 
+
 + 21-Ago-18: Postdoctoral & development positions on PL for data
   curation at Edinburgh LFCS. http://bit.ly/2Mtz78Z #PostDoc #CompSci 
 

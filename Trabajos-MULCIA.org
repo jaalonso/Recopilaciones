@@ -14,6 +14,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Agosto 2018
 
++ 30-Ago-18: Post-doc and researcher positions in Tallinn in the areas
+  of Trustworthy Software Technologies, Hardware Security and Trust,
+  Internet of Intelligent Things. http://bit.ly/2wzna6u #PostDoc
+  #CompSci 
+
++ 30-Ago-18: A research grant position for one year in the field of
+  Computer Aided Formal Reasoning is available at the University of
+  Udine. http://bit.ly/2wxlw5C  #PostDoc #CompSci 
+
 + 24-Ago-18: Two phd/post-doc positions: Formalization and verification
   of traffic rules for automated vehicles. http://bit.ly/2o6cSqN
   #PostDoc #CompSci 

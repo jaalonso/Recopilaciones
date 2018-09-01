@@ -12,6 +12,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 
 
+*** Septiembre 2018
+
++ 01-Sep-18: Postdoc vacancy in "Quantum circuit optimisation and
+  graphical calculus" at Radboud University,
+  Nijmegen. http://bit.ly/2PVnp4H #PostDoc #CompSci 
+
++ 01-Sep-18: Postdoc position in Safety control and energy efficiency
+  for embedded systems. Aarhus University. http://bit.ly/2osUHM7
+  #PostDoc #CompSci 
+
++ 01-Sep-18: PhD openings in the Security and Privacy group at TU
+  Wien. http://bit.ly/2PW8SpK #PhD #CompSci 
+
++ 01-Sep-18: PhD position on "Concurrency, Logic, and Type
+  Systems". University of Groningen. http://bit.ly/2orXXaD #PhD #CompSci 
+
 *** Agosto 2018
 
 + 30-Ago-18: Post-doc and researcher positions in Tallinn in the areas

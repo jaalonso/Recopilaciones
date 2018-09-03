@@ -9,10 +9,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
-
-
-
 *** Septiembre 2018
+
++ 03-Sep-18: The Chair of Programming Methodology at ETH Zurich is
+  recruiting PhD students and post-docs for several projects on program
+  verification and static program analysis for program correctness and
+  security. http://bit.ly/2NK3BzW #PhD #PostDoc #CompSci 
 
 + 01-Sep-18: Postdoc vacancy in "Quantum circuit optimisation and
   graphical calculus" at Radboud University,

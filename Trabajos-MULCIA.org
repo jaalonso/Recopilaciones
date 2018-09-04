@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2018
 
++ 04-Sep-18: Research Fellow in Verification at the University of
+  Surrey, UK. http://bit.ly/2wEZEWN #PostDoc #CompSci 
+
 + 03-Sep-18: The Chair of Programming Methodology at ETH Zurich is
   recruiting PhD students and post-docs for several projects on program
   verification and static program analysis for program correctness and

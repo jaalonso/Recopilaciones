@@ -9,7 +9,15 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 ** 2018
 
-*** Septiembre 2018
+* Septiembre 2018
+
++ 09-Sep-18: Postdoc position in machine learning, programming languages
+  and software engineering at the IT University of Copenhagen.
+  http://bit.ly/2CI6no6 #PostDoc #CompSci 
+
++ 09-Sep-18: PhD positions in the INSIGHT project (Program Repair with
+  static insights”) at the IT University of Copenhagen.
+  http://bit.ly/2CI6IHo #PhD #CompSci  
 
 + 04-Sep-18: Research Fellow in Verification at the University of
   Surrey, UK. http://bit.ly/2wEZEWN #PostDoc #CompSci 

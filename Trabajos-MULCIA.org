@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 10-Sep-18: Postdoctoral position in biological programming languages,
+  Microsoft Research, Cambridge, UK. http://bit.ly/2wZHPRz #PostDoc
+  #CompSci 
+
 + 09-Sep-18: Postdoc position in machine learning, programming languages
   and software engineering at the IT University of Copenhagen.
   http://bit.ly/2CI6no6 #PostDoc #CompSci 

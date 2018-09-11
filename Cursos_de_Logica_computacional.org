@@ -25,6 +25,7 @@ http:////www.cs.cornell.edu/courses/CS4860/2016fa
 
 *** Universidad de Innsbruck
 + [[http://cl-informatik.uibk.ac.at/teaching/ws11/lics/content.php][Logic]]. ~ Aart Middeldorp et als.
++ [[http://cl-informatik.uibk.ac.at/teaching/ss18/satsmt/content.php][SAT/SMT solving]]. ~ [[http://cl-informatik.uibk.ac.at/users/swinkler][Sarah Winkler]].
 
 * Brasil
 

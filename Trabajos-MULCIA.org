@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 12-Sep-18: Post-doc position in the VeRDi (Verified Reconfiguration
+  Driven by execution) project at IMT Atlantique,
+  Nantes. http://bit.ly/2OdKYoa #PostDoc #CompSci 
+
++ 12-Sep-18: A position for a PhD student in the project “Sequent and
+  tableau-based systems for non-classical logics”. http://bit.ly/2OaQx6X
+  #PhD #Logic 
+
 + 10-Sep-18: Postdoctoral position in biological programming languages,
   Microsoft Research, Cambridge, UK. http://bit.ly/2wZHPRz #PostDoc
   #CompSci 

@@ -11,6 +11,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 13-Sep-18: Postdoc position in the APC (Accountable Protocol
+  Customization) project at the University of
+  Pennsylvania. http://bit.ly/2OfryiU #PostDoc #CompSci 
+
++ 13-Sep-18: The Joint Laboratory ProofInUse hires an experienced R&D
+  engineer (M/F) in the domain of Formal Methods for Software
+  Engineering. http://bit.ly/2OdjUWk #Job #CompSci 
+
 + 12-Sep-18: Post-doc position in the VeRDi (Verified Reconfiguration
   Driven by execution) project at IMT Atlantique,
   Nantes. http://bit.ly/2OdKYoa #PostDoc #CompSci 

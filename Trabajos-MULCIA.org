@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 17-Sep-18: Postdoctoral position in deep learning + formal methods at
+  Rice University. http://bit.ly/2QIAcYW #PostDoc #CompSci 
+
 + 17-Sep-18: PhD student position in theoretical computer science,
   Coventry (England). http://bit.ly/2QBOGtu #PhD #CompSci 
 

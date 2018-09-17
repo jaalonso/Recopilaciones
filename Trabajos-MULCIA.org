@@ -11,6 +11,20 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 17-Sep-18: PhD student position in theoretical computer science,
+  Coventry (England). http://bit.ly/2QBOGtu #PhD #CompSci 
+
++ 17-Sep-18: PhD student in AI & Logic, Toulouse
+  (France). http://bit.ly/2QEbngq #PhD #CompSci #AI #Logic 
+
++ 14-Sep-18: PhD and Postdoc positions in the SMART (Strong Modular
+  Proof Assistance Reasoning Across Theories) project at the University
+  of Innsbruck. http://bit.ly/2NeBzAj #PhD #PostDoc #CompSci 
+
++ 14-Sep-18: PhD position in ERC Project “The Roots of Mathematical
+  Structuralism“, University of Vienna. http://bit.ly/2NaDQwC #PhD
+  #Logic #Math 
+
 + 13-Sep-18: Postdoc position in the APC (Accountable Protocol
   Customization) project at the University of
   Pennsylvania. http://bit.ly/2OfryiU #PostDoc #CompSci 

@@ -100,6 +100,7 @@ Está ordenada por países y universidades.
 
 *** Universidad de Nica
 + [[https://team.inria.fr/marelle/en/coq-winter-school-2017/][Coq Winter School 2017]].
++ [[https://www-sop.inria.fr/members/Yves.Bertot/videos-coq/index.html][Cours vidéo de Coq]]. ~ Y. Bertot. #ITP #Coq
 
 *** Universidad de Rennes 1
 + [[http://www.irisa.fr/celtique/genet/ACF/][Analyse et conception formelles]]. ~ [[http://www.irisa.fr/celtique/genet][T. Genet]].

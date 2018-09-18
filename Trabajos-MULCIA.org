@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 18-Sep-18: PhD position in natural language processing for automated
+  program repair - University of York. http://bit.ly/2MNdvja  #PhD
+  #CompSci 
+
++ 18-Sep-18: Postdoctoral researcher in automated program repair and
+  natural language processing - University of York,
+  UK. http://bit.ly/2MIpCxL #PostDoc #CompSci 
+
++ 18-Sep-18: PhD student positions in programming language technology
+  for security and privacy at Chalmers University of
+  Technology. http://bit.ly/2MDZnsk  #PhD #CompSci 
+
++ 18-Sep-18: PhD position in ERC Project “The Roots of Mathematical
+  Structuralism“, University of Vienna. http://bit.ly/2MIlwph #PhD
+  #Logic #Math 
+
 + 17-Sep-18: Postdoctoral position in deep learning + formal methods at
   Rice University. http://bit.ly/2QIAcYW #PostDoc #CompSci 
 

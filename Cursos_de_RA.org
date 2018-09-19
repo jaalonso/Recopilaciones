@@ -98,7 +98,11 @@ Está ordenada por países y universidades.
 
 * Francia
 
-*** Universidad de Nica
+*** Universidad de Lille1
+
++ [[https://staff.aist.go.jp/reynald.affeldt/coq/][Introduction à l'assistant de preuve Coq]]. ~  [[https://staff.aist.go.jp/reynald.affeldt/][R. Affeldt]] 
+
+*** Universidad de Niza
 + [[https://team.inria.fr/marelle/en/coq-winter-school-2017/][Coq Winter School 2017]].
 + [[https://www-sop.inria.fr/members/Yves.Bertot/videos-coq/index.html][Cours vidéo de Coq]]. ~ Y. Bertot. 
 + [[http://www-sop.inria.fr/members/Yves.Bertot/coq-master1.html][Preuves assistées par ordinateur à l'aide de Coq]].  ~ Y. Bertot.

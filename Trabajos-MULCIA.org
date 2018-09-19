@@ -11,6 +11,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 19-Sep-18: Two postdoctoral positions in SAT and CP, Singapore
+  (Singapore). http://bit.ly/2xlM3Ei #PostDoc #CompSci 
+
++ 19-Sep-18: PhD student position in programming languages and formal
+  proofs, Palaiseau (France). http://bit.ly/2xlNXVs #PhD #CompSci  
+
++ 19-Sep-18: PhD student position in non-classical logics, Lodz
+  (Poland. http://bit.ly/2PNzUyw #PhD #Logic #CompSci 
+
++ 19-Sep-18: PhD student position on reasoning about auctions, Toulouse
+  (France). http://bit.ly/2PPgcT7 #PhD #CompSci 
+
 + 18-Sep-18: PhD position in natural language processing for automated
   program repair - University of York. http://bit.ly/2MNdvja  #PhD
   #CompSci 

@@ -11,6 +11,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 21-Sep-18: PhD student position in computational social choice,
+  Toulouse (France). http://bit.ly/2OHjwj8 #PhD #CompSci 
+
++ 20-Sep-18: PhD position "Efficient and natural proofs and algorithms"
+  at University of Bath. http://bit.ly/2Nu3I6u #PhD #CompSci 
+
 + 19-Sep-18: Two postdoctoral positions in SAT and CP, Singapore
   (Singapore). http://bit.ly/2xlM3Ei #PostDoc #CompSci 
 

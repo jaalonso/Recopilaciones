@@ -11,6 +11,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Septiembre 2018
 
++ 26-Sep-18: Post-doctoral position "Typed lambda-calculi with sharing
+  and unsharing" at University of Bath. http://bit.ly/2NDPaBs #PostDoc
+  #CompSci 
+
 + 21-Sep-18: PhD student position in computational social choice,
   Toulouse (France). http://bit.ly/2OHjwj8 #PhD #CompSci 
 

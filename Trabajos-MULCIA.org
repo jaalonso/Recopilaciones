@@ -15,6 +15,10 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
   artificial intelligence. IIIA-CSIC, Barcelona. https://yhoo.it/2zUqegA
   #PhD #CompSci #IA 
 
++ 06-Oct-18: Postdoc in classical and quantum computing at IRIF
+  (previously LIAFA), Paris, France. http://bit.ly/2BZ4aTs #PostDoc
+  #CompSci 
+
 *** Septiembre 2018
 
 + 26-Sep-18: Doctoral student in system security and formal methods at KTH

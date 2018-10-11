@@ -11,6 +11,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 11-Oct-18: PostDoc positions at Inria Paris on F* and on formally
+  secure compilation. http://bit.ly/2C8uSZW #PostDoc #CompSci 
+
 + 06-Oct-18: Pre-doctoral research position on embodied cognition and
   artificial intelligence. IIIA-CSIC, Barcelona. https://yhoo.it/2zUqegA
   #PhD #CompSci #IA 
@@ -21,7 +24,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 *** Septiembre 2018
 
-+ 26-Sep-18: Doctoral student in system security and formal methods at KTH
++ 26-Sep-18: Doctoral student in system security and formal methods at KTH2
   Royal Institute of Technology. http://bit.ly/2DvWb2H #PhD #CompSci 
 
 + 26-Sep-18: Post-doc position on gradually-typed programming languages at

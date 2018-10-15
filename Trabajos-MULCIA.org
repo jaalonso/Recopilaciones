@@ -11,6 +11,11 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 15-Oct-18: Caltech's Center for the Mathematics of Information (CMI)
+  announces openings in the CMI Postdoctoral Fellowship Program, for
+  positions beginning in Fall 2019. http://bit.ly/2P3O2H4 #PostDoc #Math
+  #CompSci  
+
 + 11-Oct-18: PostDoc positions at Inria Paris on F* and on formally
   secure compilation. http://bit.ly/2C8uSZW #PostDoc #CompSci 
 

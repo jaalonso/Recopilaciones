@@ -11,6 +11,24 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 18-Oct-18: Vacancies: PhD positions - Semantic Technologies. Ghent
+  University, Belgium. http://bit.ly/2P2T7zH #PhD #CompSci 
+
++ 18-Oct-19: PhD Scholarship in Artificial Intelligence on
+  diversity-aware interaction models. The Artificial Intelligence
+  Research Institute (IIIA-CSIC). https://yhoo.it/2P8c0RF #PhD #CompSci
+  #Ai  
+
++ 18-Oct-18: PostDoc position at UCLouvain in formal verificaion,
+  privacy, and security. http://bit.ly/2P4bRia #PostDoc #CompSci 
+
++ 18-Oct-18: The Rigorous Software Engineering group of the Max Planck
+  Institute for Software Systems is inviting applications for two
+  postdoctoral research scholars. http://bit.ly/2P8Oxjc #PosDoc #CompSci 
+
++ 18-Oct-18: PostDoc positions at Inria Paris on F* and on formally
+  secure compilation. http://bit.ly/2C8uSZW #PostDoc #CompSci 
+
 + 15-Oct-18: Caltech's Center for the Mathematics of Information (CMI)
   announces openings in the CMI Postdoctoral Fellowship Program, for
   positions beginning in Fall 2019. http://bit.ly/2P3O2H4 #PostDoc #Math

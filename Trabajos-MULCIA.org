@@ -11,6 +11,22 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 20-Oct-18: PhD student positions in Functional Programming for
+  guaranteed  security in the Internet of Things. Chalmers University of
+  Technology. http://bit.ly/2EBurKy #PhD #CompSci #FunctionalProgramming 
+
++ 20-Oct-18: Postdoc position on side-channel analysis and avoidance in
+  Hardware (Chalmers University of Technology). http://bit.ly/2PeQfzA
+  #PostDoc #CompSci 
+
++ 20-Oct-18: PhD student in Geometric Deep Learning at Chalmers
+  University of Technology. http://bit.ly/2PeecHl #PhD #CompSci
+  #DeepLearning 
+
++ 20-Oct-18: Ph.D. student position in foundations of artificial
+  intelligence and machine learning (Chalmers University of
+  Technology). http://bit.ly/2PbqGzl #PhD #CompSci #AI #ML 
+
 + 18-Oct-18: Vacancies: PhD positions - Semantic Technologies. Ghent
   University, Belgium. http://bit.ly/2P2T7zH #PhD #CompSci 
 

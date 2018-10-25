@@ -11,6 +11,19 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 25-Oct-18: Michael O. Rabin postdoctoral fellowship in theoretical
+  computer science. Harvard University. http://bit.ly/2Pq6nyA #PostDoc
+  #CompSci  
+
++ 25-Oct-18: Postdoc on the subject of Towards a Quantitative Theory of
+  Integer Programming at CWI. http://bit.ly/2Jgjahq #PostDoc #CompSci 
+
++ 25-Oct-18: Postdoctoral positions in foundations of computer sciences,
+  Paris (France). http://bit.ly/2Jh6Zkz #PostDoc #CompSci 
+
++ 25-Oct-18: PhD student position in theoretical computer science,
+  Kassel (Germany). http://bit.ly/2Jg1TVw #PhD #CompSci 
+
 + 20-Oct-18: PhD student positions in Functional Programming for
   guaranteed  security in the Internet of Things. Chalmers University of
   Technology. http://bit.ly/2EBurKy #PhD #CompSci #FunctionalProgramming 
@@ -33,7 +46,7 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 + 18-Oct-19: PhD Scholarship in Artificial Intelligence on
   diversity-aware interaction models. The Artificial Intelligence
   Research Institute (IIIA-CSIC). https://yhoo.it/2P8c0RF #PhD #CompSci
-  #Ai  
+  #AI  
 
 + 18-Oct-18: PostDoc position at UCLouvain in formal verificaion,
   privacy, and security. http://bit.ly/2P4bRia #PostDoc #CompSci 

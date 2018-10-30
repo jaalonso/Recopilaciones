@@ -59,6 +59,10 @@ Está ordenada por países y universidades.
 ** Universidad de Princeton
 + [[https://www.cs.princeton.edu/~dpw/cos441-11/index.html][Programming languages]]. ~ [[http://www.cs.princeton.edu/~dpw/][D. Walker]].
 
+** Universidad de Siracusa
+
++ [[http://www.cis.syr.edu/~sueo/cis252/][Introduction to Computer Science]] ~ [[http://www.cis.syr.edu/~sueo/][Susan Older]]
+
 ** Universidad de Stanford
 + [[http://www.scs.stanford.edu/14sp-cs240h][Functional systems in Haskell]]. D. Mazières y B. O'Sullivan.
 

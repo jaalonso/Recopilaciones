@@ -11,6 +11,16 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Octubre 2018
 
++ 31-Oct-18: Postdoc position on the Mercedes project in Twente
+  (Netherlands): Maximal reliability of concurrent and distributed
+  software. http://bit.ly/2RtMWCl #PostDoc #CompSci  
+
++ 31- Oct-18: Postdoctoral positions in foundations of computer
+  sciences, Paris (France). http://bit.ly/2PykotZ #PostDoc #CompSci 
+
++ 31-Oct-18: PhD student position in theoretical computer science,
+  Kassel (Germany). http://bit.ly/2Jg1TVw #PhD #CompSci 
+
 + 26-Oct-18: Marie Curie Early Stage Research PhD at University of
   York. http://bit.ly/2Jp6jK1 #PhD #CompSci #IsabelleHOL 
 

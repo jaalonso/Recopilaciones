@@ -12,6 +12,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 11-Nov-18: Post-doctoral fellow position in Computer Science on formal
+  methods and model-driven software engineering. Western Norway
+  University. http://bit.ly/2DfnuMY #PostDoc #CompSci 
+
++ 11-Nov-18: Postdoc position: Symbolic tools for the formal
+  verification of cryptographic protocols at the Inria Nancy / LORIA
+  research center. http://bit.ly/2DegU9k #PostDoc #CompSci 
+
 + 08-Nov-18: Multiple Postdoc positions at Nanyang Technological
   University on verification. http://bit.ly/2PMVG9l #PostDoc #CompSci
   #ITP 

@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 13-Nov-18: Data61 hiring Proof Engineers. http://bit.ly/2Q0Ps60 #Jobs
+  #CompSci #ITP 
+
++ 13-Nov-18: Research scientist/senior research scientist in formal
+  verification. http://bit.ly/2PVafYq #PostDoc #CompSci #ITP
+
 + 11-Nov-18: Post-doctoral fellow position in Computer Science on formal
   methods and model-driven software engineering. Western Norway
   University. http://bit.ly/2DfnuMY #PostDoc #CompSci 

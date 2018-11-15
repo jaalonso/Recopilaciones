@@ -12,6 +12,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 15-Nov-18: PhD position in rewriting for fault trees at the Radboud
+  University Nijmegen. http://bit.ly/2DkvL29 #PhD #CompSci 
+
++ 15-Nov-18: 12-week internships for PhD students at Google, New York NY
+  in the areas of machine learning, optimization, deep learning,
+  computer vision and related fields. http://bit.ly/2DmjwlE #PhD
+  #CompSci 
+
 + 13-Nov-18: Data61 hiring Proof Engineers. http://bit.ly/2Q0Ps60 #Jobs
   #CompSci #ITP 
 

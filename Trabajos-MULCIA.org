@@ -12,6 +12,12 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 16-Nov-18: BedRock Systems is Hiring Formal Methods
+  Engineers. http://bit.ly/2PYNeUE #Jobs #CompSci #ITP 
+
++ 16-Nov-18: 2-year postdoc position on
+  Frama-C/E-ACSL. http://bit.ly/2PXwm0s #PostDoc #CompSci 
+
 + 15-Nov-18: PhD position in rewriting for fault trees at the Radboud
   University Nijmegen. http://bit.ly/2DkvL29 #PhD #CompSci 
 

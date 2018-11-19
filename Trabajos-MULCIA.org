@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 19-Nov-18: The Trustworthy Systems team is hiring proof
+  engineers. http://bit.ly/2Dz6jWX #Job #CompSci #ITP 
+
 + 16-Nov-18: A PhD position on Leveraging Automatic Deduction for
   Verification is immediately available at Inria Nancy, co-funded by the
   Matryoshka ERC Starting Grant and the Region

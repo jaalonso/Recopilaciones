@@ -12,6 +12,18 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 22-Nov-18: Research positions in cryptography, blockchain, and formal
+  verification at Aarhus. http://bit.ly/2DBNpyt #PhD #PostDoc #CompSci
+  #ITP 
+
++ 20-Nov-18: Postdoc and  PhD positions in ERC Project “RustBelt:
+  logical foundations for the future of safe systems programming“. Max
+  Planck Institute for Software Systems (MPI-SWS) http://bit.ly/2DxOwiC
+  #PhD #PostDoc #CompSci #ITP 
+
++ 20-Nov-18: Job Opportunity at D-RisQ. http://bit.ly/2Q2639p #Job
+  #CompSci #ITP 
+
 + 19-Nov-18: The Trustworthy Systems team is hiring proof
   engineers. http://bit.ly/2Dz6jWX #Job #CompSci #ITP 
 

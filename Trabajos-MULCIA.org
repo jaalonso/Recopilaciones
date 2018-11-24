@@ -12,6 +12,14 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 24-Nov-18: Post-doc positions at LRI - U. Paris Saclay: quantum
+  computation, formal methods, numerical methods. http://bit.ly/2DDvozX
+  #PostDoc #CompSci 
+
++ 24-Nov-18: Up to 3 PhD student positions on programming languages and
+  systems for security and privacy at Chalmers. http://bit.ly/2DHePmy
+  #PhD #CompSci 
+
 + 22-Nov-18: Postdoctoral fellowship on SAT modulo ODE at ENSTA
   Paristech. http://bit.ly/2QbFhLO #PostDoc #CompSci 
 

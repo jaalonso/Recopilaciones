@@ -12,6 +12,9 @@ en la [[https://listas.us.es/mailman/listinfo/master_mulcia][lista de correo del
 
 * Noviembre 2018
 
++ 30-Nov-18: Postdoc position in quantum programming languages at
+  Tulane. http://bit.ly/2DSVsHu #PostDoc #CompSci 
+
 + 29-Nov-18: Internship at Oracle Labs in Boston to work at the
   intersection of learning theory and formal
   verification. http://bit.ly/2DQsqbl #Job #CompSci #MachineLearning

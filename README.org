@@ -1,13 +1,15 @@
-El contenido de este directorio el siguiente:
+Este repositorio contenía una colección de recopilaciones que se han
+movido a repositorios propios.
 
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_Logica_computacional.org][Cursos de lógica computacional]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_Haskell.org][Cursos de programación funcional con Haskell]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_OCaml.org][Cursos de programación funcional con OCaml]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PF_con_Scala.org][Cursos de programación funcional con Scala]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_PL_con_Prolog.org][Cursos de programación lógica con Prolog]].
-+ [[./Cursos_de_ASP.org][Cursos de ASP]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_programacion.org][Cursos de programación]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_RA.org][Cursos de razonamiento automático y demostración asistida por ordenador]].
-+ [[https://github.com/jaalonso/Recopilaciones/blob/master/Trabajos-MULCIA.org][Trabajos-MULCIA]]: Ofertas de trabajo de interés para los estudiantes del
+Las recopilaciones son:
++ [[https://github.com/jaalonso/Cursos_de_Logica_computacional][Cursos de lógica computacional]].
++ [[https://github.com/jaalonso/Cursos_de_PF_con_Haskell][Cursos de programación funcional con Haskell]].
++ [[https://github.com/jaalonso/Cursos_de_PF_con_OCaml][Cursos de programación funcional con OCaml]].
++ [[https://github.com/jaalonso/Cursos_de_PF_con_Scala][Cursos de programación funcional con Scala]].
++ [[https://github.com/jaalonso/Cursos_de_PL_con_Prolog][Cursos de programación lógica con Prolog]].
++ [[https://github.com/jaalonso/Cursos_de_ASP][Cursos de ASP]].
++ [[https://github.com/jaalonso/Cursos_de_programacionhttps://github.com/jaalonso/Recopilaciones/blob/master/Cursos_de_programacion.org][Cursos de programación]].
++ [[https://github.com/jaalonso/Cursos_de_RA][Cursos de razonamiento automático y demostración asistida por ordenador]].
++ [[https://github.com/jaalonso/Trabajos-MULCIA][Trabajos-MULCIA]]: Ofertas de trabajo de interés para los estudiantes del
   Máster Universitario en Lógica, Computación e Inteligencia Artificial de la
   Universidad de Sevilla.

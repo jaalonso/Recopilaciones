@@ -1,6 +1,6 @@
 Este repositorio contenía una colección de recopilaciones que se han
 movido a repositorios propios.
-
+ 
 Las recopilaciones son:
 + [[https://github.com/jaalonso/Cursos_de_Logica_computacional][Cursos de lógica computacional]].
 + [[https://github.com/jaalonso/Cursos_de_PF_con_Haskell][Cursos de programación funcional con Haskell]].
